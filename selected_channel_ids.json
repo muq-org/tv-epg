@@ -10,8 +10,13 @@
     "name": "3sat"
   },
   {
+    "api-id": "71",
+    "epg-id": "canal24horas.es",
+    "name": "Canal 24 Horas"
+  },
+  {
     "api-id": "14",
-    "epg-id": "aljazeera.com",
+    "epg-id": "aljazeera.ch",
     "name": "Al Jazeera"
   },
   {
@@ -41,12 +46,12 @@
   },
   {
     "api-id": "170",
-    "epg-id": "Eurosport 2 D.ch",
+    "epg-id": "eurosport2.de",
     "name": "Eurosport 2 D"
   },
   {
     "api-id": "217",
-    "epg-id": "CNEWS.fr",
+    "epg-id": "cnews.fr",
     "name": "CNEWS"
   },
   {
@@ -91,7 +96,7 @@
   },
   {
     "api-id": "330",
-    "epg-id": "Rai 4.ch",
+    "epg-id": "Rai4.it",
     "name": "Rai 4"
   },
   {
@@ -131,7 +136,7 @@
   },
   {
     "api-id": "392",
-    "epg-id": "Sky Sport 2.ch",
+    "epg-id": "SkySport2.de",
     "name": "Sky Sport 2"
   },
   {
@@ -146,7 +151,7 @@
   },
   {
     "api-id": "401",
-    "epg-id": "SRF zwei.ch",
+    "epg-id": "SRF2.ch",
     "name": "SRF zwei"
   },
   {
@@ -198,6 +203,11 @@
     "api-id": "634",
     "epg-id": "tv24.ch",
     "name": "TV24"
+  },
+  {
+    "api-id": "639",
+    "epg-id": "tveinternacional.es",
+    "name": "TVE Internacional"
   },
   {
     "api-id": "651",
@@ -276,62 +286,62 @@
   },
   {
     "api-id": "1572",
-    "epg-id": "Sky Bundesliga 2.ch",
+    "epg-id": "Sky Bundesliga 2.de",
     "name": "Sky Bundesliga 2"
   },
   {
     "api-id": "1573",
-    "epg-id": "Sky Bundesliga 3.ch",
+    "epg-id": "Sky Bundesliga 3.de",
     "name": "Sky Bundesliga 3"
   },
   {
     "api-id": "1574",
-    "epg-id": "Sky Bundesliga 4.ch",
+    "epg-id": "Sky Bundesliga 4.de",
     "name": "Sky Bundesliga 4"
   },
   {
     "api-id": "1576",
-    "epg-id": "Sky Bundesliga 5.ch",
+    "epg-id": "Sky Bundesliga 5.de",
     "name": "Sky Bundesliga 5"
   },
   {
     "api-id": "1577",
-    "epg-id": "Sky Bundesliga 6.ch",
+    "epg-id": "Sky Bundesliga 6.de",
     "name": "Sky Bundesliga 6"
   },
   {
     "api-id": "1578",
-    "epg-id": "Sky Bundesliga 7.ch",
+    "epg-id": "Sky Bundesliga 7.de",
     "name": "Sky Bundesliga 7"
   },
   {
     "api-id": "1579",
-    "epg-id": "Sky Bundesliga 8.ch",
+    "epg-id": "Sky Bundesliga 8.de",
     "name": "Sky Bundesliga 8"
   },
   {
     "api-id": "1580",
-    "epg-id": "Sky Bundesliga 9.ch",
+    "epg-id": "Sky Bundesliga 9.de",
     "name": "Sky Bundesliga 9"
   },
   {
     "api-id": "1581",
-    "epg-id": "Sky Bundesliga 10.ch",
+    "epg-id": "Sky Bundesliga 10.de",
     "name": "Sky Bundesliga 10"
   },
   {
     "api-id": "1591",
-    "epg-id": "Sky Bundesliga 1.ch",
+    "epg-id": "Sky Bundesliga 1.de",
     "name": "Sky Bundesliga 1"
   },
   {
     "api-id": "1598",
-    "epg-id": "Sky Sport 1 D.ch",
+    "epg-id": "Sky Sport 1 D.de",
     "name": "Sky Sport 1 D"
   },
   {
     "api-id": "1608",
-    "epg-id": "Sky Sport 2 D.ch",
+    "epg-id": "Sky Sport 2 D.de",
     "name": "Sky Sport 2 D"
   },
   {
@@ -351,17 +361,17 @@
   },
   {
     "api-id": "1962",
-    "epg-id": "Sky Sport Bundesliga.ch",
+    "epg-id": "Sky Sport Bundesliga.de",
     "name": "Sky Sport Bundesliga"
   },
   {
     "api-id": "3456",
-    "epg-id": "Sky Sport 1.ch",
+    "epg-id": "Sky Sport 1.de",
     "name": "Sky Sport 1"
   },
   {
     "api-id": "3660",
-    "epg-id": "Sky Sport News.ch",
+    "epg-id": "Sky Sport News.de",
     "name": "Sky Sport News"
   }
 ]
