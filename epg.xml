@@ -1,0 +1,2840 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="1000">
+    <display-name>blue Sport 1 Live D</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="1000">
+    <title>FC Sion - FC St.Gallen 1879</title>
+  </programme>
+  <programme start="20260321221500 +0000" stop="20260322020000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
+  <channel id="1001">
+    <display-name>blue Sport 1 direct F</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="1001">
+    <title>FC Sion - FC St-Gall 1879</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
+  <channel id="1221">
+    <display-name>blue Zoom D</display-name>
+  </channel>
+  <programme start="20260321065500 +0000" stop="20260321095500 +0000" channel="1221">
+    <title>Fussball: FC Bayern München - Atalanta BC</title>
+  </programme>
+  <programme start="20260321095500 +0000" stop="20260321103000 +0000" channel="1221">
+    <title>Fussball: Matchnight - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321103000 +0000" stop="20260321110000 +0000" channel="1221">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1221">
+    <title>Mountainbike: Absa Cape Epic</title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321115500 +0000" channel="1221">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260321115500 +0000" stop="20260321140000 +0000" channel="1221">
+    <title>Fussball: FC Barcelona - Newcastle United FC</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="1221">
+    <title>Live: Formel E Weltmeisterschaft</title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1221">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="1221">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="1221">
+    <title>Der Countdown - Brack Super League</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1221">
+    <title>GO! Das Schweizer Mobilitätsmagazin</title>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="1221">
+    <title>Garagengold</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="1221">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="1221">
+    <title>On the Rocks: Gabirano</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321193500 +0000" channel="1221">
+    <title>LÄSSER – Die Talkshow</title>
+  </programme>
+  <programme start="20260321193500 +0000" stop="20260321210500 +0000" channel="1221">
+    <title>Formel E Weltmeisterschaft</title>
+  </programme>
+  <programme start="20260321210500 +0000" stop="20260321214500 +0000" channel="1221">
+    <title>GO! Das Schweizer Mobilitätsmagazin</title>
+  </programme>
+  <programme start="20260321214500 +0000" stop="20260321221000 +0000" channel="1221">
+    <title>Alle Spiele, alle Tore - Brack Super League</title>
+  </programme>
+  <programme start="20260321221000 +0000" stop="20260321224000 +0000" channel="1221">
+    <title>LÄSSER – Die Talkshow</title>
+  </programme>
+  <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="1221">
+    <title>Mountainbike: Absa Cape Epic</title>
+  </programme>
+  <programme start="20260321231000 +0000" stop="20260322010500 +0000" channel="1221">
+    <title>Fussball: West Ham United - Manchester United</title>
+  </programme>
+  <programme start="20260322010500 +0000" stop="20260322034500 +0000" channel="1221">
+    <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260322034500 +0000" stop="20260322054500 +0000" channel="1221">
+    <title>Fussball: Aston Villa FC - LOSC Lille</title>
+  </programme>
+  <programme start="20260322054500 +0000" stop="20260322061500 +0000" channel="1221">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260322061500 +0000" stop="20260322081000 +0000" channel="1221">
+    <title>Fussball: West Ham United - Manchester United</title>
+  </programme>
+  <programme start="20260322081000 +0000" stop="20260322084000 +0000" channel="1221">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260322084000 +0000" stop="20260322110000 +0000" channel="1221">
+    <title>Fussball: Chelsea FC - Manchester United</title>
+  </programme>
+  <channel id="1226">
+    <display-name>blue Retro</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321103500 +0000" channel="1226">
+    <title>Patient mit Dachschaden</title>
+  </programme>
+  <programme start="20260321103500 +0000" stop="20260321123000 +0000" channel="1226">
+    <title>Wehrlos - Die Tochter des Generals</title>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321141000 +0000" channel="1226">
+    <title>Der Prügelknabe</title>
+  </programme>
+  <programme start="20260321141000 +0000" stop="20260321155000 +0000" channel="1226">
+    <title>Der tollkühne Jockey</title>
+  </programme>
+  <programme start="20260321155000 +0000" stop="20260321171500 +0000" channel="1226">
+    <title>Free Willy 3: Die Rettung</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321191500 +0000" channel="1226">
+    <title>xXx - Triple X</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321204500 +0000" channel="1226">
+    <title>Men in Black II</title>
+  </programme>
+  <programme start="20260321204500 +0000" stop="20260321221500 +0000" channel="1226">
+    <title>Von Löwen und Lämmern</title>
+  </programme>
+  <programme start="20260321221500 +0000" stop="20260322000000 +0000" channel="1226">
+    <title>Star Trek III - Auf der Suche nach Mr. Spock</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322013500 +0000" channel="1226">
+    <title>Event Horizon: Am Rande des Universums</title>
+  </programme>
+  <programme start="20260322013500 +0000" stop="20260322033000 +0000" channel="1226">
+    <title>Wehrlos - Die Tochter des Generals</title>
+  </programme>
+  <programme start="20260322033000 +0000" stop="20260322051000 +0000" channel="1226">
+    <title>Der tollkühne Jockey</title>
+  </programme>
+  <programme start="20260322051000 +0000" stop="20260322071000 +0000" channel="1226">
+    <title>xXx - Triple X</title>
+  </programme>
+  <programme start="20260322071000 +0000" stop="20260322085500 +0000" channel="1226">
+    <title>Star Trek III - Auf der Suche nach Mr. Spock</title>
+  </programme>
+  <programme start="20260322085500 +0000" stop="20260322103000 +0000" channel="1226">
+    <title>Event Horizon: Am Rande des Universums</title>
+  </programme>
+  <channel id="1249">
+    <display-name>blue Sport 2 Live D</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321162500 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="1249">
+    <title>UHD HDR  FC Zürich - FC Thun</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="1249">
+    <title>blue Sport 2 Live D</title>
+  </programme>
+  <channel id="1250">
+    <display-name>blue Sport 3 Live D</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321162500 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="1250">
+    <title>UHD HDR  Servette FC - Grasshopper Club Zürich</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="1250">
+    <title>blue Sport 3 Live D</title>
+  </programme>
+  <channel id="1251">
+    <display-name>blue Sport 2 direct F</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321164000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="1251">
+    <title>UHD HDR  FC Zurich - FC Thoune</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="1251">
+    <title>blue Sport 2 direct F</title>
+  </programme>
+  <channel id="1252">
+    <display-name>blue Sport 3 direct F</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321164000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="1252">
+    <title>UHD HDR  Servette FC - Grasshopper Club Zürich</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="1252">
+    <title>blue Sport 3 direct F</title>
+  </programme>
+  <channel id="1354">
+    <display-name>blue Sport 22 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="1354">
+    <title>blue Sport 22 direct</title>
+  </programme>
+  <channel id="1355">
+    <display-name>blue Sport 23 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="1355">
+    <title>blue Sport 23 direct</title>
+  </programme>
+  <channel id="1356">
+    <display-name>blue Sport 21 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="1356">
+    <title>blue Sport 21 direct</title>
+  </programme>
+  <channel id="1357">
+    <display-name>blue Sport 24 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="1357">
+    <title>blue Sport 24 direct</title>
+  </programme>
+  <channel id="1358">
+    <display-name>blue Sport 25 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="1358">
+    <title>blue Sport 25 direct</title>
+  </programme>
+  <channel id="1440">
+    <display-name>blue Sport 4 Live D</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="1440">
+    <title>UHD HDR  FC Sion - FC St.Gallen 1879</title>
+  </programme>
+  <programme start="20260321221500 +0000" stop="20260322020000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
+  <channel id="1441">
+    <display-name>blue Sport 4 direct F</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="1441">
+    <title>UHD HDR  FC Sion - FC St-Gall 1879</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
+  <channel id="1543">
+    <display-name>MySports Eins</display-name>
+  </channel>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321153000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321170000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1543">
+    <title>NHL On The Fly</title>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321173500 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321173500 +0000" stop="20260321175500 +0000" channel="1543">
+    <title>Inside plus</title>
+    <sub-title>Lawrence Pilut - aufgeben gibt's nicht</sub-title>
+  </programme>
+  <programme start="20260321175500 +0000" stop="20260321182500 +0000" channel="1543">
+    <title>Inside plus</title>
+    <sub-title>Denis Malgin - der stille Meistermacher</sub-title>
+  </programme>
+  <programme start="20260321182500 +0000" stop="20260321211500 +0000" channel="1543">
+    <title>National League: Playoff-Viertelfinale, Spiel 1: ZSC Lions - HC Lugano</title>
+  </programme>
+  <programme start="20260321211500 +0000" stop="20260321214500 +0000" channel="1543">
+    <title>National League</title>
+    <sub-title>die Playoff-Highlights</sub-title>
+  </programme>
+  <programme start="20260321214500 +0000" stop="20260321223500 +0000" channel="1543">
+    <title>Lara Stalder - Powerplay fürs Frauen-Eishockey</title>
+  </programme>
+  <programme start="20260321223500 +0000" stop="20260321224000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Spieltag-Highlights</title>
+    <sub-title>die Playoff-Highlights</sub-title>
+  </programme>
+  <programme start="20260321231000 +0000" stop="20260321233000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322003000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322093000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1543">
+    <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <channel id="1544">
+    <display-name>MySports 2 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1544">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321160500 +0000" channel="1544">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321160500 +0000" stop="20260322000500 +0000" channel="1544">
+    <title>National League</title>
+    <sub-title>Spielübersicht</sub-title>
+  </programme>
+  <programme start="20260322000500 +0000" stop="20260322032000 +0000" channel="1544">
+    <title>National League</title>
+    <sub-title>Spielübersicht</sub-title>
+  </programme>
+  <programme start="20260322032000 +0000" stop="20260322050000 +0000" channel="1544">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1544">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322115000 +0000" channel="1544">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1545">
+    <display-name>MySports 3 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1545">
+    <title>National League: Playoff-Viertelfinale, Spiel 1: Genève-Servette HC - Lausanne HC</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1545">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1546">
+    <display-name>MySports 4 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1546">
+    <title>National League: Playoff-Viertelfinale, Spiel 1: ZSC Lions - HC Lugano</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1546">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1547">
+    <display-name>MySports 5 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1547">
+    <title>National League: Playout Finale, Spiel 1: HC Ambrì-Piotta - HC Ajoie</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1547">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1548">
+    <display-name>MySports 6 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321162000 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321162000 +0000" stop="20260321202500 +0000" channel="1548">
+    <title>PostFinance Women's League: Playoff-Finale, Spiel 1: EV Zug Women - SC Bern Frauen</title>
+  </programme>
+  <programme start="20260321202500 +0000" stop="20260322002500 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322002500 +0000" stop="20260322050000 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1548">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1549">
+    <display-name>MySports 7 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321200500 +0000" channel="1549">
+    <title>NHL: Pittsburgh Penguins - Winnipeg Jets</title>
+  </programme>
+  <programme start="20260321200500 +0000" stop="20260322000500 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322000500 +0000" stop="20260322040500 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322040500 +0000" stop="20260322050000 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1549">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1550">
+    <display-name>MySports 8 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321210500 +0000" channel="1550">
+    <title>NHL: Minnesota Wild - Dallas Stars</title>
+  </programme>
+  <programme start="20260321210500 +0000" stop="20260322010500 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322010500 +0000" stop="20260322050000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050500 +0000" stop="20260322090000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1550">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1551">
+    <display-name>MySports 9 D</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321193000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321220000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1551">
+    <title>Sendepause</title>
+  </programme>
+  <channel id="1557">
+    <display-name>MySports Un</display-name>
+  </channel>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321153000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321170000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1557">
+    <title>NHL On The Fly</title>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321173500 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321173500 +0000" stop="20260321175000 +0000" channel="1557">
+    <title>Weird NHL</title>
+    <sub-title>Vol. 125</sub-title>
+  </programme>
+  <programme start="20260321175000 +0000" stop="20260321181000 +0000" channel="1557">
+    <title>Weird NHL</title>
+  </programme>
+  <programme start="20260321181000 +0000" stop="20260321183500 +0000" channel="1557">
+    <title>Inside plus</title>
+    <sub-title>Lawrence Pilut - Abandonner : impossible !</sub-title>
+  </programme>
+  <programme start="20260321183500 +0000" stop="20260321211500 +0000" channel="1557">
+    <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
+  </programme>
+  <programme start="20260321211500 +0000" stop="20260321214500 +0000" channel="1557">
+    <title>National League</title>
+    <sub-title>Les highlights</sub-title>
+  </programme>
+  <programme start="20260321214500 +0000" stop="20260321220000 +0000" channel="1557">
+    <title>Inside plus</title>
+    <sub-title>La méthode Fischer : un coach suisse visionnaire</sub-title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321230000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260321233000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322003000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322093000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1557">
+    <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <channel id="1558">
+    <display-name>MySports 2 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1558">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321160500 +0000" channel="1558">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321160500 +0000" stop="20260322000500 +0000" channel="1558">
+    <title>National League</title>
+    <sub-title>Aperçu des rencontres</sub-title>
+  </programme>
+  <programme start="20260322000500 +0000" stop="20260322032000 +0000" channel="1558">
+    <title>National League</title>
+    <sub-title>Aperçu des rencontres</sub-title>
+  </programme>
+  <programme start="20260322032000 +0000" stop="20260322050000 +0000" channel="1558">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1558">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322115000 +0000" channel="1558">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1559">
+    <display-name>MySports 3 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1559">
+    <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1559">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1560">
+    <display-name>MySports 4 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1560">
+    <title>National League: Playoffs, quarts de finale, acte 1 : ZSC Lions - HC Lugano</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1560">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1561">
+    <display-name>MySports 5 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1561">
+    <title>National League: Finale Playout, acte 1 : HC Ambrì-Piotta - HC Ajoie</title>
+  </programme>
+  <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1561">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1562">
+    <display-name>MySports 6 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321162000 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321162000 +0000" stop="20260321202500 +0000" channel="1562">
+    <title>PostFinance Women's League: Playoffs, finale, acte 1 : EV Zug Women - SC Bern Frauen</title>
+  </programme>
+  <programme start="20260321202500 +0000" stop="20260322002500 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322002500 +0000" stop="20260322050000 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1562">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1563">
+    <display-name>MySports 7 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321200500 +0000" channel="1563">
+    <title>NHL: Pittsburgh Penguins - Winnipeg Jets</title>
+  </programme>
+  <programme start="20260321200500 +0000" stop="20260322000500 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322000500 +0000" stop="20260322040500 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322040500 +0000" stop="20260322050000 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1563">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1564">
+    <display-name>MySports 8 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321210500 +0000" channel="1564">
+    <title>NHL: Minnesota Wild - Dallas Stars</title>
+  </programme>
+  <programme start="20260321210500 +0000" stop="20260322010500 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322010500 +0000" stop="20260322050000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050500 +0000" stop="20260322090000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1564">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1565">
+    <display-name>MySports 9 F</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321193000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321220000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1565">
+    <title>Fin des programmes</title>
+  </programme>
+  <channel id="1722">
+    <display-name>MySports EDGE</display-name>
+  </channel>
+  <programme start="20260321093000 +0000" stop="20260321103000 +0000" channel="1722">
+    <title>UCI ProSeries Cycling: Tour of Oman : Stage 6, Final</title>
+  </programme>
+  <programme start="20260321103000 +0000" stop="20260321113000 +0000" channel="1722">
+    <title>Tour de la Provence</title>
+    <sub-title>Highlights, Final</sub-title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="1722">
+    <title>Gearing Up</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321123000 +0000" channel="1722">
+    <title>Gearing Up</title>
+    <sub-title>Episode 2</sub-title>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321143000 +0000" channel="1722">
+    <title>Freeride World Tour</title>
+    <sub-title>Baqueira Beret Pro (ESP)</sub-title>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321163000 +0000" channel="1722">
+    <title>Freeride World Tour</title>
+    <sub-title>Val Thorens Pro, France</sub-title>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321193000 +0000" channel="1722">
+    <title>FWT - Nendaz Backcountry Invitational 2026</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260322010000 +0000" channel="1722">
+    <title>Nendaz Freeride FWT Challenger</title>
+    <sub-title>Nendaz Freeride Challenger - 1</sub-title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1722">
+    <title>Gearing Up</title>
+  </programme>
+  <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1722">
+    <title>Gearing Up</title>
+    <sub-title>Episode 2</sub-title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322050000 +0000" channel="1722">
+    <title>NHL Hockey: Edmonton Oilers v Tampa Bay Lightning</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1722">
+    <title>The Sports Rundown</title>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="1722">
+    <title>The Sports Rundown</title>
+    <sub-title>Episode 2</sub-title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322070000 +0000" channel="1722">
+    <title>EDGEsport Stories</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1722">
+    <title>EDGEsport Stories</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="1722">
+    <title>EDGEsport Stories</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="1722">
+    <title>EDGEsport Stories</title>
+  </programme>
+  <channel id="1944">
+    <display-name>MySports Uno I</display-name>
+  </channel>
+  <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1944">
+    <title>NHL On The Fly</title>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321174000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260321174000 +0000" stop="20260321180000 +0000" channel="1944">
+    <title>Weird NHL</title>
+    <sub-title>Vol. 127</sub-title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321185500 +0000" channel="1944">
+    <title>Weird NHL</title>
+    <sub-title>Vol. 128</sub-title>
+  </programme>
+  <programme start="20260321185500 +0000" stop="20260321230000 +0000" channel="1944">
+    <title>National League: Playoff - Quarti di finale, Gara 1: Zurigo - Lugano</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322050000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1944">
+    <title>Slow Hockey</title>
+  </programme>
+  <channel id="2026">
+    <display-name>blue Event D 1</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="2026">
+    <title>blue Event D 1</title>
+  </programme>
+  <channel id="2027">
+    <display-name>blue Event F 1</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="2027">
+    <title>blue Event F 1</title>
+  </programme>
+  <channel id="420">
+    <display-name>blue Zoom F</display-name>
+  </channel>
+  <programme start="20260321081500 +0000" stop="20260321110500 +0000" channel="420">
+    <title>Foot: Manchester City - Real Madrid CF</title>
+  </programme>
+  <programme start="20260321110500 +0000" stop="20260321113500 +0000" channel="420">
+    <title>Le temps additionnel - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321113500 +0000" stop="20260321120500 +0000" channel="420">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321120500 +0000" stop="20260321123500 +0000" channel="420">
+    <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
+  </programme>
+  <programme start="20260321123500 +0000" stop="20260321134000 +0000" channel="420">
+    <title>Match après match</title>
+  </programme>
+  <programme start="20260321134000 +0000" stop="20260321140000 +0000" channel="420">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="420">
+    <title>En direct : Championnat du monde de Formule E</title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="420">
+    <title>GO ! Le magazine suisse de la mobilité</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="420">
+    <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321164500 +0000" channel="420">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260321164500 +0000" stop="20260321170000 +0000" channel="420">
+    <title>Club Super League</title>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321190000 +0000" channel="420">
+    <title>Foot: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191500 +0000" channel="420">
+    <title>Grand Écran : "Chers parents" d'Emmanuel Patron</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321193000 +0000" channel="420">
+    <title>Club Super League</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="420">
+    <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321203000 +0000" channel="420">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321203000 +0000" stop="20260321210000 +0000" channel="420">
+    <title>Football's Greatest Stage</title>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321213000 +0000" channel="420">
+    <title>GO ! Le magazine suisse de la mobilité</title>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="420">
+    <title>Le temps additionnel - Brack Super League</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="420">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321225000 +0000" channel="420">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260321225000 +0000" stop="20260321232000 +0000" channel="420">
+    <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
+  </programme>
+  <programme start="20260321232000 +0000" stop="20260321233500 +0000" channel="420">
+    <title>Grand Écran : "Chers parents" d'Emmanuel Patron</title>
+  </programme>
+  <programme start="20260321233500 +0000" stop="20260322021500 +0000" channel="420">
+    <title>Foot: Sporting Clube de Portugal - FK Bodø/Glimt</title>
+  </programme>
+  <programme start="20260322021500 +0000" stop="20260322041000 +0000" channel="420">
+    <title>Foot: FC Barcelona - Newcastle United FC</title>
+  </programme>
+  <programme start="20260322041000 +0000" stop="20260322043000 +0000" channel="420">
+    <title>Grand Écran : "Marcel et monsieur Pagnol" de Sylvain Chomet</title>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="420">
+    <title>GO ! Le magazine suisse de la mobilité</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322065500 +0000" channel="420">
+    <title>Foot: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260322065500 +0000" stop="20260322071500 +0000" channel="420">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260322071500 +0000" stop="20260322074000 +0000" channel="420">
+    <title>Grand Écran : "La Maison des femmes" avec Laetitia Dosch</title>
+  </programme>
+  <programme start="20260322074000 +0000" stop="20260322103500 +0000" channel="420">
+    <title>Foot: Liverpool FC - Galatasaray AŞ</title>
+  </programme>
+  <channel id="483">
+    <display-name>blue Sport D 1</display-name>
+  </channel>
+  <programme start="20260321091000 +0000" stop="20260321113500 +0000" channel="483">
+    <title>Fussball: FC Lausanne-Sport - BSC Young Boys</title>
+  </programme>
+  <programme start="20260321113500 +0000" stop="20260321120500 +0000" channel="483">
+    <title>Fussball: Alle Spiele, alle Tore - Brack Super League</title>
+  </programme>
+  <programme start="20260321120500 +0000" stop="20260321130000 +0000" channel="483">
+    <title>Heimspiel - Der Fussball-Talk</title>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321133000 +0000" channel="483">
+    <title>GO! Das Schweizer Mobilitätsmagazin</title>
+  </programme>
+  <programme start="20260321133000 +0000" stop="20260321140000 +0000" channel="483">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="483">
+    <title>Live: Formel E Weltmeisterschaft</title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="483">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="483">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321191500 +0000" channel="483">
+    <title>FC Zürich - FC Thun</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321214500 +0000" channel="483">
+    <title>FC Sion - FC St.Gallen 1879</title>
+  </programme>
+  <programme start="20260321214500 +0000" stop="20260321221000 +0000" channel="483">
+    <title>Alle Spiele, alle Tore - Brack Super League</title>
+  </programme>
+  <programme start="20260321221000 +0000" stop="20260321224000 +0000" channel="483">
+    <title>GO! Das Schweizer Mobilitätsmagazin</title>
+  </programme>
+  <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="483">
+    <title>The Evolution of Sport</title>
+  </programme>
+  <programme start="20260321231000 +0000" stop="20260321234000 +0000" channel="483">
+    <title>WM-Momente für die Ewigkeit</title>
+  </programme>
+  <programme start="20260321234000 +0000" stop="20260322021000 +0000" channel="483">
+    <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260322021000 +0000" stop="20260322022500 +0000" channel="483">
+    <title>Top Goals 2025 - Swiss Football League</title>
+  </programme>
+  <programme start="20260322022500 +0000" stop="20260322025000 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322025000 +0000" stop="20260322031500 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322031500 +0000" stop="20260322034500 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322034500 +0000" stop="20260322041000 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322041000 +0000" stop="20260322043500 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322043500 +0000" stop="20260322050000 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322052500 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322052500 +0000" stop="20260322055000 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322055000 +0000" stop="20260322061500 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322061500 +0000" stop="20260322064000 +0000" channel="483">
+    <title>Football Nation</title>
+  </programme>
+  <programme start="20260322064000 +0000" stop="20260322091000 +0000" channel="483">
+    <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260322091000 +0000" stop="20260322100500 +0000" channel="483">
+    <title>Heimspiel - Der Fussball-Talk</title>
+  </programme>
+  <channel id="484">
+    <display-name>blue Sport 8 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="484">
+    <title>CA Osasuna - Girona FC</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="484">
+    <title>blue Sport 8 Live</title>
+  </programme>
+  <channel id="485">
+    <display-name>blue Sport 9 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="485">
+    <title>Levante UD - Real Oviedo</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="485">
+    <title>blue Sport 9 Live</title>
+  </programme>
+  <channel id="486">
+    <display-name>blue Sport 10 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="486">
+    <title>Cádiz CF - Málaga CF</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322085500 +0000" channel="486">
+    <title>blue Sport 10 Live</title>
+  </programme>
+  <programme start="20260322085500 +0000" stop="20260322133000 +0000" channel="486">
+    <title>Live Mountainbike: Absa Cape Epic</title>
+  </programme>
+  <channel id="487">
+    <display-name>blue Sport 11 Live</display-name>
+  </channel>
+  <programme start="20260321070000 +0000" stop="20260321110000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321150000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="487">
+    <title>FC Sion - FC St.Gallen 1879</title>
+  </programme>
+  <programme start="20260321221500 +0000" stop="20260322000000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="487">
+    <title>blue Sport 11 Live</title>
+  </programme>
+  <channel id="488">
+    <display-name>blue Sport 12 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="488">
+    <title>blue Sport 12 Live</title>
+  </programme>
+  <channel id="489">
+    <display-name>blue Sport 13 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="489">
+    <title>blue Sport 13 Live</title>
+  </programme>
+  <channel id="490">
+    <display-name>blue Sport 14 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="490">
+    <title>blue Sport 14 Live</title>
+  </programme>
+  <channel id="491">
+    <display-name>blue Sport 15 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="491">
+    <title>blue Sport 15 Live</title>
+  </programme>
+  <channel id="492">
+    <display-name>blue Sport 16 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="492">
+    <title>blue Sport 16 Live</title>
+  </programme>
+  <channel id="493">
+    <display-name>blue Sport 17 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="493">
+    <title>blue Sport 17 Live</title>
+  </programme>
+  <channel id="494">
+    <display-name>blue Sport D 2</display-name>
+  </channel>
+  <programme start="20260321082500 +0000" stop="20260321104500 +0000" channel="494">
+    <title>Fussball: FC Porto - VfB Stuttgart</title>
+  </programme>
+  <programme start="20260321104500 +0000" stop="20260321112000 +0000" channel="494">
+    <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
+  </programme>
+  <programme start="20260321112000 +0000" stop="20260321140000 +0000" channel="494">
+    <title>Fussball: Sporting Clube de Portugal - FK Bodø/Glimt</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321154500 +0000" channel="494">
+    <title>Fussball: Chelsea FC - Paris Saint-Germain</title>
+  </programme>
+  <programme start="20260321154500 +0000" stop="20260321162000 +0000" channel="494">
+    <title>Fussball: Matchnight - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321162000 +0000" stop="20260321191000 +0000" channel="494">
+    <title>Fussball: Arsenal FC - Bayer 04 Leverkusen</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321194500 +0000" channel="494">
+    <title>Fussball: Matchnight - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321194500 +0000" stop="20260321224000 +0000" channel="494">
+    <title>Fussball: Manchester City - Real Madrid CF</title>
+  </programme>
+  <programme start="20260321224000 +0000" stop="20260321231500 +0000" channel="494">
+    <title>Fussball: Matchnight - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321231500 +0000" stop="20260322011500 +0000" channel="494">
+    <title>Fussball: Konferenz - UEFA Champions League</title>
+  </programme>
+  <programme start="20260322011500 +0000" stop="20260322040000 +0000" channel="494">
+    <title>Fussball: FC Midtjylland - Nottingham Forest FC</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043500 +0000" channel="494">
+    <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
+  </programme>
+  <programme start="20260322043500 +0000" stop="20260322063000 +0000" channel="494">
+    <title>Fussball: SC Freiburg - KRC Genk</title>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322082500 +0000" channel="494">
+    <title>Fussball: Olympique Lyonnais - Real Club Celta</title>
+  </programme>
+  <programme start="20260322082500 +0000" stop="20260322090000 +0000" channel="494">
+    <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322122500 +0000" channel="494">
+    <title>Fussball: AS Roma - Bologna FC 1909</title>
+  </programme>
+  <channel id="495">
+    <display-name>blue Sport 18 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="495">
+    <title>blue Sport 18 Live</title>
+  </programme>
+  <channel id="496">
+    <display-name>blue Sport 19 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="496">
+    <title>blue Sport 19 Live</title>
+  </programme>
+  <channel id="497">
+    <display-name>blue Sport 20 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="497">
+    <title>blue Sport 20 Live</title>
+  </programme>
+  <channel id="498">
+    <display-name>blue Sport 21 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="498">
+    <title>blue Sport 21 Live</title>
+  </programme>
+  <channel id="499">
+    <display-name>blue Sport 22 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="499">
+    <title>blue Sport 22 Live</title>
+  </programme>
+  <channel id="500">
+    <display-name>blue Sport 23 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="500">
+    <title>blue Sport 23 Live</title>
+  </programme>
+  <channel id="501">
+    <display-name>blue Sport 24 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="501">
+    <title>blue Sport 24 Live</title>
+  </programme>
+  <channel id="502">
+    <display-name>blue Sport 25 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="502">
+    <title>blue Sport 25 Live</title>
+  </programme>
+  <channel id="506">
+    <display-name>blue Sport 16 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="506">
+    <title>blue Sport 16 direct</title>
+  </programme>
+  <channel id="507">
+    <display-name>blue Sport 17 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="507">
+    <title>blue Sport 17 direct</title>
+  </programme>
+  <channel id="508">
+    <display-name>blue Sport 18 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="508">
+    <title>blue Sport 18 direct</title>
+  </programme>
+  <channel id="509">
+    <display-name>blue Sport 19 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="509">
+    <title>blue Sport 19 direct</title>
+  </programme>
+  <channel id="510">
+    <display-name>blue Sport 20 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="510">
+    <title>blue Sport 20 direct</title>
+  </programme>
+  <channel id="511">
+    <display-name>blue Sport 2 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321124500 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260321124500 +0000" stop="20260321150000 +0000" channel="511">
+    <title>Elche CF - RCD Mallorca</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321230000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="511">
+    <title>blue Sport 2 Live</title>
+  </programme>
+  <channel id="512">
+    <display-name>blue Sport 3 Live</display-name>
+  </channel>
+  <programme start="20260321060000 +0000" stop="20260321100000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321134500 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260321134500 +0000" stop="20260321160000 +0000" channel="512">
+    <title>Padova Calcio - US Palermo</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="512">
+    <title>blue Sport 3 Live</title>
+  </programme>
+  <channel id="513">
+    <display-name>blue Sport 4 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321150000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321171500 +0000" channel="513">
+    <title>RCD Espanyol de Barcelona - Getafe CF</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321200000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="513">
+    <title>blue Sport 4 Live</title>
+  </programme>
+  <channel id="514">
+    <display-name>blue Sport 5 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321181500 +0000" channel="514">
+    <title>AC Monza - Venezia FC</title>
+  </programme>
+  <programme start="20260321181500 +0000" stop="20260321220000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <channel id="515">
+    <display-name>blue Sport 6 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321162500 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="515">
+    <title>Servette FC - Grasshopper Club Zürich</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="515">
+    <title>blue Sport 6 Live</title>
+  </programme>
+  <channel id="516">
+    <display-name>blue Sport 7 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321165000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260321165000 +0000" stop="20260321190000 +0000" channel="516">
+    <title>FC Aarau - Neuchâtel Xamax FCS</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321230000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="516">
+    <title>blue Sport 7 Live</title>
+  </programme>
+  <channel id="589">
+    <display-name>blue Stars</display-name>
+  </channel>
+  <programme start="20260321091000 +0000" stop="20260321104000 +0000" channel="589">
+    <title>Die goldenen Jahre</title>
+  </programme>
+  <programme start="20260321104000 +0000" stop="20260321123000 +0000" channel="589">
+    <title>Türkisch für Anfänger</title>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321140000 +0000" channel="589">
+    <title>La dérive des continents (au sud)</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321154000 +0000" channel="589">
+    <title>Drachenzähmen leicht gemacht</title>
+  </programme>
+  <programme start="20260321154000 +0000" stop="20260321172500 +0000" channel="589">
+    <title>Immenhof - Das grosse Versprechen</title>
+  </programme>
+  <programme start="20260321172500 +0000" stop="20260321191500 +0000" channel="589">
+    <title>Das Beste kommt noch!</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321210000 +0000" channel="589">
+    <title>Paul - Ein Alien auf der Flucht</title>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321224000 +0000" channel="589">
+    <title>After Love</title>
+  </programme>
+  <programme start="20260321224000 +0000" stop="20260322002500 +0000" channel="589">
+    <title>Love is Blind - Auf den zweiten Blick</title>
+  </programme>
+  <programme start="20260322002500 +0000" stop="20260322021000 +0000" channel="589">
+    <title>Alpha</title>
+  </programme>
+  <programme start="20260322021000 +0000" stop="20260322034000 +0000" channel="589">
+    <title>La dérive des continents (au sud)</title>
+  </programme>
+  <programme start="20260322034000 +0000" stop="20260322053000 +0000" channel="589">
+    <title>Das Beste kommt noch!</title>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322071500 +0000" channel="589">
+    <title>Paul - Ein Alien auf der Flucht</title>
+  </programme>
+  <programme start="20260322071500 +0000" stop="20260322090000 +0000" channel="589">
+    <title>Love is Blind - Auf den zweiten Blick</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322104000 +0000" channel="589">
+    <title>After Love</title>
+  </programme>
+  <channel id="590">
+    <display-name>blue Sport F</display-name>
+  </channel>
+  <programme start="20260321093500 +0000" stop="20260321113000 +0000" channel="590">
+    <title>Foot: FC Bayern München - Atalanta BC</title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="590">
+    <title>Le temps additionnel - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321144500 +0000" channel="590">
+    <title>Foot: Liverpool FC - Galatasaray AŞ</title>
+  </programme>
+  <programme start="20260321144500 +0000" stop="20260321151500 +0000" channel="590">
+    <title>Le temps additionnel - UEFA Champions League</title>
+  </programme>
+  <programme start="20260321151500 +0000" stop="20260321154500 +0000" channel="590">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260321154500 +0000" stop="20260321161500 +0000" channel="590">
+    <title>World of Freesports</title>
+  </programme>
+  <programme start="20260321161500 +0000" stop="20260321164500 +0000" channel="590">
+    <title>GO ! Le magazine suisse de la mobilité</title>
+  </programme>
+  <programme start="20260321164500 +0000" stop="20260321191500 +0000" channel="590">
+    <title>Servette FC - Grasshopper Club Zürich</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321213000 +0000" channel="590">
+    <title>FC Sion - FC St-Gall 1879</title>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="590">
+    <title>Le temps additionnel - Brack Super League</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="590">
+    <title>GO ! Le magazine suisse de la mobilité</title>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321224500 +0000" channel="590">
+    <title>Best of de la semaine</title>
+  </programme>
+  <programme start="20260321224500 +0000" stop="20260322004000 +0000" channel="590">
+    <title>Foot: FC Vaduz - Yverdon Sport FC</title>
+  </programme>
+  <programme start="20260322004000 +0000" stop="20260322035000 +0000" channel="590">
+    <title>Foot: AS Roma - Bologna FC 1909</title>
+  </programme>
+  <programme start="20260322035000 +0000" stop="20260322054000 +0000" channel="590">
+    <title>Foot: Arsenal FC - Bayer 04 Leverkusen</title>
+  </programme>
+  <programme start="20260322054000 +0000" stop="20260322072500 +0000" channel="590">
+    <title>Foot: Chelsea FC - Paris Saint-Germain</title>
+  </programme>
+  <programme start="20260322072500 +0000" stop="20260322075500 +0000" channel="590">
+    <title>Le temps additionnel - UEFA Champions League</title>
+  </programme>
+  <programme start="20260322075500 +0000" stop="20260322104000 +0000" channel="590">
+    <title>Foot: Manchester City - Real Madrid CF</title>
+  </programme>
+  <channel id="591">
+    <display-name>blue Action</display-name>
+  </channel>
+  <programme start="20260321080500 +0000" stop="20260321095500 +0000" channel="591">
+    <title>Inheritance</title>
+  </programme>
+  <programme start="20260321095500 +0000" stop="20260321113000 +0000" channel="591">
+    <title>One Shot - Mission ausser Kontrolle</title>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321134000 +0000" channel="591">
+    <title>Detective Dee und der Fluch des Seeungeheuers</title>
+  </programme>
+  <programme start="20260321134000 +0000" stop="20260321153000 +0000" channel="591">
+    <title>Bloodshot</title>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321172000 +0000" channel="591">
+    <title>Men in Black 3</title>
+  </programme>
+  <programme start="20260321172000 +0000" stop="20260321191500 +0000" channel="591">
+    <title>Terminator - Die Erlösung</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321204500 +0000" channel="591">
+    <title>3022</title>
+  </programme>
+  <programme start="20260321204500 +0000" stop="20260321224500 +0000" channel="591">
+    <title>Knowing</title>
+  </programme>
+  <programme start="20260321224500 +0000" stop="20260322002500 +0000" channel="591">
+    <title>Paranormal Activity: Die Gezeichneten</title>
+  </programme>
+  <programme start="20260322002500 +0000" stop="20260322021500 +0000" channel="591">
+    <title>Scary Stories to Tell in the Dark</title>
+  </programme>
+  <programme start="20260322021500 +0000" stop="20260322043000 +0000" channel="591">
+    <title>Detective Dee und der Fluch des Seeungeheuers</title>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322062000 +0000" channel="591">
+    <title>Men in Black 3</title>
+  </programme>
+  <programme start="20260322062000 +0000" stop="20260322081500 +0000" channel="591">
+    <title>Terminator - Die Erlösung</title>
+  </programme>
+  <programme start="20260322081500 +0000" stop="20260322101500 +0000" channel="591">
+    <title>Knowing</title>
+  </programme>
+  <channel id="663">
+    <display-name>blue Sport 1 Live</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321115000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260321115000 +0000" stop="20260321140000 +0000" channel="663">
+    <title>Manchester City - Tottenham Hotspur</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321180000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321194500 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260321194500 +0000" stop="20260321220000 +0000" channel="663">
+    <title>Sevilla FC - Valencia CF</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <channel id="930">
+    <display-name>blue Sport 6 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321165000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260321165000 +0000" stop="20260321190000 +0000" channel="930">
+    <title>FC Aarau - Neuchâtel Xamax FCS</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321230000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="930">
+    <title>blue Sport 6 direct</title>
+  </programme>
+  <channel id="932">
+    <display-name>blue Sport 7 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="932">
+    <title>CA Osasuna - Girona FC</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="932">
+    <title>blue Sport 7 direct</title>
+  </programme>
+  <channel id="934">
+    <display-name>blue Sport 8 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="934">
+    <title>Levante UD - Real Oviedo</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322085500 +0000" channel="934">
+    <title>blue Sport 8 direct</title>
+  </programme>
+  <programme start="20260322085500 +0000" stop="20260322133000 +0000" channel="934">
+    <title>Live Mountainbike: Absa Cape Epic</title>
+  </programme>
+  <channel id="936">
+    <display-name>blue Sport 9 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321171500 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="936">
+    <title>Cádiz CF - Málaga CF</title>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="936">
+    <title>blue Sport 9 direct</title>
+  </programme>
+  <channel id="938">
+    <display-name>blue Sport 10 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321115000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260321115000 +0000" stop="20260321140000 +0000" channel="938">
+    <title>Manchester City - Tottenham Hotspur</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321180000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321191000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="938">
+    <title>FC Sion - FC St-Gall 1879</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322000000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="938">
+    <title>blue Sport 10 direct</title>
+  </programme>
+  <channel id="940">
+    <display-name>blue Sport 11 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="940">
+    <title>blue Sport 11 direct</title>
+  </programme>
+  <channel id="942">
+    <display-name>blue Sport 12 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="942">
+    <title>blue Sport 12 direct</title>
+  </programme>
+  <channel id="944">
+    <display-name>blue Sport 13 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="944">
+    <title>blue Sport 13 direct</title>
+  </programme>
+  <channel id="946">
+    <display-name>blue Sport 14 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="946">
+    <title>blue Sport 14 direct</title>
+  </programme>
+  <channel id="948">
+    <display-name>blue Sport 15 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="948">
+    <title>blue Sport 15 direct</title>
+  </programme>
+  <channel id="950">
+    <display-name>blue Sport 1 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321124500 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260321124500 +0000" stop="20260321150000 +0000" channel="950">
+    <title>Elche CF - RCD Mallorca</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321194500 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260321194500 +0000" stop="20260321220000 +0000" channel="950">
+    <title>Sevilla FC - Valencia CF</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
+  <channel id="952">
+    <display-name>blue Sport 2 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321134500 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260321134500 +0000" stop="20260321160000 +0000" channel="952">
+    <title>Padova Calcio - US Palermo</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322120000 +0000" channel="952">
+    <title>blue Sport 2 direct</title>
+  </programme>
+  <channel id="954">
+    <display-name>blue Sport 3 direct</display-name>
+  </channel>
+  <programme start="20260321060000 +0000" stop="20260321100000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321140000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321150000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321171500 +0000" channel="954">
+    <title>RCD Espanyol de Barcelona - Getafe CF</title>
+  </programme>
+  <programme start="20260321171500 +0000" stop="20260321210000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260322010000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322125000 +0000" channel="954">
+    <title>blue Sport 3 direct</title>
+  </programme>
+  <channel id="956">
+    <display-name>blue Sport 4 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321181500 +0000" channel="956">
+    <title>AC Monza - Venezia FC</title>
+  </programme>
+  <programme start="20260321181500 +0000" stop="20260321220000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <channel id="958">
+    <display-name>blue Sport 5 direct</display-name>
+  </channel>
+  <programme start="20260321080000 +0000" stop="20260321120000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321160000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321164000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="958">
+    <title>FC Zurich - FC Thoune</title>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322110000 +0000" channel="958">
+    <title>blue Sport 5 direct</title>
+  </programme>
+</tv>

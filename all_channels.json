@@ -1,0 +1,4514 @@
+[
+  {
+    "id": "1221",
+    "name": "blue Zoom D"
+  },
+  {
+    "id": "399",
+    "name": "SRF 1"
+  },
+  {
+    "id": "401",
+    "name": "SRF zwei"
+  },
+  {
+    "id": "400",
+    "name": "SRF info"
+  },
+  {
+    "id": "25",
+    "name": "Das Erste"
+  },
+  {
+    "id": "656",
+    "name": "ZDF"
+  },
+  {
+    "id": "303",
+    "name": "ORF 1"
+  },
+  {
+    "id": "360",
+    "name": "RTL"
+  },
+  {
+    "id": "322",
+    "name": "ProSieben"
+  },
+  {
+    "id": "375",
+    "name": "SAT.1"
+  },
+  {
+    "id": "4",
+    "name": "3+"
+  },
+  {
+    "id": "325",
+    "name": "Puls 8"
+  },
+  {
+    "id": "634",
+    "name": "TV24"
+  },
+  {
+    "id": "7",
+    "name": "4+"
+  },
+  {
+    "id": "1223",
+    "name": "SWISS1"
+  },
+  {
+    "id": "8",
+    "name": "5+"
+  },
+  {
+    "id": "665",
+    "name": "TV25"
+  },
+  {
+    "id": "374",
+    "name": "S1"
+  },
+  {
+    "id": "1469",
+    "name": "6+"
+  },
+  {
+    "id": "405",
+    "name": "Star TV"
+  },
+  {
+    "id": "1216",
+    "name": "Auftanken TV"
+  },
+  {
+    "id": "651",
+    "name": "VOX"
+  },
+  {
+    "id": "359",
+    "name": "RTL ZWEI"
+  },
+  {
+    "id": "302",
+    "name": "ORF 2"
+  },
+  {
+    "id": "27",
+    "name": "Arte Deutsch"
+  },
+  {
+    "id": "6",
+    "name": "3sat"
+  },
+  {
+    "id": "226",
+    "name": "Kabel eins"
+  },
+  {
+    "id": "136",
+    "name": "DMAX"
+  },
+  {
+    "id": "585",
+    "name": "TeleZüri"
+  },
+  {
+    "id": "570",
+    "name": "Tele 1"
+  },
+  {
+    "id": "572",
+    "name": "Tele Bärn"
+  },
+  {
+    "id": "575",
+    "name": "Tele M1"
+  },
+  {
+    "id": "586",
+    "name": "Telebasel"
+  },
+  {
+    "id": "641",
+    "name": "TVO"
+  },
+  {
+    "id": "579",
+    "name": "Tele Top"
+  },
+  {
+    "id": "621",
+    "name": "TV Südostschweiz"
+  },
+  {
+    "id": "583",
+    "name": "Tele Z"
+  },
+  {
+    "id": "227",
+    "name": "Kanal 9"
+  },
+  {
+    "id": "573",
+    "name": "Tele Bielingue"
+  },
+  {
+    "id": "382",
+    "name": "SHf - Schaffhauser Fernsehen"
+  },
+  {
+    "id": "2179",
+    "name": "Canal B D"
+  },
+  {
+    "id": "414",
+    "name": "SWR"
+  },
+  {
+    "id": "659",
+    "name": "ZDFneo"
+  },
+  {
+    "id": "55",
+    "name": "BR"
+  },
+  {
+    "id": "381",
+    "name": "Servus TV"
+  },
+  {
+    "id": "654",
+    "name": "WDR"
+  },
+  {
+    "id": "286",
+    "name": "NDR"
+  },
+  {
+    "id": "256",
+    "name": "MDR"
+  },
+  {
+    "id": "205",
+    "name": "HR"
+  },
+  {
+    "id": "342",
+    "name": "RBB"
+  },
+  {
+    "id": "1222",
+    "name": "ORF 3"
+  },
+  {
+    "id": "1502",
+    "name": "SR Fernsehen"
+  },
+  {
+    "id": "326",
+    "name": "R9 Österreich"
+  },
+  {
+    "id": "1770",
+    "name": "RTL"
+  },
+  {
+    "id": "1908",
+    "name": "3+"
+  },
+  {
+    "id": "1910",
+    "name": "TV24"
+  },
+  {
+    "id": "1909",
+    "name": "4+"
+  },
+  {
+    "id": "32",
+    "name": "AXN Black"
+  },
+  {
+    "id": "1399",
+    "name": "Kinowelt"
+  },
+  {
+    "id": "361",
+    "name": "RTL Crime"
+  },
+  {
+    "id": "305",
+    "name": "RTL Passion"
+  },
+  {
+    "id": "1389",
+    "name": "kabel eins CLASSICS"
+  },
+  {
+    "id": "1635",
+    "name": "Eurochannel D"
+  },
+  {
+    "id": "571",
+    "name": "Tele 5"
+  },
+  {
+    "id": "1796",
+    "name": "Sky One D"
+  },
+  {
+    "id": "1990",
+    "name": "Sky Showcase"
+  },
+  {
+    "id": "389",
+    "name": "Sky Krimi"
+  },
+  {
+    "id": "1795",
+    "name": "Sky Crime"
+  },
+  {
+    "id": "1797",
+    "name": "Sky Atlantic D"
+  },
+  {
+    "id": "363",
+    "name": "Nitro"
+  },
+  {
+    "id": "385",
+    "name": "sixx"
+  },
+  {
+    "id": "323",
+    "name": "ProSieben MAXX"
+  },
+  {
+    "id": "377",
+    "name": "SAT.1 GOLD"
+  },
+  {
+    "id": "919",
+    "name": "RTLup"
+  },
+  {
+    "id": "147",
+    "name": "One"
+  },
+  {
+    "id": "110",
+    "name": "Comedy Central"
+  },
+  {
+    "id": "24",
+    "name": "Anixe Serie"
+  },
+  {
+    "id": "1612",
+    "name": "VOXup"
+  },
+  {
+    "id": "2039",
+    "name": "Crime Time"
+  },
+  {
+    "id": "920",
+    "name": "kabel eins Doku"
+  },
+  {
+    "id": "396",
+    "name": "Curiosity Channel"
+  },
+  {
+    "id": "278",
+    "name": "National Geographic D"
+  },
+  {
+    "id": "362",
+    "name": "RTL Living"
+  },
+  {
+    "id": "1409",
+    "name": "Bergblick"
+  },
+  {
+    "id": "1616",
+    "name": "auto motor und sport"
+  },
+  {
+    "id": "1867",
+    "name": "Sky Nature"
+  },
+  {
+    "id": "1866",
+    "name": "Sky Documentaries"
+  },
+  {
+    "id": "2090",
+    "name": "Network-TV"
+  },
+  {
+    "id": "655",
+    "name": "Welt der Wunder TV"
+  },
+  {
+    "id": "1272",
+    "name": "Wetter.TV"
+  },
+  {
+    "id": "1468",
+    "name": "Televista"
+  },
+  {
+    "id": "1325",
+    "name": "Session National Council"
+  },
+  {
+    "id": "1326",
+    "name": "Session Council Of States"
+  },
+  {
+    "id": "277",
+    "name": "WELT"
+  },
+  {
+    "id": "658",
+    "name": "ZDFinfo"
+  },
+  {
+    "id": "297",
+    "name": "n-tv"
+  },
+  {
+    "id": "307",
+    "name": "Phoenix TV"
+  },
+  {
+    "id": "1030",
+    "name": "N24 Doku"
+  },
+  {
+    "id": "26",
+    "name": "ARD-alpha"
+  },
+  {
+    "id": "163",
+    "name": "Euronews D"
+  },
+  {
+    "id": "417",
+    "name": "Tagesschau24"
+  },
+  {
+    "id": "669",
+    "name": "UHD1 by ASTRA"
+  },
+  {
+    "id": "1950",
+    "name": "ARCADIA world TV"
+  },
+  {
+    "id": "2042",
+    "name": "One Terra"
+  },
+  {
+    "id": "2038",
+    "name": "Xplore"
+  },
+  {
+    "id": "2110",
+    "name": "Deutscher Bundestag"
+  },
+  {
+    "id": "2130",
+    "name": "DOKUSAT"
+  },
+  {
+    "id": "1569",
+    "name": "BonGusto"
+  },
+  {
+    "id": "1783",
+    "name": "auto motor sport"
+  },
+  {
+    "id": "607",
+    "name": "TLC"
+  },
+  {
+    "id": "1510",
+    "name": "Home & Garden TV"
+  },
+  {
+    "id": "1801",
+    "name": "Marco Polo"
+  },
+  {
+    "id": "1914",
+    "name": "Lilo TV"
+  },
+  {
+    "id": "2041",
+    "name": "Just Cooking"
+  },
+  {
+    "id": "2098",
+    "name": "Just.fishing"
+  },
+  {
+    "id": "2127",
+    "name": "SYLT1"
+  },
+  {
+    "id": "2135",
+    "name": "Höhenrausch"
+  },
+  {
+    "id": "167",
+    "name": "Eurosport 1 D"
+  },
+  {
+    "id": "170",
+    "name": "Eurosport 2 D"
+  },
+  {
+    "id": "1553",
+    "name": "eSportsONE"
+  },
+  {
+    "id": "398",
+    "name": "Sport1"
+  },
+  {
+    "id": "1601",
+    "name": "Swiss Sport TV"
+  },
+  {
+    "id": "1254",
+    "name": "More Than Sports TV"
+  },
+  {
+    "id": "1889",
+    "name": "ORF Sport +"
+  },
+  {
+    "id": "2115",
+    "name": "DF1"
+  },
+  {
+    "id": "1224",
+    "name": "Game TV"
+  },
+  {
+    "id": "1406",
+    "name": "MGGTV"
+  },
+  {
+    "id": "1408",
+    "name": "Ginx TV"
+  },
+  {
+    "id": "1626",
+    "name": "ducktv"
+  },
+  {
+    "id": "1605",
+    "name": "Nicktoons"
+  },
+  {
+    "id": "1792",
+    "name": "Fix & Foxi TV"
+  },
+  {
+    "id": "411",
+    "name": "Super RTL"
+  },
+  {
+    "id": "128",
+    "name": "Disney Channel D"
+  },
+  {
+    "id": "228",
+    "name": "KiKa"
+  },
+  {
+    "id": "289",
+    "name": "7+ / Nickelodeon"
+  },
+  {
+    "id": "918",
+    "name": "Toggo Plus"
+  },
+  {
+    "id": "350",
+    "name": "RIC TV"
+  },
+  {
+    "id": "630",
+    "name": "TV Rheintal"
+  },
+  {
+    "id": "628",
+    "name": "TV Oberwallis"
+  },
+  {
+    "id": "584",
+    "name": "Tele Zentralschweiz"
+  },
+  {
+    "id": "49",
+    "name": "Bodensee TV"
+  },
+  {
+    "id": "574",
+    "name": "Tele D"
+  },
+  {
+    "id": "904",
+    "name": "regioTVplus"
+  },
+  {
+    "id": "1466",
+    "name": "Rheinwelten TV"
+  },
+  {
+    "id": "1027",
+    "name": "Loly TV"
+  },
+  {
+    "id": "116",
+    "name": "Info TV Davos Klosters"
+  },
+  {
+    "id": "1377",
+    "name": "ALF-TV"
+  },
+  {
+    "id": "255",
+    "name": "MCM Top"
+  },
+  {
+    "id": "258",
+    "name": "Mezzo"
+  },
+  {
+    "id": "647",
+    "name": "Video Italia TV"
+  },
+  {
+    "id": "1079",
+    "name": "Trace Urban"
+  },
+  {
+    "id": "616",
+    "name": "Trace Caribbean"
+  },
+  {
+    "id": "211",
+    "name": "Stingray iConcerts"
+  },
+  {
+    "id": "17",
+    "name": "Deluxe Music"
+  },
+  {
+    "id": "102",
+    "name": "Stingray Classica D"
+  },
+  {
+    "id": "103",
+    "name": "Stingray Classica F"
+  },
+  {
+    "id": "1606",
+    "name": "Stingray djazz"
+  },
+  {
+    "id": "1541",
+    "name": "Mezzo Live"
+  },
+  {
+    "id": "1257",
+    "name": "Stingray Festival 4K"
+  },
+  {
+    "id": "104",
+    "name": "Stingray Classica I"
+  },
+  {
+    "id": "1786",
+    "name": "Goldstar TV"
+  },
+  {
+    "id": "1799",
+    "name": "Radio Ticino Channel"
+  },
+  {
+    "id": "18",
+    "name": "AW1 TV"
+  },
+  {
+    "id": "2096",
+    "name": "Rhône TV"
+  },
+  {
+    "id": "275",
+    "name": "musig24"
+  },
+  {
+    "id": "640",
+    "name": "TVM3"
+  },
+  {
+    "id": "308",
+    "name": "Radio Pilatus TV"
+  },
+  {
+    "id": "1825",
+    "name": "AW2 TV"
+  },
+  {
+    "id": "268",
+    "name": "MTV"
+  },
+  {
+    "id": "1903",
+    "name": "Schlagerparadies TV"
+  },
+  {
+    "id": "1949",
+    "name": "ADRIA MUSIC TELEVISION"
+  },
+  {
+    "id": "2047",
+    "name": "Deluxe Dance by Kontor"
+  },
+  {
+    "id": "94",
+    "name": "Now Rock"
+  },
+  {
+    "id": "121",
+    "name": "DMF"
+  },
+  {
+    "id": "105",
+    "name": "Clubland TV"
+  },
+  {
+    "id": "1499",
+    "name": "Radionorba TV"
+  },
+  {
+    "id": "1489",
+    "name": "RTL 102.5 TV"
+  },
+  {
+    "id": "2064",
+    "name": "Radio Italia TV"
+  },
+  {
+    "id": "180",
+    "name": "folx.tv"
+  },
+  {
+    "id": "1376",
+    "name": "MelodieTV"
+  },
+  {
+    "id": "1641",
+    "name": "Deejay TV"
+  },
+  {
+    "id": "1716",
+    "name": "Now 70s"
+  },
+  {
+    "id": "1715",
+    "name": "Now 80s"
+  },
+  {
+    "id": "1714",
+    "name": "Schlager Deluxe"
+  },
+  {
+    "id": "1766",
+    "name": "Volksmusik.TV"
+  },
+  {
+    "id": "1790",
+    "name": "One Music Television"
+  },
+  {
+    "id": "1791",
+    "name": "Zwei Music Television"
+  },
+  {
+    "id": "2055",
+    "name": "Stimmungsgarten TV"
+  },
+  {
+    "id": "2044",
+    "name": "Deluxe Rap"
+  },
+  {
+    "id": "2132",
+    "name": "TELEGOLD"
+  },
+  {
+    "id": "44",
+    "name": "Bibel TV"
+  },
+  {
+    "id": "233",
+    "name": "K-TV"
+  },
+  {
+    "id": "204",
+    "name": "Hope TV"
+  },
+  {
+    "id": "2077",
+    "name": "I-TV"
+  },
+  {
+    "id": "1724",
+    "name": "Premium Shopping"
+  },
+  {
+    "id": "1040",
+    "name": "Helvetia One TV"
+  },
+  {
+    "id": "207",
+    "name": "HSE"
+  },
+  {
+    "id": "1900",
+    "name": "Sky Cinema D"
+  },
+  {
+    "id": "591",
+    "name": "blue Action"
+  },
+  {
+    "id": "589",
+    "name": "blue Stars"
+  },
+  {
+    "id": "1226",
+    "name": "blue Retro"
+  },
+  {
+    "id": "610",
+    "name": "Warner TV Film"
+  },
+  {
+    "id": "354",
+    "name": "Romance TV"
+  },
+  {
+    "id": "2",
+    "name": "13th Street"
+  },
+  {
+    "id": "612",
+    "name": "Warner TV Serie"
+  },
+  {
+    "id": "611",
+    "name": "Warner TV Comedy"
+  },
+  {
+    "id": "415",
+    "name": "Sky Sci-Fi"
+  },
+  {
+    "id": "1124",
+    "name": "Universal TV"
+  },
+  {
+    "id": "1083",
+    "name": "AXN White"
+  },
+  {
+    "id": "282",
+    "name": "National Geographic Wild D"
+  },
+  {
+    "id": "122",
+    "name": "Discovery Channel D"
+  },
+  {
+    "id": "20",
+    "name": "Animal Planet D"
+  },
+  {
+    "id": "1334",
+    "name": "Crime + Investigation D"
+  },
+  {
+    "id": "1333",
+    "name": "GEO Television"
+  },
+  {
+    "id": "203",
+    "name": "History"
+  },
+  {
+    "id": "395",
+    "name": "Spiegel Geschichte"
+  },
+  {
+    "id": "54",
+    "name": "Cartoonito D"
+  },
+  {
+    "id": "83",
+    "name": "Cartoon Network D"
+  },
+  {
+    "id": "664",
+    "name": "Heimatkanal"
+  },
+  {
+    "id": "483",
+    "name": "blue Sport D 1"
+  },
+  {
+    "id": "494",
+    "name": "blue Sport D 2"
+  },
+  {
+    "id": "663",
+    "name": "blue Sport 1 Live"
+  },
+  {
+    "id": "511",
+    "name": "blue Sport 2 Live"
+  },
+  {
+    "id": "512",
+    "name": "blue Sport 3 Live"
+  },
+  {
+    "id": "513",
+    "name": "blue Sport 4 Live"
+  },
+  {
+    "id": "514",
+    "name": "blue Sport 5 Live"
+  },
+  {
+    "id": "515",
+    "name": "blue Sport 6 Live"
+  },
+  {
+    "id": "516",
+    "name": "blue Sport 7 Live"
+  },
+  {
+    "id": "484",
+    "name": "blue Sport 8 Live"
+  },
+  {
+    "id": "485",
+    "name": "blue Sport 9 Live"
+  },
+  {
+    "id": "486",
+    "name": "blue Sport 10 Live"
+  },
+  {
+    "id": "487",
+    "name": "blue Sport 11 Live"
+  },
+  {
+    "id": "488",
+    "name": "blue Sport 12 Live"
+  },
+  {
+    "id": "489",
+    "name": "blue Sport 13 Live"
+  },
+  {
+    "id": "490",
+    "name": "blue Sport 14 Live"
+  },
+  {
+    "id": "491",
+    "name": "blue Sport 15 Live"
+  },
+  {
+    "id": "492",
+    "name": "blue Sport 16 Live"
+  },
+  {
+    "id": "493",
+    "name": "blue Sport 17 Live"
+  },
+  {
+    "id": "495",
+    "name": "blue Sport 18 Live"
+  },
+  {
+    "id": "496",
+    "name": "blue Sport 19 Live"
+  },
+  {
+    "id": "497",
+    "name": "blue Sport 20 Live"
+  },
+  {
+    "id": "498",
+    "name": "blue Sport 21 Live"
+  },
+  {
+    "id": "499",
+    "name": "blue Sport 22 Live"
+  },
+  {
+    "id": "500",
+    "name": "blue Sport 23 Live"
+  },
+  {
+    "id": "501",
+    "name": "blue Sport 24 Live"
+  },
+  {
+    "id": "502",
+    "name": "blue Sport 25 Live"
+  },
+  {
+    "id": "1000",
+    "name": "blue Sport 1 Live D"
+  },
+  {
+    "id": "1249",
+    "name": "blue Sport 2 Live D"
+  },
+  {
+    "id": "1250",
+    "name": "blue Sport 3 Live D"
+  },
+  {
+    "id": "1440",
+    "name": "blue Sport 4 Live D"
+  },
+  {
+    "id": "1554",
+    "name": "SPORTDIGITAL FUSSBALL"
+  },
+  {
+    "id": "2100",
+    "name": "SPORTDIGITAL FUSSBALL 2"
+  },
+  {
+    "id": "264",
+    "name": "Motorvision TV"
+  },
+  {
+    "id": "1544",
+    "name": "MySports 2 D"
+  },
+  {
+    "id": "1545",
+    "name": "MySports 3 D"
+  },
+  {
+    "id": "1546",
+    "name": "MySports 4 D"
+  },
+  {
+    "id": "1547",
+    "name": "MySports 5 D"
+  },
+  {
+    "id": "1548",
+    "name": "MySports 6 D"
+  },
+  {
+    "id": "1549",
+    "name": "MySports 7 D"
+  },
+  {
+    "id": "1550",
+    "name": "MySports 8 D"
+  },
+  {
+    "id": "1551",
+    "name": "MySports 9 D"
+  },
+  {
+    "id": "1543",
+    "name": "MySports Eins"
+  },
+  {
+    "id": "1944",
+    "name": "MySports Uno I"
+  },
+  {
+    "id": "1722",
+    "name": "MySports EDGE"
+  },
+  {
+    "id": "1552",
+    "name": "Sportdigital1+"
+  },
+  {
+    "id": "1591",
+    "name": "Sky Bundesliga 1"
+  },
+  {
+    "id": "1572",
+    "name": "Sky Bundesliga 2"
+  },
+  {
+    "id": "1573",
+    "name": "Sky Bundesliga 3"
+  },
+  {
+    "id": "1574",
+    "name": "Sky Bundesliga 4"
+  },
+  {
+    "id": "1576",
+    "name": "Sky Bundesliga 5"
+  },
+  {
+    "id": "1577",
+    "name": "Sky Bundesliga 6"
+  },
+  {
+    "id": "1578",
+    "name": "Sky Bundesliga 7"
+  },
+  {
+    "id": "1579",
+    "name": "Sky Bundesliga 8"
+  },
+  {
+    "id": "1580",
+    "name": "Sky Bundesliga 9"
+  },
+  {
+    "id": "1581",
+    "name": "Sky Bundesliga 10"
+  },
+  {
+    "id": "1962",
+    "name": "Sky Sport Bundesliga"
+  },
+  {
+    "id": "2152",
+    "name": "Sky Bundesliga"
+  },
+  {
+    "id": "1959",
+    "name": "Sky Sport Golf"
+  },
+  {
+    "id": "1598",
+    "name": "Sky Sport 1 D"
+  },
+  {
+    "id": "1608",
+    "name": "Sky Sport 2 D"
+  },
+  {
+    "id": "1947",
+    "name": "CANAL+ PREMIER LEAGUE"
+  },
+  {
+    "id": "2162",
+    "name": "CANAL+ Sport Event 1"
+  },
+  {
+    "id": "2163",
+    "name": "CANAL+ Sport Event 2"
+  },
+  {
+    "id": "37",
+    "name": "BBC One"
+  },
+  {
+    "id": "39",
+    "name": "BBC Two"
+  },
+  {
+    "id": "218",
+    "name": "ITV1"
+  },
+  {
+    "id": "89",
+    "name": "Channel 4"
+  },
+  {
+    "id": "178",
+    "name": "Channel 5"
+  },
+  {
+    "id": "219",
+    "name": "ITV2"
+  },
+  {
+    "id": "220",
+    "name": "ITV3"
+  },
+  {
+    "id": "221",
+    "name": "ITV4"
+  },
+  {
+    "id": "35",
+    "name": "BBC Four"
+  },
+  {
+    "id": "262",
+    "name": "More 4"
+  },
+  {
+    "id": "85",
+    "name": "BBC Three / CBBC"
+  },
+  {
+    "id": "176",
+    "name": "Film Four"
+  },
+  {
+    "id": "146",
+    "name": "E4"
+  },
+  {
+    "id": "902",
+    "name": "U&Drama"
+  },
+  {
+    "id": "1507",
+    "name": "U&Dave"
+  },
+  {
+    "id": "1411",
+    "name": "5USA"
+  },
+  {
+    "id": "1670",
+    "name": "5SELECT"
+  },
+  {
+    "id": "1677",
+    "name": "Sky Mix"
+  },
+  {
+    "id": "1654",
+    "name": "DMAX UK"
+  },
+  {
+    "id": "1678",
+    "name": "4Seven"
+  },
+  {
+    "id": "1669",
+    "name": "5Action"
+  },
+  {
+    "id": "1809",
+    "name": "Great! movies"
+  },
+  {
+    "id": "1810",
+    "name": "Great! movies action"
+  },
+  {
+    "id": "1805",
+    "name": "Great! Romance"
+  },
+  {
+    "id": "1029",
+    "name": "INPLUS"
+  },
+  {
+    "id": "1509",
+    "name": "Fox News"
+  },
+  {
+    "id": "1398",
+    "name": "English Club TV"
+  },
+  {
+    "id": "1375",
+    "name": "Love Nature 4K"
+  },
+  {
+    "id": "2129",
+    "name": "travelxp"
+  },
+  {
+    "id": "1256",
+    "name": "Fun Box Ultra"
+  },
+  {
+    "id": "667",
+    "name": "INULTRA"
+  },
+  {
+    "id": "107",
+    "name": "CNN"
+  },
+  {
+    "id": "40",
+    "name": "BBC World News"
+  },
+  {
+    "id": "36",
+    "name": "BBC News"
+  },
+  {
+    "id": "106",
+    "name": "CNBC UK"
+  },
+  {
+    "id": "390",
+    "name": "Sky News International"
+  },
+  {
+    "id": "164",
+    "name": "Euronews E"
+  },
+  {
+    "id": "15",
+    "name": "Al Jazeera English"
+  },
+  {
+    "id": "46",
+    "name": "Bloomberg TV"
+  },
+  {
+    "id": "142",
+    "name": "DW Englisch"
+  },
+  {
+    "id": "287",
+    "name": "NHK World Japan"
+  },
+  {
+    "id": "2056",
+    "name": "CGTN Documentary"
+  },
+  {
+    "id": "208",
+    "name": "i24 News"
+  },
+  {
+    "id": "1404",
+    "name": "PBS America"
+  },
+  {
+    "id": "1397",
+    "name": "BBC Parliament"
+  },
+  {
+    "id": "1639",
+    "name": "France 24 English"
+  },
+  {
+    "id": "1674",
+    "name": "U&Yesterday"
+  },
+  {
+    "id": "1823",
+    "name": "GB News"
+  },
+  {
+    "id": "1717",
+    "name": "True Crime"
+  },
+  {
+    "id": "1992",
+    "name": "EU Parliament"
+  },
+  {
+    "id": "1993",
+    "name": "EU Parliament+"
+  },
+  {
+    "id": "2101",
+    "name": "myZenTV 4K"
+  },
+  {
+    "id": "2149",
+    "name": "Museum TV 4K"
+  },
+  {
+    "id": "1292",
+    "name": "Food Network E"
+  },
+  {
+    "id": "1604",
+    "name": "Quest"
+  },
+  {
+    "id": "1682",
+    "name": "Challenge"
+  },
+  {
+    "id": "1652",
+    "name": "5Star"
+  },
+  {
+    "id": "2168",
+    "name": "ITV Quiz"
+  },
+  {
+    "id": "1488",
+    "name": "Eurosport 1 E"
+  },
+  {
+    "id": "86",
+    "name": "CBeebies"
+  },
+  {
+    "id": "2153",
+    "name": "Daystar"
+  },
+  {
+    "id": "369",
+    "name": "RTS 1"
+  },
+  {
+    "id": "367",
+    "name": "RTS 2"
+  },
+  {
+    "id": "601",
+    "name": "TF1"
+  },
+  {
+    "id": "249",
+    "name": "M6"
+  },
+  {
+    "id": "182",
+    "name": "France 2"
+  },
+  {
+    "id": "184",
+    "name": "France 3"
+  },
+  {
+    "id": "185",
+    "name": "France 4"
+  },
+  {
+    "id": "186",
+    "name": "France 5"
+  },
+  {
+    "id": "609",
+    "name": "TMC"
+  },
+  {
+    "id": "295",
+    "name": "TFX"
+  },
+  {
+    "id": "115",
+    "name": "CSTAR F"
+  },
+  {
+    "id": "420",
+    "name": "blue Zoom F"
+  },
+  {
+    "id": "355",
+    "name": "CARAC 1"
+  },
+  {
+    "id": "653",
+    "name": "W9"
+  },
+  {
+    "id": "28",
+    "name": "Arte Français"
+  },
+  {
+    "id": "364",
+    "name": "RTL9"
+  },
+  {
+    "id": "1081",
+    "name": "AB 3"
+  },
+  {
+    "id": "9",
+    "name": "6ter"
+  },
+  {
+    "id": "11",
+    "name": "AB1"
+  },
+  {
+    "id": "244",
+    "name": "Léman Bleu Télévision"
+  },
+  {
+    "id": "242",
+    "name": "La Télé"
+  },
+  {
+    "id": "72",
+    "name": "Canal 9"
+  },
+  {
+    "id": "74",
+    "name": "Canal Alpha NE"
+  },
+  {
+    "id": "73",
+    "name": "Canal Alpha JU"
+  },
+  {
+    "id": "246",
+    "name": "CARAC 3"
+  },
+  {
+    "id": "301",
+    "name": "CARAC 2"
+  },
+  {
+    "id": "1082",
+    "name": "CARAC 4"
+  },
+  {
+    "id": "2180",
+    "name": "Canal B F"
+  },
+  {
+    "id": "637",
+    "name": "TV8 Mont Blanc"
+  },
+  {
+    "id": "12",
+    "name": "Action"
+  },
+  {
+    "id": "1128",
+    "name": "Crime District"
+  },
+  {
+    "id": "63",
+    "name": "Canal+ en clair"
+  },
+  {
+    "id": "622",
+    "name": "tv breizh"
+  },
+  {
+    "id": "1532",
+    "name": "MCM"
+  },
+  {
+    "id": "1636",
+    "name": "Eurochannel F"
+  },
+  {
+    "id": "199",
+    "name": "TF1 Séries Films"
+  },
+  {
+    "id": "93",
+    "name": "RMC Life"
+  },
+  {
+    "id": "22",
+    "name": "Animaux"
+  },
+  {
+    "id": "379",
+    "name": "Science & Vie"
+  },
+  {
+    "id": "615",
+    "name": "Toute l'Histoire"
+  },
+  {
+    "id": "618",
+    "name": "Trek"
+  },
+  {
+    "id": "279",
+    "name": "National Geographic F"
+  },
+  {
+    "id": "283",
+    "name": "National Geographic Wild F"
+  },
+  {
+    "id": "202",
+    "name": "histoire"
+  },
+  {
+    "id": "380",
+    "name": "Seasons"
+  },
+  {
+    "id": "635",
+    "name": "TV5 MONDE EUROPE"
+  },
+  {
+    "id": "43",
+    "name": "BFM TV"
+  },
+  {
+    "id": "183",
+    "name": "France 24"
+  },
+  {
+    "id": "636",
+    "name": "TV5 Monde FBS"
+  },
+  {
+    "id": "165",
+    "name": "Euronews F"
+  },
+  {
+    "id": "217",
+    "name": "CNEWS"
+  },
+  {
+    "id": "241",
+    "name": "La Chaine Info - LCI"
+  },
+  {
+    "id": "41",
+    "name": "CARAC 5"
+  },
+  {
+    "id": "1064",
+    "name": "franceinfo"
+  },
+  {
+    "id": "353",
+    "name": "RMC Découverte"
+  },
+  {
+    "id": "209",
+    "name": "i24 News Français"
+  },
+  {
+    "id": "298",
+    "name": "RMC Story"
+  },
+  {
+    "id": "42",
+    "name": "BFM Business"
+  },
+  {
+    "id": "1658",
+    "name": "La Chaîne parlementaire"
+  },
+  {
+    "id": "1686",
+    "name": "Benin TV"
+  },
+  {
+    "id": "2133",
+    "name": "TV Monaco"
+  },
+  {
+    "id": "2166",
+    "name": "T18"
+  },
+  {
+    "id": "168",
+    "name": "Eurosport 1 F"
+  },
+  {
+    "id": "171",
+    "name": "Eurosport 2 F"
+  },
+  {
+    "id": "10",
+    "name": "AUTOMOTO"
+  },
+  {
+    "id": "245",
+    "name": "L'Equipe"
+  },
+  {
+    "id": "82",
+    "name": "Cartoon Network F"
+  },
+  {
+    "id": "53",
+    "name": "Boomerang F"
+  },
+  {
+    "id": "605",
+    "name": "Tiji"
+  },
+  {
+    "id": "76",
+    "name": "Canal J"
+  },
+  {
+    "id": "291",
+    "name": "Nickelodeon"
+  },
+  {
+    "id": "595",
+    "name": "Télétoon+"
+  },
+  {
+    "id": "1767",
+    "name": "Nicktoons F"
+  },
+  {
+    "id": "195",
+    "name": "Gulli"
+  },
+  {
+    "id": "253",
+    "name": "Max TV"
+  },
+  {
+    "id": "582",
+    "name": "Genève Région Television/TéléVersoix"
+  },
+  {
+    "id": "294",
+    "name": "NRTV"
+  },
+  {
+    "id": "1328",
+    "name": "Grand Genève TV"
+  },
+  {
+    "id": "1331",
+    "name": "TV Onex"
+  },
+  {
+    "id": "232",
+    "name": "KTO"
+  },
+  {
+    "id": "1",
+    "name": "13eme Rue"
+  },
+  {
+    "id": "416",
+    "name": "Syfy F"
+  },
+  {
+    "id": "1329",
+    "name": "Warner TV"
+  },
+  {
+    "id": "123",
+    "name": "Discovery F"
+  },
+  {
+    "id": "125",
+    "name": "TLC F"
+  },
+  {
+    "id": "644",
+    "name": "Ushuaia TV"
+  },
+  {
+    "id": "129",
+    "name": "Disney Channel F"
+  },
+  {
+    "id": "132",
+    "name": "Disney Junior F"
+  },
+  {
+    "id": "290",
+    "name": "Nick Jr."
+  },
+  {
+    "id": "1330",
+    "name": "WarnerTV Next"
+  },
+  {
+    "id": "52",
+    "name": "Cartoonito F"
+  },
+  {
+    "id": "252",
+    "name": "Mangas"
+  },
+  {
+    "id": "67",
+    "name": "OCS"
+  },
+  {
+    "id": "66",
+    "name": "Cine+ Frisson"
+  },
+  {
+    "id": "62",
+    "name": "Cine+ Emotion"
+  },
+  {
+    "id": "65",
+    "name": "Ciné+ family"
+  },
+  {
+    "id": "60",
+    "name": "Ciné+ festival"
+  },
+  {
+    "id": "59",
+    "name": "Ciné+ Classic"
+  },
+  {
+    "id": "109",
+    "name": "Comedie!+"
+  },
+  {
+    "id": "316",
+    "name": "Planète+"
+  },
+  {
+    "id": "317",
+    "name": "Planète+ A&E"
+  },
+  {
+    "id": "318",
+    "name": "Planète+ C&I"
+  },
+  {
+    "id": "315",
+    "name": "Piwi+"
+  },
+  {
+    "id": "213",
+    "name": "infosport+"
+  },
+  {
+    "id": "590",
+    "name": "blue Sport F"
+  },
+  {
+    "id": "950",
+    "name": "blue Sport 1 direct"
+  },
+  {
+    "id": "952",
+    "name": "blue Sport 2 direct"
+  },
+  {
+    "id": "954",
+    "name": "blue Sport 3 direct"
+  },
+  {
+    "id": "956",
+    "name": "blue Sport 4 direct"
+  },
+  {
+    "id": "958",
+    "name": "blue Sport 5 direct"
+  },
+  {
+    "id": "930",
+    "name": "blue Sport 6 direct"
+  },
+  {
+    "id": "932",
+    "name": "blue Sport 7 direct"
+  },
+  {
+    "id": "934",
+    "name": "blue Sport 8 direct"
+  },
+  {
+    "id": "936",
+    "name": "blue Sport 9 direct"
+  },
+  {
+    "id": "938",
+    "name": "blue Sport 10 direct"
+  },
+  {
+    "id": "940",
+    "name": "blue Sport 11 direct"
+  },
+  {
+    "id": "942",
+    "name": "blue Sport 12 direct"
+  },
+  {
+    "id": "944",
+    "name": "blue Sport 13 direct"
+  },
+  {
+    "id": "946",
+    "name": "blue Sport 14 direct"
+  },
+  {
+    "id": "948",
+    "name": "blue Sport 15 direct"
+  },
+  {
+    "id": "506",
+    "name": "blue Sport 16 direct"
+  },
+  {
+    "id": "507",
+    "name": "blue Sport 17 direct"
+  },
+  {
+    "id": "508",
+    "name": "blue Sport 18 direct"
+  },
+  {
+    "id": "509",
+    "name": "blue Sport 19 direct"
+  },
+  {
+    "id": "510",
+    "name": "blue Sport 20 direct"
+  },
+  {
+    "id": "1356",
+    "name": "blue Sport 21 direct"
+  },
+  {
+    "id": "1354",
+    "name": "blue Sport 22 direct"
+  },
+  {
+    "id": "1355",
+    "name": "blue Sport 23 direct"
+  },
+  {
+    "id": "1357",
+    "name": "blue Sport 24 direct"
+  },
+  {
+    "id": "1358",
+    "name": "blue Sport 25 direct"
+  },
+  {
+    "id": "1001",
+    "name": "blue Sport 1 direct F"
+  },
+  {
+    "id": "1251",
+    "name": "blue Sport 2 direct F"
+  },
+  {
+    "id": "1252",
+    "name": "blue Sport 3 direct F"
+  },
+  {
+    "id": "1441",
+    "name": "blue Sport 4 direct F"
+  },
+  {
+    "id": "151",
+    "name": "Equidia Live"
+  },
+  {
+    "id": "92",
+    "name": "Chasse et Peche"
+  },
+  {
+    "id": "57",
+    "name": "CANAL+"
+  },
+  {
+    "id": "1273",
+    "name": "Polar+"
+  },
+  {
+    "id": "58",
+    "name": "CANAL+ Cinema(s)"
+  },
+  {
+    "id": "2037",
+    "name": "Canal+ Grand Ecran"
+  },
+  {
+    "id": "2036",
+    "name": "Canal+ Box Office"
+  },
+  {
+    "id": "1731",
+    "name": "Novelas"
+  },
+  {
+    "id": "349",
+    "name": "RFM TV"
+  },
+  {
+    "id": "1969",
+    "name": "Comedy Central F"
+  },
+  {
+    "id": "1967",
+    "name": "Canal+ Docs"
+  },
+  {
+    "id": "1760",
+    "name": "la chaîne météo"
+  },
+  {
+    "id": "1973",
+    "name": "Museum TV"
+  },
+  {
+    "id": "69",
+    "name": "CANAL+ Sport"
+  },
+  {
+    "id": "1974",
+    "name": "Canal+ Sport 360"
+  },
+  {
+    "id": "1972",
+    "name": "Canal+ Foot"
+  },
+  {
+    "id": "193",
+    "name": "GOLF+"
+  },
+  {
+    "id": "1729",
+    "name": "Olympia TV"
+  },
+  {
+    "id": "64",
+    "name": "CANAL+ Kids"
+  },
+  {
+    "id": "1761",
+    "name": "Melody"
+  },
+  {
+    "id": "1979",
+    "name": "MTV France"
+  },
+  {
+    "id": "1987",
+    "name": "Trace Latina"
+  },
+  {
+    "id": "1558",
+    "name": "MySports 2 F"
+  },
+  {
+    "id": "1559",
+    "name": "MySports 3 F"
+  },
+  {
+    "id": "1560",
+    "name": "MySports 4 F"
+  },
+  {
+    "id": "1561",
+    "name": "MySports 5 F"
+  },
+  {
+    "id": "1562",
+    "name": "MySports 6 F"
+  },
+  {
+    "id": "1563",
+    "name": "MySports 7 F"
+  },
+  {
+    "id": "1564",
+    "name": "MySports 8 F"
+  },
+  {
+    "id": "1565",
+    "name": "MySports 9 F"
+  },
+  {
+    "id": "1557",
+    "name": "MySports Un"
+  },
+  {
+    "id": "1723",
+    "name": "Motorvision.TV France"
+  },
+  {
+    "id": "356",
+    "name": "RSI LA 1"
+  },
+  {
+    "id": "357",
+    "name": "RSI LA 2"
+  },
+  {
+    "id": "79",
+    "name": "Canale 5"
+  },
+  {
+    "id": "327",
+    "name": "Rai 1"
+  },
+  {
+    "id": "328",
+    "name": "Rai 2"
+  },
+  {
+    "id": "329",
+    "name": "Rai 3"
+  },
+  {
+    "id": "330",
+    "name": "Rai 4"
+  },
+  {
+    "id": "348",
+    "name": "Rete 4"
+  },
+  {
+    "id": "215",
+    "name": "Italia 1"
+  },
+  {
+    "id": "96",
+    "name": "Cielo"
+  },
+  {
+    "id": "237",
+    "name": "La 7"
+  },
+  {
+    "id": "578",
+    "name": "Tele Ticino"
+  },
+  {
+    "id": "257",
+    "name": "Mediaset Extra"
+  },
+  {
+    "id": "216",
+    "name": "Italia 2"
+  },
+  {
+    "id": "592",
+    "name": "Telelombardia"
+  },
+  {
+    "id": "80",
+    "name": "Canale Italia"
+  },
+  {
+    "id": "1380",
+    "name": "Antenna 3"
+  },
+  {
+    "id": "593",
+    "name": "Telenova"
+  },
+  {
+    "id": "2113",
+    "name": "Rete 55"
+  },
+  {
+    "id": "1806",
+    "name": "Eurochannel IT"
+  },
+  {
+    "id": "2028",
+    "name": "RAI Italia"
+  },
+  {
+    "id": "243",
+    "name": "La5"
+  },
+  {
+    "id": "214",
+    "name": "IRIS"
+  },
+  {
+    "id": "239",
+    "name": "La7 Cinema"
+  },
+  {
+    "id": "334",
+    "name": "Rai Movie"
+  },
+  {
+    "id": "1379",
+    "name": "20 Mediaset"
+  },
+  {
+    "id": "336",
+    "name": "Rai Premium"
+  },
+  {
+    "id": "613",
+    "name": "Top Crime"
+  },
+  {
+    "id": "191",
+    "name": "Giallo"
+  },
+  {
+    "id": "1388",
+    "name": "Telecity"
+  },
+  {
+    "id": "1665",
+    "name": "Cine34"
+  },
+  {
+    "id": "266",
+    "name": "TV8"
+  },
+  {
+    "id": "1948",
+    "name": "Twentyseven"
+  },
+  {
+    "id": "124",
+    "name": "Discovery Channel I"
+  },
+  {
+    "id": "1693",
+    "name": "History IT"
+  },
+  {
+    "id": "1975",
+    "name": "Sky Crime IT"
+  },
+  {
+    "id": "137",
+    "name": "DMAX Italia"
+  },
+  {
+    "id": "335",
+    "name": "Rai News 24"
+  },
+  {
+    "id": "346",
+    "name": "Real Time"
+  },
+  {
+    "id": "166",
+    "name": "Euronews I"
+  },
+  {
+    "id": "340",
+    "name": "Rai Storia"
+  },
+  {
+    "id": "1346",
+    "name": "Focus"
+  },
+  {
+    "id": "331",
+    "name": "Rai 5"
+  },
+  {
+    "id": "1384",
+    "name": "Motor Trend"
+  },
+  {
+    "id": "1287",
+    "name": "TGCom24"
+  },
+  {
+    "id": "393",
+    "name": "sky TG 24"
+  },
+  {
+    "id": "337",
+    "name": "Rai Scuola"
+  },
+  {
+    "id": "643",
+    "name": "UniNettuno University TV"
+  },
+  {
+    "id": "1645",
+    "name": "Espansione TV"
+  },
+  {
+    "id": "1671",
+    "name": "Senato TV"
+  },
+  {
+    "id": "1719",
+    "name": "San Marino RTV"
+  },
+  {
+    "id": "1808",
+    "name": "Camera dei Deputati"
+  },
+  {
+    "id": "118",
+    "name": "NOVE"
+  },
+  {
+    "id": "2060",
+    "name": "Trentino TV"
+  },
+  {
+    "id": "2063",
+    "name": "Telecupole"
+  },
+  {
+    "id": "2057",
+    "name": "Telenuovo"
+  },
+  {
+    "id": "2167",
+    "name": "Radio 24 - Il Sole 24 Ore TV"
+  },
+  {
+    "id": "2022",
+    "name": "Pretty TV"
+  },
+  {
+    "id": "1348",
+    "name": "Food Network IT"
+  },
+  {
+    "id": "16",
+    "name": "ALMA TV"
+  },
+  {
+    "id": "101",
+    "name": "Class TV Moda"
+  },
+  {
+    "id": "1646",
+    "name": "Home & Garden TV IT"
+  },
+  {
+    "id": "169",
+    "name": "Eurosport 1 I"
+  },
+  {
+    "id": "172",
+    "name": "Eurosport 2 I"
+  },
+  {
+    "id": "2032",
+    "name": "Inter TV"
+  },
+  {
+    "id": "338",
+    "name": "Rai Sport +"
+  },
+  {
+    "id": "2061",
+    "name": "TeleCapri Sport"
+  },
+  {
+    "id": "1387",
+    "name": "SPORTITALIA"
+  },
+  {
+    "id": "1386",
+    "name": "SuperTennis TV"
+  },
+  {
+    "id": "1667",
+    "name": "Top Calcio 24"
+  },
+  {
+    "id": "2054",
+    "name": "Bike Channel"
+  },
+  {
+    "id": "2049",
+    "name": "SI Solocalcio"
+  },
+  {
+    "id": "2021",
+    "name": "Cartoon TV"
+  },
+  {
+    "id": "51",
+    "name": "Boing I"
+  },
+  {
+    "id": "332",
+    "name": "Rai Gulp"
+  },
+  {
+    "id": "84",
+    "name": "cartoonito I"
+  },
+  {
+    "id": "225",
+    "name": "K2"
+  },
+  {
+    "id": "189",
+    "name": "Frisbee"
+  },
+  {
+    "id": "341",
+    "name": "Rai Yoyo"
+  },
+  {
+    "id": "412",
+    "name": "Super!"
+  },
+  {
+    "id": "633",
+    "name": "TV2000"
+  },
+  {
+    "id": "1951",
+    "name": "Parole di Vita"
+  },
+  {
+    "id": "1382",
+    "name": "Italia Channel"
+  },
+  {
+    "id": "384",
+    "name": "SIC Internacional"
+  },
+  {
+    "id": "1483",
+    "name": "TVI Internacional"
+  },
+  {
+    "id": "1487",
+    "name": "V+TVI"
+  },
+  {
+    "id": "1484",
+    "name": "RTP Notícias"
+  },
+  {
+    "id": "1482",
+    "name": "SIC Noticias"
+  },
+  {
+    "id": "1980",
+    "name": "Canal 11"
+  },
+  {
+    "id": "365",
+    "name": "RTP Internacional"
+  },
+  {
+    "id": "347",
+    "name": "Record TV"
+  },
+  {
+    "id": "608",
+    "name": "Tlnovelas"
+  },
+  {
+    "id": "75",
+    "name": "Las Estrellas"
+  },
+  {
+    "id": "117",
+    "name": "De Pelicula"
+  },
+  {
+    "id": "352",
+    "name": "Telehit Music"
+  },
+  {
+    "id": "1954",
+    "name": "Atreseries"
+  },
+  {
+    "id": "1953",
+    "name": "Antena 3 Int."
+  },
+  {
+    "id": "639",
+    "name": "TVE Internacional"
+  },
+  {
+    "id": "71",
+    "name": "Canal 24 Horas"
+  },
+  {
+    "id": "19",
+    "name": "Canal Sur Andalucía"
+  },
+  {
+    "id": "1535",
+    "name": "Aragón TV Int"
+  },
+  {
+    "id": "1668",
+    "name": "teleSUR"
+  },
+  {
+    "id": "2062",
+    "name": "Cubavisión Int."
+  },
+  {
+    "id": "2058",
+    "name": "BOM Cine"
+  },
+  {
+    "id": "624",
+    "name": "Televisión de Galicia"
+  },
+  {
+    "id": "383",
+    "name": "Show Türk"
+  },
+  {
+    "id": "30",
+    "name": "ATV Avrupa"
+  },
+  {
+    "id": "161",
+    "name": "Euro D"
+  },
+  {
+    "id": "620",
+    "name": "TRT Türk"
+  },
+  {
+    "id": "638",
+    "name": "TV8 Int."
+  },
+  {
+    "id": "162",
+    "name": "Euro Star"
+  },
+  {
+    "id": "394",
+    "name": "360"
+  },
+  {
+    "id": "602",
+    "name": "TGRT EU"
+  },
+  {
+    "id": "1297",
+    "name": "Showmax"
+  },
+  {
+    "id": "1480",
+    "name": "TRT Müzik"
+  },
+  {
+    "id": "1479",
+    "name": "TRT Spor"
+  },
+  {
+    "id": "1478",
+    "name": "TRT Belgesel"
+  },
+  {
+    "id": "1477",
+    "name": "TRT Çocuk"
+  },
+  {
+    "id": "1656",
+    "name": "CNN Türk"
+  },
+  {
+    "id": "1718",
+    "name": "ATV (TR)"
+  },
+  {
+    "id": "619",
+    "name": "TRT Kurdi"
+  },
+  {
+    "id": "235",
+    "name": "Kurdistan TV"
+  },
+  {
+    "id": "372",
+    "name": "Rudaw TV"
+  },
+  {
+    "id": "370",
+    "name": "RTV 21"
+  },
+  {
+    "id": "234",
+    "name": "KTV Kohavision"
+  },
+  {
+    "id": "1689",
+    "name": "T7"
+  },
+  {
+    "id": "1782",
+    "name": "TV Klan"
+  },
+  {
+    "id": "1893",
+    "name": "RTV21 M"
+  },
+  {
+    "id": "1878",
+    "name": "TV Ora"
+  },
+  {
+    "id": "1446",
+    "name": "TV Dukagjini"
+  },
+  {
+    "id": "1688",
+    "name": "First Channel"
+  },
+  {
+    "id": "1880",
+    "name": "ABC News"
+  },
+  {
+    "id": "1876",
+    "name": "ATV  Albania"
+  },
+  {
+    "id": "1894",
+    "name": "Euronews AL"
+  },
+  {
+    "id": "1895",
+    "name": "Fax News"
+  },
+  {
+    "id": "1879",
+    "name": "Syri TV"
+  },
+  {
+    "id": "1877",
+    "name": "Top Channel"
+  },
+  {
+    "id": "1896",
+    "name": "Arta News"
+  },
+  {
+    "id": "1679",
+    "name": "Zico TV"
+  },
+  {
+    "id": "2052",
+    "name": "Teve 1"
+  },
+  {
+    "id": "358",
+    "name": "RTK 1"
+  },
+  {
+    "id": "614",
+    "name": "Top News"
+  },
+  {
+    "id": "2067",
+    "name": "RTSH 24"
+  },
+  {
+    "id": "314",
+    "name": "Pink Plus"
+  },
+  {
+    "id": "309",
+    "name": "Pink Extra"
+  },
+  {
+    "id": "310",
+    "name": "Pink Film"
+  },
+  {
+    "id": "313",
+    "name": "Pink Music"
+  },
+  {
+    "id": "1413",
+    "name": "Pink Folk"
+  },
+  {
+    "id": "311",
+    "name": "Pink Kids"
+  },
+  {
+    "id": "1459",
+    "name": "Pink Reality"
+  },
+  {
+    "id": "312",
+    "name": "Pink Koncert"
+  },
+  {
+    "id": "1692",
+    "name": "Pink Serije"
+  },
+  {
+    "id": "2010",
+    "name": "Pink Hits 1"
+  },
+  {
+    "id": "135",
+    "name": "DM Sat TV"
+  },
+  {
+    "id": "1445",
+    "name": "RTS Svet"
+  },
+  {
+    "id": "2065",
+    "name": "TVCG MNE"
+  },
+  {
+    "id": "413",
+    "name": "K::CN 3"
+  },
+  {
+    "id": "1649",
+    "name": "BN Music"
+  },
+  {
+    "id": "1662",
+    "name": "TV Duga+"
+  },
+  {
+    "id": "48",
+    "name": "BN TV Sat"
+  },
+  {
+    "id": "197",
+    "name": "Hayat 2"
+  },
+  {
+    "id": "196",
+    "name": "Hayat FOLK BOX"
+  },
+  {
+    "id": "1913",
+    "name": "BN 2"
+  },
+  {
+    "id": "1481",
+    "name": "OBN TV"
+  },
+  {
+    "id": "1966",
+    "name": "Hayatovci"
+  },
+  {
+    "id": "2087",
+    "name": "Nova BH"
+  },
+  {
+    "id": "112",
+    "name": "Croatian Music Channel"
+  },
+  {
+    "id": "206",
+    "name": "HRT 1"
+  },
+  {
+    "id": "2069",
+    "name": "HRT 4"
+  },
+  {
+    "id": "629",
+    "name": "TVP Polonia"
+  },
+  {
+    "id": "2066",
+    "name": "TVP Info"
+  },
+  {
+    "id": "2086",
+    "name": "Epic Drama"
+  },
+  {
+    "id": "1529",
+    "name": "Duna TV"
+  },
+  {
+    "id": "140",
+    "name": "Duna World"
+  },
+  {
+    "id": "1527",
+    "name": "M2"
+  },
+  {
+    "id": "1531",
+    "name": "M5"
+  },
+  {
+    "id": "1528",
+    "name": "M1"
+  },
+  {
+    "id": "1664",
+    "name": "HRT Int."
+  },
+  {
+    "id": "1699",
+    "name": "CT24"
+  },
+  {
+    "id": "321",
+    "name": "Pro TV International"
+  },
+  {
+    "id": "631",
+    "name": "TV Romania International"
+  },
+  {
+    "id": "229",
+    "name": "Kinomir"
+  },
+  {
+    "id": "587",
+    "name": "TeleBom - TeleDom"
+  },
+  {
+    "id": "922",
+    "name": "OstWest"
+  },
+  {
+    "id": "371",
+    "name": "RTVi"
+  },
+  {
+    "id": "366",
+    "name": "RTR Planeta"
+  },
+  {
+    "id": "1457",
+    "name": "Israel+"
+  },
+  {
+    "id": "153",
+    "name": "ERT World"
+  },
+  {
+    "id": "351",
+    "name": "RIK Sat"
+  },
+  {
+    "id": "2097",
+    "name": "Kanali Voulis"
+  },
+  {
+    "id": "56",
+    "name": "BVN TV"
+  },
+  {
+    "id": "3",
+    "name": "2M Monde"
+  },
+  {
+    "id": "138",
+    "name": "Dubai TV"
+  },
+  {
+    "id": "13",
+    "name": "Al Arabiya"
+  },
+  {
+    "id": "154",
+    "name": "Al Masriya"
+  },
+  {
+    "id": "1673",
+    "name": "Tunisie Nationale"
+  },
+  {
+    "id": "403",
+    "name": "Utsav Gold"
+  },
+  {
+    "id": "404",
+    "name": "Utsav Plus"
+  },
+  {
+    "id": "407",
+    "name": "Vijay TV"
+  },
+  {
+    "id": "88",
+    "name": "CCTV4"
+  },
+  {
+    "id": "87",
+    "name": "CGTN"
+  },
+  {
+    "id": "306",
+    "name": "Phoenix Info News"
+  },
+  {
+    "id": "1500",
+    "name": "KBS World"
+  },
+  {
+    "id": "2081",
+    "name": "1+1 Ukraine"
+  },
+  {
+    "id": "1919",
+    "name": "FreeDOM"
+  },
+  {
+    "id": "1930",
+    "name": "Diaspora TV Switzerland"
+  },
+  {
+    "id": "2080",
+    "name": "Pixel"
+  },
+  {
+    "id": "2084",
+    "name": "Enter-Film"
+  },
+  {
+    "id": "2099",
+    "name": "Espreso TV"
+  },
+  {
+    "id": "2059",
+    "name": "RTVS 24"
+  },
+  {
+    "id": "2150",
+    "name": "Info Channel"
+  },
+  {
+    "id": "2026",
+    "name": "blue Event D 1"
+  },
+  {
+    "id": "2027",
+    "name": "blue Event F 1"
+  },
+  {
+    "id": "600",
+    "name": "Test Italia"
+  },
+  {
+    "id": "1827",
+    "name": "ARD Plus (Logo VOD)"
+  },
+  {
+    "id": "1828",
+    "name": "ARD Plus Kids (Logo VOD)"
+  },
+  {
+    "id": "1829",
+    "name": "ZDF select (Logo VOD)"
+  },
+  {
+    "id": "1830",
+    "name": "ZDFtivi select (Logo VOD)"
+  },
+  {
+    "id": "1826",
+    "name": "Sky Cinema (Logo VOD)"
+  },
+  {
+    "id": "2017",
+    "name": "Sky (Logo VOD)"
+  },
+  {
+    "id": "2016",
+    "name": "Explore (Logo VOD)"
+  },
+  {
+    "id": "2134",
+    "name": "RTL GEO Wild  (Logo VOD)"
+  },
+  {
+    "id": "2144",
+    "name": "Session National Council WEB"
+  },
+  {
+    "id": "2143",
+    "name": "Session Council Of States WEB"
+  },
+  {
+    "id": "5",
+    "name": "3D Demo"
+  },
+  {
+    "id": "14",
+    "name": "Al Jazeera"
+  },
+  {
+    "id": "21",
+    "name": "Animal Planet I"
+  },
+  {
+    "id": "23",
+    "name": "Animax"
+  },
+  {
+    "id": "29",
+    "name": "ATV"
+  },
+  {
+    "id": "33",
+    "name": "B1 TV"
+  },
+  {
+    "id": "34",
+    "name": "BBC Entertainment"
+  },
+  {
+    "id": "38",
+    "name": "BBC Three"
+  },
+  {
+    "id": "45",
+    "name": "Bliss"
+  },
+  {
+    "id": "50",
+    "name": "Body in Balance"
+  },
+  {
+    "id": "61",
+    "name": "CANAL+ Décalé"
+  },
+  {
+    "id": "68",
+    "name": "CANAL+ Series"
+  },
+  {
+    "id": "81",
+    "name": "Capital TV"
+  },
+  {
+    "id": "90",
+    "name": "Channel 1 Russia"
+  },
+  {
+    "id": "91",
+    "name": "Trace Hits"
+  },
+  {
+    "id": "95",
+    "name": "CHTV"
+  },
+  {
+    "id": "97",
+    "name": "Ciné FX"
+  },
+  {
+    "id": "98",
+    "name": "Ciné Polar"
+  },
+  {
+    "id": "99",
+    "name": "Disney Cinemagic"
+  },
+  {
+    "id": "100",
+    "name": "CCONE"
+  },
+  {
+    "id": "108",
+    "name": "Collection"
+  },
+  {
+    "id": "113",
+    "name": "Cuisine+"
+  },
+  {
+    "id": "114",
+    "name": "CSTAR"
+  },
+  {
+    "id": "119",
+    "name": "Deepam TV"
+  },
+  {
+    "id": "120",
+    "name": "Deluxe_Music"
+  },
+  {
+    "id": "126",
+    "name": "Science Channel I"
+  },
+  {
+    "id": "127",
+    "name": "Discovery Travel + Living I"
+  },
+  {
+    "id": "130",
+    "name": "Disney Cinema F"
+  },
+  {
+    "id": "131",
+    "name": "Disney Junior D"
+  },
+  {
+    "id": "133",
+    "name": "Disney XD D"
+  },
+  {
+    "id": "134",
+    "name": "Disney XD F"
+  },
+  {
+    "id": "139",
+    "name": "Duna"
+  },
+  {
+    "id": "143",
+    "name": "E! Entertainment Deutschland"
+  },
+  {
+    "id": "144",
+    "name": "E! Entertainment France"
+  },
+  {
+    "id": "145",
+    "name": "E! Entertainment Europe"
+  },
+  {
+    "id": "148",
+    "name": "Eins Plus"
+  },
+  {
+    "id": "149",
+    "name": "Energy TV"
+  },
+  {
+    "id": "150",
+    "name": "Equidia Life"
+  },
+  {
+    "id": "173",
+    "name": "Extreme Sport"
+  },
+  {
+    "id": "174",
+    "name": "tm3"
+  },
+  {
+    "id": "175",
+    "name": "Fashion TV"
+  },
+  {
+    "id": "177",
+    "name": "Fine Living"
+  },
+  {
+    "id": "179",
+    "name": "Flava"
+  },
+  {
+    "id": "181",
+    "name": "Fox"
+  },
+  {
+    "id": "187",
+    "name": "France O"
+  },
+  {
+    "id": "190",
+    "name": "Game TV"
+  },
+  {
+    "id": "192",
+    "name": "Golf Channel"
+  },
+  {
+    "id": "194",
+    "name": "gotv"
+  },
+  {
+    "id": "200",
+    "name": "Heart TV"
+  },
+  {
+    "id": "201",
+    "name": "Box Upfront"
+  },
+  {
+    "id": "222",
+    "name": "joiz"
+  },
+  {
+    "id": "223",
+    "name": "ELLE GIRL"
+  },
+  {
+    "id": "224",
+    "name": "Junior"
+  },
+  {
+    "id": "230",
+    "name": "Kiss TV"
+  },
+  {
+    "id": "231",
+    "name": "Klan Kosova"
+  },
+  {
+    "id": "236",
+    "name": "Kurdsat"
+  },
+  {
+    "id": "248",
+    "name": "M6 Boutique"
+  },
+  {
+    "id": "250",
+    "name": "RMC Sport Access 2"
+  },
+  {
+    "id": "251",
+    "name": "Maison+"
+  },
+  {
+    "id": "259",
+    "name": "MGM"
+  },
+  {
+    "id": "261",
+    "name": "Montagne TV"
+  },
+  {
+    "id": "263",
+    "name": "Motorsport TV"
+  },
+  {
+    "id": "265",
+    "name": "MPT Sat"
+  },
+  {
+    "id": "267",
+    "name": "MTV Brand New"
+  },
+  {
+    "id": "269",
+    "name": "MTV Dance"
+  },
+  {
+    "id": "270",
+    "name": "MTV Hits"
+  },
+  {
+    "id": "271",
+    "name": "MTV Live"
+  },
+  {
+    "id": "272",
+    "name": "MTV Music 24"
+  },
+  {
+    "id": "274",
+    "name": "MTV Rocks"
+  },
+  {
+    "id": "276",
+    "name": "My Music"
+  },
+  {
+    "id": "280",
+    "name": "National Geographic I"
+  },
+  {
+    "id": "281",
+    "name": "Nat Geo People I"
+  },
+  {
+    "id": "284",
+    "name": "National Geographic Wild I"
+  },
+  {
+    "id": "285",
+    "name": "Nautical Channel"
+  },
+  {
+    "id": "293",
+    "name": "NRJ12"
+  },
+  {
+    "id": "296",
+    "name": "NTV Avrupa"
+  },
+  {
+    "id": "299",
+    "name": "Nuvola61"
+  },
+  {
+    "id": "304",
+    "name": "Paramount F"
+  },
+  {
+    "id": "319",
+    "name": "Planète+ Thalassa"
+  },
+  {
+    "id": "320",
+    "name": "Powertürk"
+  },
+  {
+    "id": "324",
+    "name": "PTPC"
+  },
+  {
+    "id": "333",
+    "name": "Rai"
+  },
+  {
+    "id": "339",
+    "name": "Rai Sport"
+  },
+  {
+    "id": "368",
+    "name": "RTS Sat"
+  },
+  {
+    "id": "373",
+    "name": "RT"
+  },
+  {
+    "id": "376",
+    "name": "Sat.1 emotions"
+  },
+  {
+    "id": "378",
+    "name": "Schweiz 5"
+  },
+  {
+    "id": "386",
+    "name": "Sky Atlantic"
+  },
+  {
+    "id": "388",
+    "name": "Sky Bundesliga Sport 1"
+  },
+  {
+    "id": "391",
+    "name": "Kerrang!"
+  },
+  {
+    "id": "392",
+    "name": "Sky Sport 2"
+  },
+  {
+    "id": "402",
+    "name": "Sport Szene Fernsehen"
+  },
+  {
+    "id": "406",
+    "name": "Star TV Tur"
+  },
+  {
+    "id": "409",
+    "name": "CTC International"
+  },
+  {
+    "id": "410",
+    "name": "Stylia"
+  },
+  {
+    "id": "419",
+    "name": "TC Flash D"
+  },
+  {
+    "id": "422",
+    "name": "blue Sport Event 2"
+  },
+  {
+    "id": "423",
+    "name": "blue Sport Event 11"
+  },
+  {
+    "id": "425",
+    "name": "blue Sport Event 12"
+  },
+  {
+    "id": "427",
+    "name": "blue Sport Event 13"
+  },
+  {
+    "id": "429",
+    "name": "blue Sport Event 14"
+  },
+  {
+    "id": "431",
+    "name": "blue Sport Event 15"
+  },
+  {
+    "id": "433",
+    "name": "blue Sport Event 16"
+  },
+  {
+    "id": "435",
+    "name": "blue Sport Event 17"
+  },
+  {
+    "id": "437",
+    "name": "blue Sport Event 18"
+  },
+  {
+    "id": "439",
+    "name": "blue Sport Event 19"
+  },
+  {
+    "id": "441",
+    "name": "blue Sport Event 20"
+  },
+  {
+    "id": "443",
+    "name": "blue Sport Event 3"
+  },
+  {
+    "id": "445",
+    "name": "blue Sport Event 21"
+  },
+  {
+    "id": "447",
+    "name": "blue Sport Event 22"
+  },
+  {
+    "id": "449",
+    "name": "blue Sport Event 23"
+  },
+  {
+    "id": "451",
+    "name": "blue Sport Event 24"
+  },
+  {
+    "id": "453",
+    "name": "blue Sport Event 25"
+  },
+  {
+    "id": "455",
+    "name": "blue Sport Event 26"
+  },
+  {
+    "id": "457",
+    "name": "blue Sport Event 27"
+  },
+  {
+    "id": "459",
+    "name": "blue Sports Event 16"
+  },
+  {
+    "id": "461",
+    "name": "blue Sports Event 17"
+  },
+  {
+    "id": "463",
+    "name": "blue Sports Event 18"
+  },
+  {
+    "id": "465",
+    "name": "blue Sport Event 4"
+  },
+  {
+    "id": "467",
+    "name": "blue Sports Event 19"
+  },
+  {
+    "id": "469",
+    "name": "blue Sports Event 20"
+  },
+  {
+    "id": "471",
+    "name": "blue Sport Event 5"
+  },
+  {
+    "id": "473",
+    "name": "blue Sport Event 6"
+  },
+  {
+    "id": "475",
+    "name": "blue Sport Event 7"
+  },
+  {
+    "id": "477",
+    "name": "blue Sport Event 8"
+  },
+  {
+    "id": "479",
+    "name": "blue Sport Event 9"
+  },
+  {
+    "id": "481",
+    "name": "blue Sport Event 10"
+  },
+  {
+    "id": "503",
+    "name": "blue Sport 26 Live"
+  },
+  {
+    "id": "504",
+    "name": "blue Sport 27 Live"
+  },
+  {
+    "id": "505",
+    "name": "Sky Sport 1"
+  },
+  {
+    "id": "569",
+    "name": "TCM CINEMA"
+  },
+  {
+    "id": "580",
+    "name": "Tele Top SH"
+  },
+  {
+    "id": "581",
+    "name": "Tele Top TG"
+  },
+  {
+    "id": "588",
+    "name": "blue Prime"
+  },
+  {
+    "id": "594",
+    "name": "Telepace"
+  },
+  {
+    "id": "603",
+    "name": "Thai TV Global Network"
+  },
+  {
+    "id": "604",
+    "name": "The Box"
+  },
+  {
+    "id": "617",
+    "name": "Trace Urban"
+  },
+  {
+    "id": "625",
+    "name": "TV Globo Internacional"
+  },
+  {
+    "id": "627",
+    "name": "TV K:CN"
+  },
+  {
+    "id": "632",
+    "name": "Z1 Televizija"
+  },
+  {
+    "id": "642",
+    "name": "RTSH 1"
+  },
+  {
+    "id": "645",
+    "name": "VH1"
+  },
+  {
+    "id": "646",
+    "name": "VH1 Classic"
+  },
+  {
+    "id": "648",
+    "name": "VIVA"
+  },
+  {
+    "id": "649",
+    "name": "Vivolta"
+  },
+  {
+    "id": "652",
+    "name": "voyage"
+  },
+  {
+    "id": "657",
+    "name": "ZDF.kultur"
+  },
+  {
+    "id": "660",
+    "name": "Sky Atlantic +1"
+  },
+  {
+    "id": "661",
+    "name": "blue Sport Event 1"
+  },
+  {
+    "id": "666",
+    "name": "Fashion One 4K"
+  },
+  {
+    "id": "668",
+    "name": "Hispasat 4K"
+  },
+  {
+    "id": "670",
+    "name": "Hot Bird 4K1"
+  },
+  {
+    "id": "671",
+    "name": "Fransat UHD Demo"
+  },
+  {
+    "id": "672",
+    "name": "Digiturk"
+  },
+  {
+    "id": "917",
+    "name": "blue Vision TV"
+  },
+  {
+    "id": "924",
+    "name": "blue Sport 28 Live"
+  },
+  {
+    "id": "926",
+    "name": "blue Sport 29 Live"
+  },
+  {
+    "id": "928",
+    "name": "blue Sport 30 Live"
+  },
+  {
+    "id": "960",
+    "name": "blue Sports Event 1"
+  },
+  {
+    "id": "962",
+    "name": "blue Sports Event 2"
+  },
+  {
+    "id": "964",
+    "name": "blue Sports Event 3"
+  },
+  {
+    "id": "966",
+    "name": "blue Sports Event 4"
+  },
+  {
+    "id": "968",
+    "name": "blue Sports Event 5"
+  },
+  {
+    "id": "970",
+    "name": "blue Sports Event 6"
+  },
+  {
+    "id": "972",
+    "name": "blue Sports Event 7"
+  },
+  {
+    "id": "974",
+    "name": "blue Sports Event 8"
+  },
+  {
+    "id": "976",
+    "name": "blue Sports Event 9"
+  },
+  {
+    "id": "978",
+    "name": "blue Sports Event 10"
+  },
+  {
+    "id": "980",
+    "name": "blue Sports Event 11"
+  },
+  {
+    "id": "982",
+    "name": "blue Sports Event 12"
+  },
+  {
+    "id": "984",
+    "name": "blue Sports Event 13"
+  },
+  {
+    "id": "986",
+    "name": "blue Sports Event 14"
+  },
+  {
+    "id": "988",
+    "name": "blue Sports Event 15"
+  },
+  {
+    "id": "990",
+    "name": "blue Sport Event 28"
+  },
+  {
+    "id": "992",
+    "name": "blue Sport Event 29"
+  },
+  {
+    "id": "994",
+    "name": "blue Sport Event 30"
+  },
+  {
+    "id": "1002",
+    "name": "blue Sport Event 1"
+  },
+  {
+    "id": "1003",
+    "name": "blue Sports Event 1"
+  },
+  {
+    "id": "1031",
+    "name": "Zee One"
+  },
+  {
+    "id": "1033",
+    "name": "Sky Sport News"
+  },
+  {
+    "id": "1034",
+    "name": "Lancy TV"
+  },
+  {
+    "id": "1036",
+    "name": "RMC Sport Access 1"
+  },
+  {
+    "id": "1037",
+    "name": "SFR Sport 4K"
+  },
+  {
+    "id": "1039",
+    "name": "RMC Sport Access 3"
+  },
+  {
+    "id": "1065",
+    "name": "ULS Network"
+  },
+  {
+    "id": "1066",
+    "name": "AXN Deutschland"
+  },
+  {
+    "id": "1067",
+    "name": "Disney Cinemagic"
+  },
+  {
+    "id": "1068",
+    "name": "Disney Cinema F"
+  },
+  {
+    "id": "1069",
+    "name": "Fox"
+  },
+  {
+    "id": "1070",
+    "name": "National Geographic D"
+  },
+  {
+    "id": "1071",
+    "name": "National Geographic F"
+  },
+  {
+    "id": "1072",
+    "name": "National Geographic Wild F"
+  },
+  {
+    "id": "1073",
+    "name": "RTL Passion"
+  },
+  {
+    "id": "1074",
+    "name": "RTL Crime"
+  },
+  {
+    "id": "1075",
+    "name": "RTL Living"
+  },
+  {
+    "id": "1076",
+    "name": "Spiegel TV Wissen"
+  },
+  {
+    "id": "1077",
+    "name": "Télétoon+"
+  },
+  {
+    "id": "1078",
+    "name": "Trace Caribbean"
+  },
+  {
+    "id": "1123",
+    "name": "Sky 1"
+  },
+  {
+    "id": "1217",
+    "name": "Ultra Nature"
+  },
+  {
+    "id": "1225",
+    "name": "blue City"
+  },
+  {
+    "id": "1227",
+    "name": "OCS Max"
+  },
+  {
+    "id": "1228",
+    "name": "OCS City génération HBO"
+  },
+  {
+    "id": "1229",
+    "name": "OCS Choc"
+  },
+  {
+    "id": "1230",
+    "name": "OCS Géants"
+  },
+  {
+    "id": "1240",
+    "name": "blue Sport Extra"
+  },
+  {
+    "id": "1241",
+    "name": "MUTV"
+  },
+  {
+    "id": "1242",
+    "name": "Chelsea TV"
+  },
+  {
+    "id": "1243",
+    "name": "CNN Money Switzerland"
+  },
+  {
+    "id": "1245",
+    "name": "blue Sport Event 2"
+  },
+  {
+    "id": "1246",
+    "name": "blue Sport Event 3"
+  },
+  {
+    "id": "1247",
+    "name": "blue Sports Event 2"
+  },
+  {
+    "id": "1248",
+    "name": "blue Sports Event 3"
+  },
+  {
+    "id": "1253",
+    "name": "VH1 Italy"
+  },
+  {
+    "id": "1258",
+    "name": "4K Universe"
+  },
+  {
+    "id": "1269",
+    "name": "TV4TNG"
+  },
+  {
+    "id": "1270",
+    "name": "Sky 1+ 1"
+  },
+  {
+    "id": "1274",
+    "name": "RMC Sport News"
+  },
+  {
+    "id": "1275",
+    "name": "RMC Sport 4"
+  },
+  {
+    "id": "1282",
+    "name": "blue Music D 1"
+  },
+  {
+    "id": "1283",
+    "name": "blue Music F 1"
+  },
+  {
+    "id": "1284",
+    "name": "My Cuisine"
+  },
+  {
+    "id": "1288",
+    "name": "Paramount Network I"
+  },
+  {
+    "id": "1291",
+    "name": "Canal Extremadura Sat."
+  },
+  {
+    "id": "1337",
+    "name": "LATINOS 1"
+  },
+  {
+    "id": "1347",
+    "name": "Spike"
+  },
+  {
+    "id": "1359",
+    "name": "blue Sport 26 direct"
+  },
+  {
+    "id": "1360",
+    "name": "blue Sport 27 direct"
+  },
+  {
+    "id": "1361",
+    "name": "blue Sport 28 direct"
+  },
+  {
+    "id": "1362",
+    "name": "blue Sport 29 direct"
+  },
+  {
+    "id": "1364",
+    "name": "blue Sport 30 direct"
+  },
+  {
+    "id": "1365",
+    "name": "blue Sports Event 21"
+  },
+  {
+    "id": "1366",
+    "name": "blue Sports Event 22"
+  },
+  {
+    "id": "1367",
+    "name": "blue Sports Event 23"
+  },
+  {
+    "id": "1368",
+    "name": "blue Sports Event 24"
+  },
+  {
+    "id": "1369",
+    "name": "blue Sports Event 25"
+  },
+  {
+    "id": "1370",
+    "name": "blue Sports Event 26"
+  },
+  {
+    "id": "1371",
+    "name": "blue Sports Event 27"
+  },
+  {
+    "id": "1372",
+    "name": "blue Sports Event 28"
+  },
+  {
+    "id": "1373",
+    "name": "blue Sports Event 29"
+  },
+  {
+    "id": "1374",
+    "name": "blue Sports Event 30"
+  },
+  {
+    "id": "1378",
+    "name": "NASA TV"
+  },
+  {
+    "id": "1381",
+    "name": "Cine Sony"
+  },
+  {
+    "id": "1383",
+    "name": "Marco Polo TV"
+  },
+  {
+    "id": "1395",
+    "name": "La Télé - Fribourg"
+  },
+  {
+    "id": "1400",
+    "name": "ITVBe"
+  },
+  {
+    "id": "1401",
+    "name": "Kuriakos TV"
+  },
+  {
+    "id": "1407",
+    "name": "esportsTV"
+  },
+  {
+    "id": "1410",
+    "name": "5Spike"
+  },
+  {
+    "id": "1414",
+    "name": "Motorvision"
+  },
+  {
+    "id": "1415",
+    "name": "blue Sport 31 Live"
+  },
+  {
+    "id": "1416",
+    "name": "blue Sport Event 31"
+  },
+  {
+    "id": "1417",
+    "name": "blue Sport Event 4"
+  },
+  {
+    "id": "1418",
+    "name": "blue Sports Event 4"
+  },
+  {
+    "id": "1419",
+    "name": "blue Sport Event 32"
+  },
+  {
+    "id": "1420",
+    "name": "blue Sport Event 33"
+  },
+  {
+    "id": "1421",
+    "name": "blue Sport Event 34"
+  },
+  {
+    "id": "1422",
+    "name": "blue Sport Event 35"
+  },
+  {
+    "id": "1423",
+    "name": "blue Sport Event 36"
+  },
+  {
+    "id": "1424",
+    "name": "blue Sport Event 37"
+  },
+  {
+    "id": "1425",
+    "name": "blue Sport Event 38"
+  },
+  {
+    "id": "1426",
+    "name": "blue Sport Event 39"
+  },
+  {
+    "id": "1427",
+    "name": "blue Sport 32 Live"
+  },
+  {
+    "id": "1428",
+    "name": "blue Sport 33 Live"
+  },
+  {
+    "id": "1429",
+    "name": "blue Sport 34 Live"
+  },
+  {
+    "id": "1430",
+    "name": "blue Sport 35 Live"
+  },
+  {
+    "id": "1431",
+    "name": "blue Sport 36 Live"
+  },
+  {
+    "id": "1432",
+    "name": "blue Sport 37 Live"
+  },
+  {
+    "id": "1433",
+    "name": "blue Sport 38 Live"
+  },
+  {
+    "id": "1434",
+    "name": "blue Sports Event 31"
+  },
+  {
+    "id": "1435",
+    "name": "blue Sports Event 32"
+  },
+  {
+    "id": "1436",
+    "name": "blue Sports Event 33"
+  },
+  {
+    "id": "1437",
+    "name": "blue Sport 31 direct"
+  },
+  {
+    "id": "1438",
+    "name": "blue Sport 32 direct"
+  },
+  {
+    "id": "1439",
+    "name": "blue Sport 33 direct"
+  },
+  {
+    "id": "1442",
+    "name": "blue Sport 39 Live"
+  },
+  {
+    "id": "1444",
+    "name": "Enjoy St. Moritz TV"
+  },
+  {
+    "id": "1447",
+    "name": "DW Deutsch"
+  },
+  {
+    "id": "1456",
+    "name": "Ajoie TV"
+  },
+  {
+    "id": "1467",
+    "name": "ICI MEDIA SPORTS"
+  },
+  {
+    "id": "1490",
+    "name": "Smithsonian Channel UK"
+  },
+  {
+    "id": "1501",
+    "name": "Hayat Music"
+  },
+  {
+    "id": "1503",
+    "name": "Arirang"
+  },
+  {
+    "id": "1504",
+    "name": "TV Central"
+  },
+  {
+    "id": "1530",
+    "name": "M4 Sport"
+  },
+  {
+    "id": "1533",
+    "name": "Sky Sport Bundesliga 1"
+  },
+  {
+    "id": "1542",
+    "name": "MySports Preview D"
+  },
+  {
+    "id": "1555",
+    "name": "Extreme Sports"
+  },
+  {
+    "id": "1556",
+    "name": "MySports Preview F"
+  },
+  {
+    "id": "1600",
+    "name": "Retro Movies"
+  },
+  {
+    "id": "1602",
+    "name": "Puls 24"
+  },
+  {
+    "id": "1603",
+    "name": "viaplay Xtra"
+  },
+  {
+    "id": "1607",
+    "name": "pro 7 fun"
+  },
+  {
+    "id": "1610",
+    "name": "Disney Junior Italia"
+  },
+  {
+    "id": "1611",
+    "name": "World Economic Forum TV Channel 1"
+  },
+  {
+    "id": "1627",
+    "name": "World Economic Forum Feed 1 Plenary"
+  },
+  {
+    "id": "1628",
+    "name": "World Economic Forum Feed 2 Sanada"
+  },
+  {
+    "id": "1629",
+    "name": "World Economic Forum Feed 3 Press Conference"
+  },
+  {
+    "id": "1630",
+    "name": "World Economic Forum Feed 4 Aspen 1"
+  },
+  {
+    "id": "1631",
+    "name": "World Economic Forum Feed 5 Aspen 2"
+  },
+  {
+    "id": "1632",
+    "name": "World Economic Forum Feed 6 Issue Briefing Room"
+  },
+  {
+    "id": "1633",
+    "name": "World Economic Forum Feed 7 Open Forum"
+  },
+  {
+    "id": "1637",
+    "name": "Voice of America"
+  },
+  {
+    "id": "1643",
+    "name": "Lounge TV 4k"
+  },
+  {
+    "id": "1644",
+    "name": "Italian Fishing TV"
+  },
+  {
+    "id": "1650",
+    "name": "Digi 24"
+  },
+  {
+    "id": "1651",
+    "name": "Vox Africa"
+  },
+  {
+    "id": "1653",
+    "name": "CITV"
+  },
+  {
+    "id": "1655",
+    "name": "Dubai Sports"
+  },
+  {
+    "id": "1657",
+    "name": "Travel Channel International"
+  },
+  {
+    "id": "1659",
+    "name": "ITV Granada"
+  },
+  {
+    "id": "1661",
+    "name": "Kuwait TV"
+  },
+  {
+    "id": "1663",
+    "name": "RTRS Plus"
+  },
+  {
+    "id": "1675",
+    "name": "Trace Latina UK"
+  },
+  {
+    "id": "1676",
+    "name": "Karusel Int."
+  },
+  {
+    "id": "1681",
+    "name": "RTSH 3"
+  },
+  {
+    "id": "1683",
+    "name": "RTS 1 (Sénégal)"
+  },
+  {
+    "id": "1685",
+    "name": "TPA Internacional"
+  },
+  {
+    "id": "1691",
+    "name": "Pink World"
+  },
+  {
+    "id": "1695",
+    "name": "BFM Alsace"
+  },
+  {
+    "id": "1696",
+    "name": "Teledeporte"
+  },
+  {
+    "id": "1697",
+    "name": "Home & Garden TV UK"
+  },
+  {
+    "id": "1698",
+    "name": "Oman TV"
+  },
+  {
+    "id": "1726",
+    "name": "Lionsgate+ (Logo VOD)"
+  },
+  {
+    "id": "1730",
+    "name": "BET"
+  },
+  {
+    "id": "1733",
+    "name": "MySports Eins Event"
+  },
+  {
+    "id": "1734",
+    "name": "MySports 2 D Event"
+  },
+  {
+    "id": "1735",
+    "name": "MySports 3 D Event"
+  },
+  {
+    "id": "1736",
+    "name": "MySports 4 D Event"
+  },
+  {
+    "id": "1737",
+    "name": "MySports 5 D Event"
+  },
+  {
+    "id": "1738",
+    "name": "MySports 6 D Event"
+  },
+  {
+    "id": "1739",
+    "name": "MySports 7 D Event"
+  },
+  {
+    "id": "1740",
+    "name": "MySports 8 D Event"
+  },
+  {
+    "id": "1741",
+    "name": "MySports 9 D Event"
+  },
+  {
+    "id": "1742",
+    "name": "MySports Un Event"
+  },
+  {
+    "id": "1743",
+    "name": "MySports 2 F Event"
+  },
+  {
+    "id": "1744",
+    "name": "MySports 3 F Event"
+  },
+  {
+    "id": "1745",
+    "name": "MySports 4 F Event"
+  },
+  {
+    "id": "1746",
+    "name": "MySports 5 F Event"
+  },
+  {
+    "id": "1747",
+    "name": "MySports 6 F Event"
+  },
+  {
+    "id": "1748",
+    "name": "MySports 7 F Event"
+  },
+  {
+    "id": "1749",
+    "name": "MySports 8 F Event"
+  },
+  {
+    "id": "1750",
+    "name": "MySports 9 F Event"
+  },
+  {
+    "id": "1754",
+    "name": "Clique TV"
+  },
+  {
+    "id": "1762",
+    "name": "Non Stop People"
+  },
+  {
+    "id": "1765",
+    "name": "J-One"
+  },
+  {
+    "id": "1772",
+    "name": "Game One"
+  },
+  {
+    "id": "1780",
+    "name": "Maintime"
+  },
+  {
+    "id": "1781",
+    "name": "Fashion 4K"
+  },
+  {
+    "id": "1784",
+    "name": "rrotv"
+  },
+  {
+    "id": "1785",
+    "name": "ULTRA 4K EXTREME"
+  },
+  {
+    "id": "1788",
+    "name": "culturebox"
+  },
+  {
+    "id": "1794",
+    "name": "Sky Comedy"
+  },
+  {
+    "id": "1804",
+    "name": "Craction TV"
+  },
+  {
+    "id": "1811",
+    "name": "GO-TV Canale 63"
+  },
+  {
+    "id": "1865",
+    "name": "Bild"
+  },
+  {
+    "id": "1872",
+    "name": "BärnSPORT"
+  },
+  {
+    "id": "1884",
+    "name": "Fisu.tv 1"
+  },
+  {
+    "id": "1885",
+    "name": "Fisu.tv 2"
+  },
+  {
+    "id": "1886",
+    "name": "Fisu.tv 3"
+  },
+  {
+    "id": "1887",
+    "name": "Fisu.tv 4"
+  },
+  {
+    "id": "1918",
+    "name": "4Music"
+  },
+  {
+    "id": "1932",
+    "name": "ALTAMEGA Plus"
+  },
+  {
+    "id": "1941",
+    "name": "Nickelodeon Ukraine Pluto TV"
+  },
+  {
+    "id": "1942",
+    "name": "MySports 10 F"
+  },
+  {
+    "id": "1943",
+    "name": "MySports 10 F Event"
+  },
+  {
+    "id": "1945",
+    "name": "MySports 10 D Event"
+  },
+  {
+    "id": "1946",
+    "name": "MySports EDGE Event"
+  },
+  {
+    "id": "1976",
+    "name": "Teletoon+1"
+  },
+  {
+    "id": "1977",
+    "name": "nickelodeon+1"
+  },
+  {
+    "id": "1978",
+    "name": "Disney Channel+1"
+  },
+  {
+    "id": "1984",
+    "name": "MTV F"
+  },
+  {
+    "id": "1988",
+    "name": "OCS Pulp"
+  },
+  {
+    "id": "1995",
+    "name": "blue Music D 2"
+  },
+  {
+    "id": "1996",
+    "name": "blue Music D 3"
+  },
+  {
+    "id": "1998",
+    "name": "blue Music F 2"
+  },
+  {
+    "id": "1999",
+    "name": "blue Music F 3"
+  },
+  {
+    "id": "2015",
+    "name": "Warner TV Italy"
+  },
+  {
+    "id": "2019",
+    "name": "Football TV"
+  },
+  {
+    "id": "2020",
+    "name": "Cooking TV"
+  },
+  {
+    "id": "2023",
+    "name": "Sports TV"
+  },
+  {
+    "id": "2040",
+    "name": "Hip Trips"
+  },
+  {
+    "id": "2043",
+    "name": "Trace Vault"
+  },
+  {
+    "id": "2045",
+    "name": "Deluxe Rock"
+  },
+  {
+    "id": "2046",
+    "name": "Deluxe Flashback"
+  },
+  {
+    "id": "2048",
+    "name": "Explorer Channel IT"
+  },
+  {
+    "id": "2053",
+    "name": "EarthxTV"
+  },
+  {
+    "id": "2083",
+    "name": "Una TV"
+  },
+  {
+    "id": "2111",
+    "name": "Juwelo TV"
+  },
+  {
+    "id": "2145",
+    "name": "Best of ESC"
+  },
+  {
+    "id": "2147",
+    "name": "RTS Eurovision"
+  },
+  {
+    "id": "2148",
+    "name": "Best of ESC I"
+  },
+  {
+    "id": "2178",
+    "name": "World Economic Forum TV Channel 2"
+  }
+]

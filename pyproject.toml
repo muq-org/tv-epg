@@ -1,0 +1,12 @@
+[project]
+name = "blue-tv-epg"
+version = "0.1.0"
+description = "Fetch EPG data from API and convert to XMLTV format for Dispatcharr."
+authors = ["Your Name <your.email@example.com>"]
+requires-python = ">=3.8"
+
+[tool.uv]
+
+[project.dependencies]
+requests = "*"
+lxml = "*"

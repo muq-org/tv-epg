@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run EPG to XMLTV script",
+			"type": "shell",
+			"command": ".venv/bin/python",
+			"args": [
+				"epg_to_xmltv.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
