@@ -27,6 +27,9 @@
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1000">
     <title>blue Sport 1 Live D</title>
   </programme>
+  <programme start="20260322100000 +0000" stop="20260322140000 +0000" channel="1000">
+    <title>blue Sport 1 Live D</title>
+  </programme>
   <channel id="1001">
     <display-name>blue Sport 1 direct F</display-name>
   </channel>
@@ -54,12 +57,12 @@
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1001">
     <title>blue Sport 1 direct F</title>
   </programme>
+  <programme start="20260322100000 +0000" stop="20260322140000 +0000" channel="1001">
+    <title>blue Sport 1 direct F</title>
+  </programme>
   <channel id="1221">
     <display-name>blue Zoom D</display-name>
   </channel>
-  <programme start="20260321065500 +0000" stop="20260321095500 +0000" channel="1221">
-    <title>Fussball: FC Bayern München - Atalanta BC</title>
-  </programme>
   <programme start="20260321095500 +0000" stop="20260321103000 +0000" channel="1221">
     <title>Fussball: Matchnight - UEFA Champions League</title>
   </programme>
@@ -441,6 +444,9 @@
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1440">
     <title>blue Sport 4 Live D</title>
   </programme>
+  <programme start="20260322100000 +0000" stop="20260322140000 +0000" channel="1440">
+    <title>blue Sport 4 Live D</title>
+  </programme>
   <channel id="1441">
     <display-name>blue Sport 4 direct F</display-name>
   </channel>
@@ -468,12 +474,12 @@
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="1441">
     <title>blue Sport 4 direct F</title>
   </programme>
+  <programme start="20260322100000 +0000" stop="20260322140000 +0000" channel="1441">
+    <title>blue Sport 4 direct F</title>
+  </programme>
   <channel id="1543">
     <display-name>MySports Eins</display-name>
   </channel>
-  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="1543">
-    <title>Wiederholung: National League - die Playoff-Highlights</title>
-  </programme>
   <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="1543">
     <title>Slow Hockey</title>
     <sub-title>National League</sub-title>
@@ -601,6 +607,10 @@
   </programme>
   <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
   </programme>
   <channel id="1544">
     <display-name>MySports 2 D</display-name>
@@ -811,9 +821,6 @@
   <channel id="1557">
     <display-name>MySports Un</display-name>
   </channel>
-  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="1557">
-    <title>Rediffusion : National League - les Highlights</title>
-  </programme>
   <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="1557">
     <title>Slow Hockey</title>
     <sub-title>National League</sub-title>
@@ -944,6 +951,10 @@
   </programme>
   <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="1557">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
   </programme>
   <channel id="1558">
     <display-name>MySports 2 F</display-name>
@@ -1211,6 +1222,10 @@
   </programme>
   <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="1722">
     <title>EDGEsport Stories</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="1722">
+    <title>Mass Participation Series Triathlon</title>
+    <sub-title>Cappadocia</sub-title>
   </programme>
   <channel id="1944">
     <display-name>MySports Uno I</display-name>
@@ -2132,9 +2147,6 @@
   <channel id="512">
     <display-name>blue Sport 3 Live</display-name>
   </channel>
-  <programme start="20260321060000 +0000" stop="20260321100000 +0000" channel="512">
-    <title>blue Sport 3 Live</title>
-  </programme>
   <programme start="20260321100000 +0000" stop="20260321134500 +0000" channel="512">
     <title>blue Sport 3 Live</title>
   </programme>
@@ -2205,6 +2217,9 @@
     <title>blue Sport 5 Live</title>
   </programme>
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="514">
+    <title>blue Sport 5 Live</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322125000 +0000" channel="514">
     <title>blue Sport 5 Live</title>
   </programme>
   <channel id="515">
@@ -2369,9 +2384,6 @@
   <channel id="591">
     <display-name>blue Action</display-name>
   </channel>
-  <programme start="20260321080500 +0000" stop="20260321095500 +0000" channel="591">
-    <title>Inheritance</title>
-  </programme>
   <programme start="20260321095500 +0000" stop="20260321113000 +0000" channel="591">
     <title>One Shot - Mission ausser Kontrolle</title>
   </programme>
@@ -2436,6 +2448,9 @@
     <title>blue Sport 1 Live</title>
   </programme>
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="663">
+    <title>blue Sport 1 Live</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322115000 +0000" channel="663">
     <title>blue Sport 1 Live</title>
   </programme>
   <channel id="930">
@@ -2729,6 +2744,9 @@
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="950">
     <title>blue Sport 1 direct</title>
   </programme>
+  <programme start="20260322100000 +0000" stop="20260322124500 +0000" channel="950">
+    <title>blue Sport 1 direct</title>
+  </programme>
   <channel id="952">
     <display-name>blue Sport 2 direct</display-name>
   </channel>
@@ -2759,9 +2777,6 @@
   <channel id="954">
     <display-name>blue Sport 3 direct</display-name>
   </channel>
-  <programme start="20260321060000 +0000" stop="20260321100000 +0000" channel="954">
-    <title>blue Sport 3 direct</title>
-  </programme>
   <programme start="20260321100000 +0000" stop="20260321140000 +0000" channel="954">
     <title>blue Sport 3 direct</title>
   </programme>
@@ -2808,6 +2823,9 @@
     <title>blue Sport 4 direct</title>
   </programme>
   <programme start="20260322060000 +0000" stop="20260322100000 +0000" channel="956">
+    <title>blue Sport 4 direct</title>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322140000 +0000" channel="956">
     <title>blue Sport 4 direct</title>
   </programme>
   <channel id="958">
