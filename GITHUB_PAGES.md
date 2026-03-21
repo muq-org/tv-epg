@@ -14,4 +14,3 @@ This repository serves the latest EPG XMLTV file via GitHub Pages.
 
 ## Notes
 - `epg.xml` is not committed to the repository — it is generated and deployed entirely in CI.
-- `.nojekyll` is included to ensure the XML file is served as-is.

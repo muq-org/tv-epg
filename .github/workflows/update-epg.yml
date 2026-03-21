@@ -28,7 +28,7 @@ jobs:
             - name: Stage files for Pages
               run: |
                   mkdir _site
-                  cp index.html .nojekyll epg.xml _site/
+                  cp index.html epg.xml _site/
 
             - name: Upload Pages artifact
               uses: actions/upload-pages-artifact@v3
