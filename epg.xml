@@ -818,7 +818,7 @@
   <channel id="Sky Bundesliga 2.ch" api-id="1572">
     <display-name>Sky Bundesliga 2</display-name>
   </channel>
-  <programme start="20260320204500 +0000" stop="20260321000000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
+  <programme start="20260320205000 +0000" stop="20260321000000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
     <title>Sky Bundesliga 2</title>
   </programme>
   <programme start="20260321000000 +0000" stop="20260321040000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
@@ -858,11 +858,11 @@
     <title>Live 2. BL: SV Darmstadt 98 - FC Schalke 04, tipico Topspiel der Woche, 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1572/GNLZZGG0030QQ15_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
+  <programme start="20260321220000 +0000" stop="20260321233000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag komplett</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1572/p11426309bh10ah_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
+  <programme start="20260321233000 +0000" stop="20260322030000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
     <title>Sky Bundesliga 2</title>
   </programme>
   <channel id="Sky Bundesliga 3.ch" api-id="1573">
@@ -896,11 +896,11 @@
     <title>1. FC Köln - Borussia M'gladbach</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1573/39821706_lane_w1920.webp"/>
   </programme>
-  <programme start="20260321164500 +0000" stop="20260321201500 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
+  <programme start="20260321164500 +0000" stop="20260321204500 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
     <title>Live BL: Tactical Feed: BVB - HSV, 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1573/p20479563bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
+  <programme start="20260321204500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
     <title>Sky Bundesliga 3</title>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
@@ -909,7 +909,7 @@
   <channel id="Sky Bundesliga 4.ch" api-id="1574">
     <display-name>Sky Bundesliga 4</display-name>
   </channel>
-  <programme start="20260320200000 +0000" stop="20260321000000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260320200500 +0000" stop="20260321000000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
   <programme start="20260321000000 +0000" stop="20260321040000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
@@ -933,17 +933,14 @@
     <title>Live BL: WOB - SVW: tipico Countdown, 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1574/500.501_genre_w1920.webp"/>
   </programme>
-  <programme start="20260321141500 +0000" stop="20260321164500 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260321141500 +0000" stop="20260321171500 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>VfL Wolfsburg - SV Werder Bremen</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1574/39821686_lane_w1920.webp"/>
   </programme>
-  <programme start="20260321164500 +0000" stop="20260321200000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260321171500 +0000" stop="20260321210000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
-  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
-    <title>Sky Bundesliga 4</title>
-  </programme>
-  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260321210000 +0000" stop="20260322010000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
   <channel id="Sky Bundesliga 5.ch" api-id="1576">
@@ -969,17 +966,14 @@
     <title>Live 2. BL: SV Elversberg - Arminia Bielefeld, 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1576/GNLZZGG002YWMTB_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321140000 +0000" stop="20260321164500 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260321140000 +0000" stop="20260321171500 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>BL: Hinweis Multiview</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1576/500.501_genre_w1920.webp"/>
   </programme>
-  <programme start="20260321164500 +0000" stop="20260321200000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260321171500 +0000" stop="20260321210000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
-  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
-    <title>Sky Bundesliga 5</title>
-  </programme>
-  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260321210000 +0000" stop="20260322010000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
   <channel id="Sky Bundesliga 6.ch" api-id="1577">
@@ -1005,11 +999,11 @@
     <title>Live 2. BL: Multiview 27. Spieltag, Samstag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1577/500.501_genre_w1920.webp"/>
   </programme>
-  <programme start="20260321140000 +0000" stop="20260321164500 +0000" channel="Sky Bundesliga 6.ch" api-channel-id="1577">
+  <programme start="20260321140000 +0000" stop="20260321171500 +0000" channel="Sky Bundesliga 6.ch" api-channel-id="1577">
     <title>Live BL: Multiview 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1577/500.501_genre_w1920.webp"/>
   </programme>
-  <programme start="20260321164500 +0000" stop="20260321200000 +0000" channel="Sky Bundesliga 6.ch" api-channel-id="1577">
+  <programme start="20260321171500 +0000" stop="20260321200000 +0000" channel="Sky Bundesliga 6.ch" api-channel-id="1577">
     <title>Sky Bundesliga 6</title>
   </programme>
   <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 6.ch" api-channel-id="1577">
@@ -1041,11 +1035,11 @@
     <title>Live 2. BL: Samstags-Konferenz, 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1578/p11522305bh8ah_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321140000 +0000" stop="20260321144500 +0000" channel="Sky Bundesliga 7.ch" api-channel-id="1578">
+  <programme start="20260321140000 +0000" stop="20260321151500 +0000" channel="Sky Bundesliga 7.ch" api-channel-id="1578">
     <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1578/p11426309bh10ah_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321144500 +0000" stop="20260321160000 +0000" channel="Sky Bundesliga 7.ch" api-channel-id="1578">
+  <programme start="20260321151500 +0000" stop="20260321160000 +0000" channel="Sky Bundesliga 7.ch" api-channel-id="1578">
     <title>Sky Bundesliga 7</title>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="Sky Bundesliga 7.ch" api-channel-id="1578">
@@ -1169,11 +1163,11 @@
     <title>FC Bayern München - 1. FC Union Berlin</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/39821676_lane_w1920.webp"/>
   </programme>
-  <programme start="20260321164500 +0000" stop="20260321201500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+  <programme start="20260321164500 +0000" stop="20260321204500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
     <title>Borussia Dortmund - Hamburger SV</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/39821716_lane_w1920.webp"/>
   </programme>
-  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+  <programme start="20260321204500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
     <title>Sky Bundesliga 1</title>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
