@@ -922,6 +922,128 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1608/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
+  <channel id="Eurosport 1 D.ch" api-id="167">
+    <display-name>Eurosport 1 D</display-name>
+  </channel>
+  <programme start="20260320230000 +0000" stop="20260321003300 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open - Viertelfinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321003300 +0000" stop="20260321020300 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Sendepause</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p480440bh8bu_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321020300 +0000" stop="20260321060000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Sendepause</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p480440bh8bu_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321093000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Halbfinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321110000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321123000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321150000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Halbfinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321160000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Verfolgung Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321174500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321174500 +0000" stop="20260321184500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Skilanglauf Weltcup: Lake Placid: Sprint freier Stil Frauen/Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740059ih8ae_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321184500 +0000" stop="20260321193000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 10km Verfolgung Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>UCI WorldTour Männer: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23581551bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321230000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Powerlifting: European Classic Championship</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p20922774ih10aa_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260321234000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321234000 +0000" stop="20260322014500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Reitsport: League of Nations Ocala</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p378945ih10ag_Iconic_w1920.webp"/>
+  </programme>
+  <channel id="Eurosport 2 D.ch" api-id="170">
+    <display-name>Eurosport 2 D</display-name>
+  </channel>
+  <programme start="20260320230100 +0000" stop="20260321000000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI ProSeries Männer: Bredene Koksijde Classic</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272749ih8ab_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321000000 +0000" stop="20260321010400 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 10km Sprint Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321010400 +0000" stop="20260321031000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>World Snooker Tour: World Open - Viertelfinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321031000 +0000" stop="20260321072600 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI ProSeries Männer: Bredene Koksijde Classic</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272749ih8ab_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321072600 +0000" stop="20260321083800 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI ProSeries Männer: Bredene Koksijde Classic</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272749ih8ab_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321083800 +0000" stop="20260321112300 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Männer: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23581551bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321112300 +0000" stop="20260321132300 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Frauen: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272741ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321132300 +0000" stop="20260321163000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Männer: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23581551bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Frauen: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272741ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321193000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Männer: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23581551bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321210000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321220000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>Curling-WM Frauen 2026</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p32559856eh8aa_Iconic_w1920.webp"/>
+  </programme>
   <channel id="MySports EDGE.ch" api-id="1722">
     <display-name>MySports EDGE</display-name>
   </channel>
@@ -6841,6 +6963,192 @@
   <programme start="20260322210000 +0000" stop="20260323010000 +0000" channel="Sky Sport 2 D.ch" api-channel-id="1608">
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1608/p480440bh8bu_BannerL2_w1920.webp"/>
+  </programme>
+  <channel id="Eurosport 1 D.ch" api-id="167">
+    <display-name>Eurosport 1 D</display-name>
+  </channel>
+  <programme start="20260321234000 +0000" stop="20260322014500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Reitsport: League of Nations Ocala</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p378945ih10ag_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322014500 +0000" stop="20260322020000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Sendepause</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p480440bh8bu_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322060000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Sendepause</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p480440bh8bu_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322090000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Finale Yushan</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322110000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322123000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322133000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Massenstart Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322143000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Finale Yushan</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322151500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322151500 +0000" stop="20260322161500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 15km Massenstart Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322161500 +0000" stop="20260322175500 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322175500 +0000" stop="20260322182000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Massenstart Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322182000 +0000" stop="20260322193000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>FIS Skilanglauf Weltcup: Lake Placid: 20km Massenstart Freistil Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p25740059ih8ae_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322200000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Finale Yushan</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Reitsport: Saut Hermès Paris</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p378945ih10ag_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Reitsport: Saut Hermès Paris</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p378945ih10ag_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>Reitsport: Saut Hermès Paris</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p378945ih10ag_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260323003000 +0000" channel="Eurosport 1 D.ch" api-channel-id="167">
+    <title>World Snooker Tour: World Open Finale Yushan</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/167/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="Eurosport 2 D.ch" api-id="170">
+    <display-name>Eurosport 2 D</display-name>
+  </channel>
+  <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>Curling-WM Frauen 2026</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p32559856eh8aa_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322030000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>World Snooker Tour: World Open: Halbfinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p24829502bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322033000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322033000 +0000" stop="20260322040000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Verfolgung Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 10km Verfolgung Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Frauen: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272741ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322064500 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322064500 +0000" stop="20260322072000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322072000 +0000" stop="20260322082000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>Formel E: ePrix Madrid: Rennen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p11055708bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322082000 +0000" stop="20260322094000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Skispringen Weltcup: Vikersund: Frauen - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322094000 +0000" stop="20260322110000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Männer: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23581551bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Frauen: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272741ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322123000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 10km Verfolgung Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322133000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Massenstart Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322153000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI Europe Tour Männer: Grote Prijs Jean-Pierre Monseré</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26319497ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322162000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI WorldTour Frauen: Mailand-Sanremo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26272741ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322162000 +0000" stop="20260322173000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Skilanglauf Weltcup: Lake Placid: 20km Massenstart Freistil Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740059ih8ae_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322183000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>UCI Europe Tour Männer: Grote Prijs Jean-Pierre Monseré</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p26319497ih8ac_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322193000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322203000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 12.5km Massenstart Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322203000 +0000" stop="20260322210000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>IBU Biathlon Weltcup: Oslo/Holmenkollen: 15km Massenstart Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p25740016ih8af_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p488856ih8ah_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322224500 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Frauen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322224500 +0000" stop="20260322233000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Ski Alpin Weltcup: Lillehammer: Super-G Männer</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323003000 +0000" channel="Eurosport 2 D.ch" api-channel-id="170">
+    <title>FIS Skispringen Weltcup: Vikersund: Männer - HS 240</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/170/p488856ih8ah_Iconic_w1920.webp"/>
   </programme>
   <channel id="MySports EDGE.ch" api-id="1722">
     <display-name>MySports EDGE</display-name>
