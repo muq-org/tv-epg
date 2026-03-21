@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
+  <div>dummy change for workflow test</div>
   <channel id="1000">
     <display-name>blue Sport 1 Live D</display-name>
   </channel>
