@@ -876,6 +876,18 @@
     "name": "Heimatkanal"
   },
   {
+    "id": "2177",
+    "name": "HBO Max App"
+  },
+  {
+    "id": "2033",
+    "name": "Disney+"
+  },
+  {
+    "id": "2034",
+    "name": "Paramount+"
+  },
+  {
     "id": "483",
     "name": "blue Sport D 1"
   },
@@ -1120,6 +1132,10 @@
     "name": "Sky Sport 2 D"
   },
   {
+    "id": "1285",
+    "name": "Sky Sport"
+  },
+  {
     "id": "1947",
     "name": "CANAL+ PREMIER LEAGUE"
   },
@@ -1130,6 +1146,10 @@
   {
     "id": "2163",
     "name": "CANAL+ Sport Event 2"
+  },
+  {
+    "id": "1336",
+    "name": "CANAL+ App"
   },
   {
     "id": "37",
@@ -2880,6 +2900,34 @@
     "name": "RTVS 24"
   },
   {
+    "id": "1452",
+    "name": "DAZN"
+  },
+  {
+    "id": "1080",
+    "name": "Netflix"
+  },
+  {
+    "id": "1687",
+    "name": "Sky Show"
+  },
+  {
+    "id": "1758",
+    "name": "Amazon Prime Video"
+  },
+  {
+    "id": "1757",
+    "name": "GVAX Latino TV"
+  },
+  {
+    "id": "2025",
+    "name": "oneplus"
+  },
+  {
+    "id": "2151",
+    "name": "The Filmclub"
+  },
+  {
     "id": "2150",
     "name": "Info Channel"
   },
@@ -2894,6 +2942,10 @@
   {
     "id": "600",
     "name": "Test Italia"
+  },
+  {
+    "id": "1727",
+    "name": "Inhouse Channel"
   },
   {
     "id": "1827",
@@ -3828,6 +3880,10 @@
     "name": "My Cuisine"
   },
   {
+    "id": "1286",
+    "name": "OCS App"
+  },
+  {
     "id": "1288",
     "name": "Paramount Network I"
   },
@@ -4076,6 +4132,10 @@
     "name": "TV Central"
   },
   {
+    "id": "1525",
+    "name": "MyMTV Music"
+  },
+  {
     "id": "1530",
     "name": "M4 Sport"
   },
@@ -4314,6 +4374,10 @@
   {
     "id": "1754",
     "name": "Clique TV"
+  },
+  {
+    "id": "1759",
+    "name": "Twitch"
   },
   {
     "id": "1762",
