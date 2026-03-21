@@ -156,10 +156,6 @@
     "name": "Sky Sport Bundesliga"
   },
   {
-    "id": "2152",
-    "name": "Sky Bundesliga"
-  },
-  {
     "id": "1959",
     "name": "Sky Sport Golf"
   },
@@ -172,16 +168,8 @@
     "name": "Sky Sport 2 D"
   },
   {
-    "id": "1204",
-    "name": "Sky Mix"
-  },
-  {
     "id": "1276",
     "name": "Sky News International"
-  },
-  {
-    "id": "388",
-    "name": "Sky Bundesliga Sport 1"
   },
   {
     "id": "392",
@@ -196,11 +184,87 @@
     "name": "Sky Sport News"
   },
   {
-    "id": "3736",
-    "name": "Sky 1"
+    "id": "591",
+    "name": "blue Action"
   },
   {
-    "id": "4084",
-    "name": "Sky Sport Bundesliga 1"
+    "id": "589",
+    "name": "blue Stars"
+  },
+  {
+    "id": "1226",
+    "name": "blue Retro"
+  },
+  {
+    "id": "483",
+    "name": "blue Sport D 1"
+  },
+  {
+    "id": "494",
+    "name": "blue Sport D 2"
+  },
+  {
+    "id": "663",
+    "name": "blue Sport 1 Live"
+  },
+  {
+    "id": "511",
+    "name": "blue Sport 2 Live"
+  },
+  {
+    "id": "512",
+    "name": "blue Sport 3 Live"
+  },
+  {
+    "id": "513",
+    "name": "blue Sport 4 Live"
+  },
+  {
+    "id": "514",
+    "name": "blue Sport 5 Live"
+  },
+  {
+    "id": "1543",
+    "name": "MySports Eins"
+  },
+  {
+    "id": "1544",
+    "name": "MySports 2 D"
+  },
+  {
+    "id": "1545",
+    "name": "MySports 3 D"
+  },
+  {
+    "id": "1546",
+    "name": "MySports 4 D"
+  },
+  {
+    "id": "1547",
+    "name": "MySports 5 D"
+  },
+  {
+    "id": "1548",
+    "name": "MySports 6 D"
+  },
+  {
+    "id": "1549",
+    "name": "MySports 7 D"
+  },
+  {
+    "id": "1550",
+    "name": "MySports 8 D"
+  },
+  {
+    "id": "1551",
+    "name": "MySports 9 D"
+  },
+  {
+    "id": "1722",
+    "name": "MySports EDGE"
+  },
+  {
+    "id": "1944",
+    "name": "MySports Uno I"
   }
 ]
