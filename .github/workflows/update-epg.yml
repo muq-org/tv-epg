@@ -8,6 +8,8 @@ on:
 jobs:
     update-epg:
         runs-on: ubuntu-latest
+        env:
+            FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -34,9 +36,3 @@ jobs:
                   git commit -m "Update EPG XMLTV [skip ci]" || echo "No changes to commit"
                   git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
                   git push
-
-            - name: Upload epg.xml as artifact
-              uses: actions/upload-artifact@v4
-              with:
-                  name: epg-xmltv
-                  path: epg.xml
