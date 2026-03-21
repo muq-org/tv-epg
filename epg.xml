@@ -17,7 +17,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="1000">
     <title>FC Sion - FC St.Gallen 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1000/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321221500 +0000" stop="20260322020000 +0000" channel="1000">
     <title>blue Sport 1 Live D</title>
@@ -48,7 +48,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="1001">
     <title>FC Sion - FC St-Gall 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1001/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="1001">
     <title>blue Sport 1 direct F</title>
@@ -67,170 +67,170 @@
   </channel>
   <programme start="20260321095500 +0000" stop="20260321103000 +0000" channel="1221">
     <title>Fussball: Matchnight - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820857_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39820857_lane_w1920.webp"/>
   </programme>
   <programme start="20260321103000 +0000" stop="20260321110000 +0000" channel="1221">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1221">
     <title>Mountainbike: Absa Cape Epic</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39777650_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39777650_lane_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321115500 +0000" channel="1221">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759362_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39759362_lane_w1920.webp"/>
   </programme>
   <programme start="20260321115500 +0000" stop="20260321140000 +0000" channel="1221">
     <title>Fussball: FC Barcelona - Newcastle United FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836411_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39836411_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="1221">
     <title>Live: Formel E Weltmeisterschaft</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39817932_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39817932_lane_w1920.webp"/>
   </programme>
   <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1221">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329107_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39329107_lane_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="1221">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759362_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39759362_lane_w1920.webp"/>
   </programme>
   <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="1221">
     <title>Der Countdown - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790287_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39790287_lane_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1221">
     <title>GO! Das Schweizer Mobilitätsmagazin</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39727726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="1221">
     <title>Garagengold</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/38270307_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/38270307_lane_w1920.webp"/>
   </programme>
   <programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="1221">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="1221">
     <title>On the Rocks: Gabirano</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39299723_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39299723_lane_w1920.webp"/>
   </programme>
   <programme start="20260321190000 +0000" stop="20260321193500 +0000" channel="1221">
     <title>LÄSSER – Die Talkshow</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39269496_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39269496_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193500 +0000" stop="20260321210500 +0000" channel="1221">
     <title>Formel E Weltmeisterschaft</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39817932_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39817932_lane_w1920.webp"/>
   </programme>
   <programme start="20260321210500 +0000" stop="20260321214500 +0000" channel="1221">
     <title>GO! Das Schweizer Mobilitätsmagazin</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39727726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321214500 +0000" stop="20260321221000 +0000" channel="1221">
     <title>Alle Spiele, alle Tore - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790307_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39790307_lane_w1920.webp"/>
   </programme>
   <programme start="20260321221000 +0000" stop="20260321224000 +0000" channel="1221">
     <title>LÄSSER – Die Talkshow</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39269496_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39269496_lane_w1920.webp"/>
   </programme>
   <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="1221">
     <title>Mountainbike: Absa Cape Epic</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39777650_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39777650_lane_w1920.webp"/>
   </programme>
   <programme start="20260321231000 +0000" stop="20260322010500 +0000" channel="1221">
     <title>Fussball: West Ham United - Manchester United</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39801976_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39801976_lane_w1920.webp"/>
   </programme>
   <programme start="20260322010500 +0000" stop="20260322034500 +0000" channel="1221">
     <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260322034500 +0000" stop="20260322054500 +0000" channel="1221">
     <title>Fussball: Aston Villa FC - LOSC Lille</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838535_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39838535_lane_w1920.webp"/>
   </programme>
   <programme start="20260322054500 +0000" stop="20260322061500 +0000" channel="1221">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759362_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39759362_lane_w1920.webp"/>
   </programme>
   <programme start="20260322061500 +0000" stop="20260322081000 +0000" channel="1221">
     <title>Fussball: West Ham United - Manchester United</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39801976_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39801976_lane_w1920.webp"/>
   </programme>
   <programme start="20260322081000 +0000" stop="20260322084000 +0000" channel="1221">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260322084000 +0000" stop="20260322110000 +0000" channel="1221">
     <title>Fussball: Chelsea FC - Manchester United</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39801966_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1221/39801966_lane_w1920.webp"/>
   </programme>
   <channel id="1226">
     <display-name>blue Retro</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321103500 +0000" channel="1226">
     <title>Patient mit Dachschaden</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p106bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p106kh10aa_KeyArt_w1920.webp"/>
   </programme>
   <programme start="20260321103500 +0000" stop="20260321123000 +0000" channel="1226">
     <title>Wehrlos - Die Tochter des Generals</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p23021bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p23021vh10ag_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321123000 +0000" stop="20260321141000 +0000" channel="1226">
     <title>Der Prügelknabe</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p2579bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p2579kh10aa_KeyArt_w1920.webp"/>
   </programme>
   <programme start="20260321141000 +0000" stop="20260321155000 +0000" channel="1226">
     <title>Der tollkühne Jockey</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p1140bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p1140kh10aa_KeyArt_w1920.webp"/>
   </programme>
   <programme start="20260321155000 +0000" stop="20260321171500 +0000" channel="1226">
     <title>Free Willy 3: Die Rettung</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19684bdh10ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p19684vh11af_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321171500 +0000" stop="20260321191500 +0000" channel="1226">
     <title>xXx - Triple X</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p30116bdh10ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p30116vh10aw_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321204500 +0000" channel="1226">
     <title>Men in Black II</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p29160bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p29160vh8ap_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321204500 +0000" stop="20260321221500 +0000" channel="1226">
     <title>Von Löwen und Lämmern</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p170315bdh10ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p170315vh8ae_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321221500 +0000" stop="20260322000000 +0000" channel="1226">
     <title>Star Trek III - Auf der Suche nach Mr. Spock</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8105bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p8105vh10af_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322013500 +0000" channel="1226">
     <title>Event Horizon: Am Rande des Universums</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19815bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p19815vh10ag_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322013500 +0000" stop="20260322033000 +0000" channel="1226">
     <title>Wehrlos - Die Tochter des Generals</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p23021bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p23021vh10ag_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322033000 +0000" stop="20260322051000 +0000" channel="1226">
     <title>Der tollkühne Jockey</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p1140bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p1140kh10aa_KeyArt_w1920.webp"/>
   </programme>
   <programme start="20260322051000 +0000" stop="20260322071000 +0000" channel="1226">
     <title>xXx - Triple X</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p30116bdh10ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p30116vh10aw_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322071000 +0000" stop="20260322085500 +0000" channel="1226">
     <title>Star Trek III - Auf der Suche nach Mr. Spock</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8105bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p8105vh10af_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322085500 +0000" stop="20260322103000 +0000" channel="1226">
     <title>Event Horizon: Am Rande des Universums</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19815bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1226/p19815vh10ag_VodArt_w1920.webp"/>
   </programme>
   <channel id="1249">
     <display-name>blue Sport 2 Live D</display-name>
@@ -246,7 +246,7 @@
   </programme>
   <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="1249">
     <title>UHD HDR  FC Zürich - FC Thun</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849571_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1249/39849571_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1249">
     <title>blue Sport 2 Live D</title>
@@ -274,7 +274,7 @@
   </programme>
   <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="1250">
     <title>UHD HDR  Servette FC - Grasshopper Club Zürich</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849552_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1250/39849552_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1250">
     <title>blue Sport 3 Live D</title>
@@ -302,7 +302,7 @@
   </programme>
   <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="1251">
     <title>UHD HDR  FC Zurich - FC Thoune</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849571_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1251/39849571_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1251">
     <title>blue Sport 2 direct F</title>
@@ -330,7 +330,7 @@
   </programme>
   <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="1252">
     <title>UHD HDR  Servette FC - Grasshopper Club Zürich</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849552_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1252/39849552_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="1252">
     <title>blue Sport 3 direct F</title>
@@ -481,7 +481,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="1440">
     <title>UHD HDR  FC Sion - FC St.Gallen 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849590_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1440/39849590_lane_w1920.webp"/>
   </programme>
   <programme start="20260321221500 +0000" stop="20260322020000 +0000" channel="1440">
     <title>blue Sport 4 Live D</title>
@@ -512,7 +512,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="1441">
     <title>UHD HDR  FC Sion - FC St-Gall 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39849590_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1441/39849590_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="1441">
     <title>blue Sport 4 direct F</title>
@@ -536,7 +536,7 @@
   </programme>
   <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -545,7 +545,7 @@
   </programme>
   <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -554,7 +554,7 @@
   </programme>
   <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260321143000 +0000" stop="20260321153000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -563,7 +563,7 @@
   </programme>
   <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321170000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -572,7 +572,7 @@
   </programme>
   <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1543">
     <title>NHL On The Fly</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p12205142bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p12205142bh8ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321173000 +0000" stop="20260321173500 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -582,25 +582,25 @@
   <programme start="20260321173500 +0000" stop="20260321175500 +0000" channel="1543">
     <title>Inside plus</title>
     <sub-title>Lawrence Pilut - aufgeben gibt's nicht</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22992173bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22992173bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321175500 +0000" stop="20260321182500 +0000" channel="1543">
     <title>Inside plus</title>
     <sub-title>Denis Malgin - der stille Meistermacher</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22992173bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22992173bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321182500 +0000" stop="20260321211500 +0000" channel="1543">
     <title>National League: Playoff-Viertelfinale, Spiel 1: ZSC Lions - HC Lugano</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/GNLZZGG0030TY2F_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321211500 +0000" stop="20260321214500 +0000" channel="1543">
     <title>National League</title>
     <sub-title>die Playoff-Highlights</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321214500 +0000" stop="20260321223500 +0000" channel="1543">
     <title>Lara Stalder - Powerplay fürs Frauen-Eishockey</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p32115970ih10aa_Iconic_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p32115970bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321223500 +0000" stop="20260321224000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -610,7 +610,7 @@
   <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="1543">
     <title>Wiederholung: National League - die Spieltag-Highlights</title>
     <sub-title>die Playoff-Highlights</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687bh8bn_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321231000 +0000" stop="20260321233000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -619,7 +619,7 @@
   </programme>
   <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322003000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -628,7 +628,7 @@
   </programme>
   <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -637,7 +637,7 @@
   </programme>
   <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -646,7 +646,7 @@
   </programme>
   <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -655,7 +655,7 @@
   </programme>
   <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -664,7 +664,7 @@
   </programme>
   <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -673,7 +673,7 @@
   </programme>
   <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -682,7 +682,7 @@
   </programme>
   <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322083000 +0000" stop="20260322093000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -691,7 +691,7 @@
   </programme>
   <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="1543">
     <title>Slow Hockey</title>
@@ -703,137 +703,137 @@
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1544">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321160500 +0000" channel="1544">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321160500 +0000" stop="20260322000500 +0000" channel="1544">
     <title>National League</title>
     <sub-title>Spielübersicht</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322000500 +0000" stop="20260322032000 +0000" channel="1544">
     <title>National League</title>
     <sub-title>Spielübersicht</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322032000 +0000" stop="20260322050000 +0000" channel="1544">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1544">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322115000 +0000" channel="1544">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1544/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1545">
     <display-name>MySports 3 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1545">
     <title>National League: Playoff-Viertelfinale, Spiel 1: Genève-Servette HC - Lausanne HC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/GNLZZGG0030TY4T_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1545">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1546">
     <display-name>MySports 4 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1546">
     <title>National League: Playoff-Viertelfinale, Spiel 1: ZSC Lions - HC Lugano</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/GNLZZGG0030TY2F_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1546">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1547">
     <display-name>MySports 5 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1547">
     <title>National League: Playout Finale, Spiel 1: HC Ambrì-Piotta - HC Ajoie</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/GNLZZGG0030FVBP_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1547">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1548">
     <display-name>MySports 6 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321162000 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321162000 +0000" stop="20260321202500 +0000" channel="1548">
     <title>PostFinance Women's League: Playoff-Finale, Spiel 1: EV Zug Women - SC Bern Frauen</title>
@@ -841,128 +841,128 @@
   </programme>
   <programme start="20260321202500 +0000" stop="20260322002500 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322002500 +0000" stop="20260322050000 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1548">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1549">
     <display-name>MySports 7 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321200500 +0000" channel="1549">
     <title>NHL: Pittsburgh Penguins - Winnipeg Jets</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p191278bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/GNLZZGG002YX0HS_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321200500 +0000" stop="20260322000500 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322000500 +0000" stop="20260322040500 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322040500 +0000" stop="20260322050000 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1549">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1550">
     <display-name>MySports 8 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321180000 +0000" stop="20260321210500 +0000" channel="1550">
     <title>NHL: Minnesota Wild - Dallas Stars</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p191278bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/GNLZZGG002YXBVL_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321210500 +0000" stop="20260322010500 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322010500 +0000" stop="20260322050000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050500 +0000" stop="20260322090000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1550">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1550/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1551">
     <display-name>MySports 9 D</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321193000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321220000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1551">
     <title>Sendepause</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh019657290000x897_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1551/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1557">
     <display-name>MySports Un</display-name>
@@ -974,7 +974,7 @@
   </programme>
   <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321123000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -983,7 +983,7 @@
   </programme>
   <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -992,7 +992,7 @@
   </programme>
   <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321143000 +0000" stop="20260321153000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1001,7 +1001,7 @@
   </programme>
   <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321170000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1010,7 +1010,7 @@
   </programme>
   <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1557">
     <title>NHL On The Fly</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p12205142bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p12205142bh8ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321173000 +0000" stop="20260321173500 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1020,30 +1020,30 @@
   <programme start="20260321173500 +0000" stop="20260321175000 +0000" channel="1557">
     <title>Weird NHL</title>
     <sub-title>Vol. 125</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p24026982bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p24026982bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321175000 +0000" stop="20260321181000 +0000" channel="1557">
     <title>Weird NHL</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p24026982ih8aa_Iconic_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p24026982bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321181000 +0000" stop="20260321183500 +0000" channel="1557">
     <title>Inside plus</title>
     <sub-title>Lawrence Pilut - Abandonner : impossible !</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22992173bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22992173bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321183500 +0000" stop="20260321211500 +0000" channel="1557">
     <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/GNLZZGG0030TY4T_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321211500 +0000" stop="20260321214500 +0000" channel="1557">
     <title>National League</title>
     <sub-title>Les highlights</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321214500 +0000" stop="20260321220000 +0000" channel="1557">
     <title>Inside plus</title>
     <sub-title>La méthode Fischer : un coach suisse visionnaire</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22992173bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22992173bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1052,7 +1052,7 @@
   </programme>
   <programme start="20260321223000 +0000" stop="20260321230000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321230000 +0000" stop="20260321233000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1061,7 +1061,7 @@
   </programme>
   <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322003000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1070,7 +1070,7 @@
   </programme>
   <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1079,7 +1079,7 @@
   </programme>
   <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1088,7 +1088,7 @@
   </programme>
   <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1097,7 +1097,7 @@
   </programme>
   <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1106,7 +1106,7 @@
   </programme>
   <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322053000 +0000" stop="20260322063000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1115,7 +1115,7 @@
   </programme>
   <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1124,7 +1124,7 @@
   </programme>
   <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322083000 +0000" stop="20260322093000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1133,7 +1133,7 @@
   </programme>
   <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="1557">
     <title>Rediffusion : National League - les Highlights</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1557/p22931687bh10bm_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="1557">
     <title>Slow Hockey</title>
@@ -1145,137 +1145,137 @@
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1558">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321160500 +0000" channel="1558">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321160500 +0000" stop="20260322000500 +0000" channel="1558">
     <title>National League</title>
     <sub-title>Aperçu des rencontres</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322000500 +0000" stop="20260322032000 +0000" channel="1558">
     <title>National League</title>
     <sub-title>Aperçu des rencontres</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p22931687bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p22931687bh10bc_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322032000 +0000" stop="20260322050000 +0000" channel="1558">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1558">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322115000 +0000" channel="1558">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1558/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1559">
     <display-name>MySports 3 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1559">
     <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/GNLZZGG0030TY4T_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1559">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1559/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1560">
     <display-name>MySports 4 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1560">
     <title>National League: Playoffs, quarts de finale, acte 1 : ZSC Lions - HC Lugano</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/GNLZZGG0030TY2F_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1560">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1560/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1561">
     <display-name>MySports 5 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321185500 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260322014000 +0000" channel="1561">
     <title>National League: Finale Playout, acte 1 : HC Ambrì-Piotta - HC Ajoie</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/GNLZZGG0030FVBP_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322014000 +0000" stop="20260322050000 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1561">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1561/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1562">
     <display-name>MySports 6 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321162000 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321162000 +0000" stop="20260321202500 +0000" channel="1562">
     <title>PostFinance Women's League: Playoffs, finale, acte 1 : EV Zug Women - SC Bern Frauen</title>
@@ -1283,159 +1283,159 @@
   </programme>
   <programme start="20260321202500 +0000" stop="20260322002500 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322002500 +0000" stop="20260322050000 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1562">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1562/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1563">
     <display-name>MySports 7 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321200500 +0000" channel="1563">
     <title>NHL: Pittsburgh Penguins - Winnipeg Jets</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p191278bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/GNLZZGG002YX0HS_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321200500 +0000" stop="20260322000500 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322000500 +0000" stop="20260322040500 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322040500 +0000" stop="20260322050000 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1563">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1563/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1564">
     <display-name>MySports 8 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321180000 +0000" stop="20260321210500 +0000" channel="1564">
     <title>NHL: Minnesota Wild - Dallas Stars</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p191278bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/GNLZZGG002YXBVL_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321210500 +0000" stop="20260322010500 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322010500 +0000" stop="20260322050000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050500 +0000" stop="20260322090000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1564">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1564/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1565">
     <display-name>MySports 9 F</display-name>
   </channel>
   <programme start="20260321090000 +0000" stop="20260321130000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321170000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321193000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321220000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322010000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322130000 +0000" channel="1565">
     <title>Fin des programmes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/sh025820540000x558_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1565/p480440bh8cn_BannerL2_w1920.webp"/>
   </programme>
   <channel id="1722">
     <display-name>MySports EDGE</display-name>
   </channel>
   <programme start="20260321093000 +0000" stop="20260321103000 +0000" channel="1722">
     <title>UCI ProSeries Cycling: Tour of Oman : Stage 6, Final</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p26502171bdh10ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p26502171bh8ac_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321103000 +0000" stop="20260321113000 +0000" channel="1722">
     <title>Tour de la Provence</title>
     <sub-title>Highlights, Final</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p17939276bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p17939276bh10ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="1722">
     <title>Gearing Up</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p16551795bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p16551795bh8ad_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321120000 +0000" stop="20260321123000 +0000" channel="1722">
     <title>Gearing Up</title>
     <sub-title>Episode 2</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p16551795bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p16551795bh8ad_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321123000 +0000" stop="20260321143000 +0000" channel="1722">
     <title>Freeride World Tour</title>
     <sub-title>Baqueira Beret Pro (ESP)</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p9724312bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p9724312bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321143000 +0000" stop="20260321163000 +0000" channel="1722">
     <title>Freeride World Tour</title>
     <sub-title>Val Thorens Pro, France</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p9724312bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p9724312bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321163000 +0000" stop="20260321193000 +0000" channel="1722">
     <title>FWT - Nendaz Backcountry Invitational 2026</title>
@@ -1443,50 +1443,50 @@
   <programme start="20260321193000 +0000" stop="20260322010000 +0000" channel="1722">
     <title>Nendaz Freeride FWT Challenger</title>
     <sub-title>Nendaz Freeride Challenger - 1</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p30297410bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p30297410bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="1722">
     <title>Gearing Up</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p16551795bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p16551795bh8ad_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="1722">
     <title>Gearing Up</title>
     <sub-title>Episode 2</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p16551795bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p16551795bh8ad_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322020000 +0000" stop="20260322050000 +0000" channel="1722">
     <title>NHL Hockey: Edmonton Oilers v Tampa Bay Lightning</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p191278bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/GNLZZGG002YX5DV_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="1722">
     <title>The Sports Rundown</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p27389829bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p27389829bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="1722">
     <title>The Sports Rundown</title>
     <sub-title>Episode 2</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p27389829bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p27389829bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322060000 +0000" stop="20260322070000 +0000" channel="1722">
     <title>EDGEsport Stories</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19500384bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p19500384bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="1722">
     <title>EDGEsport Stories</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19500384bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p19500384bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="1722">
     <title>EDGEsport Stories</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19500384bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p19500384bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="1722">
     <title>EDGEsport Stories</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19500384bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p19500384bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="1722">
     <title>Mass Participation Series Triathlon</title>
     <sub-title>Cappadocia</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p10120758ih10aa_Iconic_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1722/p10120758ih10aa_Iconic_w1920.webp"/>
   </programme>
   <channel id="1944">
     <display-name>MySports Uno I</display-name>
@@ -1501,7 +1501,7 @@
   </programme>
   <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="1944">
     <title>NHL On The Fly</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p12205142bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p12205142bh8ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321173000 +0000" stop="20260321174000 +0000" channel="1944">
     <title>Slow Hockey</title>
@@ -1510,16 +1510,16 @@
   <programme start="20260321174000 +0000" stop="20260321180000 +0000" channel="1944">
     <title>Weird NHL</title>
     <sub-title>Vol. 127</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p24026982bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p24026982bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321180000 +0000" stop="20260321185500 +0000" channel="1944">
     <title>Weird NHL</title>
     <sub-title>Vol. 128</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p24026982bdh10aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p24026982bh8aa_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321185500 +0000" stop="20260321230000 +0000" channel="1944">
     <title>National League: Playoff - Quarti di finale, Gara 1: Zurigo - Lugano</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11217240bdh8ae_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/GNLZZGG0030TY2F_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="1944">
     <title>Slow Hockey</title>
@@ -1590,246 +1590,246 @@
   </channel>
   <programme start="20260321081500 +0000" stop="20260321110500 +0000" channel="420">
     <title>Foot: Manchester City - Real Madrid CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836154_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39836154_lane_w1920.webp"/>
   </programme>
   <programme start="20260321110500 +0000" stop="20260321113500 +0000" channel="420">
     <title>Le temps additionnel - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820798_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39820798_lane_w1920.webp"/>
   </programme>
   <programme start="20260321113500 +0000" stop="20260321120500 +0000" channel="420">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321120500 +0000" stop="20260321123500 +0000" channel="420">
     <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39830613_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39830613_lane_w1920.webp"/>
   </programme>
   <programme start="20260321123500 +0000" stop="20260321134000 +0000" channel="420">
     <title>Match après match</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39327839_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39327839_lane_w1920.webp"/>
   </programme>
   <programme start="20260321134000 +0000" stop="20260321140000 +0000" channel="420">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39335114_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="420">
     <title>En direct : Championnat du monde de Formule E</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39817932_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39817932_lane_w1920.webp"/>
   </programme>
   <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="420">
     <title>GO ! Le magazine suisse de la mobilité</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727720_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39727720_lane_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="420">
     <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39830613_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39830613_lane_w1920.webp"/>
   </programme>
   <programme start="20260321163000 +0000" stop="20260321164500 +0000" channel="420">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39335114_lane_w1920.webp"/>
   </programme>
   <programme start="20260321164500 +0000" stop="20260321170000 +0000" channel="420">
     <title>Club Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790297_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39790297_lane_w1920.webp"/>
   </programme>
   <programme start="20260321170000 +0000" stop="20260321190000 +0000" channel="420">
     <title>Foot: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260321190000 +0000" stop="20260321191500 +0000" channel="420">
     <title>Grand Écran : "Chers parents" d'Emmanuel Patron</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39787726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39787726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321193000 +0000" channel="420">
     <title>Club Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790546_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39790546_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="420">
     <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39830613_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39830613_lane_w1920.webp"/>
   </programme>
   <programme start="20260321200000 +0000" stop="20260321203000 +0000" channel="420">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321203000 +0000" stop="20260321210000 +0000" channel="420">
     <title>Football's Greatest Stage</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759358_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39759358_lane_w1920.webp"/>
   </programme>
   <programme start="20260321210000 +0000" stop="20260321213000 +0000" channel="420">
     <title>GO ! Le magazine suisse de la mobilité</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727720_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39727720_lane_w1920.webp"/>
   </programme>
   <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="420">
     <title>Le temps additionnel - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790323_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39790323_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="420">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321223000 +0000" stop="20260321225000 +0000" channel="420">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39335114_lane_w1920.webp"/>
   </programme>
   <programme start="20260321225000 +0000" stop="20260321232000 +0000" channel="420">
     <title>Grand Écran : "Police Flash 80" avec François Damiens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39830613_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39830613_lane_w1920.webp"/>
   </programme>
   <programme start="20260321232000 +0000" stop="20260321233500 +0000" channel="420">
     <title>Grand Écran : "Chers parents" d'Emmanuel Patron</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39787726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39787726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321233500 +0000" stop="20260322021500 +0000" channel="420">
     <title>Foot: Sporting Clube de Portugal - FK Bodø/Glimt</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836111_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39836111_lane_w1920.webp"/>
   </programme>
   <programme start="20260322021500 +0000" stop="20260322041000 +0000" channel="420">
     <title>Foot: FC Barcelona - Newcastle United FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836411_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39836411_lane_w1920.webp"/>
   </programme>
   <programme start="20260322041000 +0000" stop="20260322043000 +0000" channel="420">
     <title>Grand Écran : "Marcel et monsieur Pagnol" de Sylvain Chomet</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39787732_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39787732_lane_w1920.webp"/>
   </programme>
   <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="420">
     <title>GO ! Le magazine suisse de la mobilité</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727720_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39727720_lane_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322065500 +0000" channel="420">
     <title>Foot: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260322065500 +0000" stop="20260322071500 +0000" channel="420">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39335114_lane_w1920.webp"/>
   </programme>
   <programme start="20260322071500 +0000" stop="20260322074000 +0000" channel="420">
     <title>Grand Écran : "La Maison des femmes" avec Laetitia Dosch</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39830619_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39830619_lane_w1920.webp"/>
   </programme>
   <programme start="20260322074000 +0000" stop="20260322103500 +0000" channel="420">
     <title>Foot: Liverpool FC - Galatasaray AŞ</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836454_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/420/39836454_lane_w1920.webp"/>
   </programme>
   <channel id="483">
     <display-name>blue Sport D 1</display-name>
   </channel>
   <programme start="20260321091000 +0000" stop="20260321113500 +0000" channel="483">
     <title>Fussball: FC Lausanne-Sport - BSC Young Boys</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39737561_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39737561_lane_w1920.webp"/>
   </programme>
   <programme start="20260321113500 +0000" stop="20260321120500 +0000" channel="483">
     <title>Fussball: Alle Spiele, alle Tore - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39737734_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39737734_lane_w1920.webp"/>
   </programme>
   <programme start="20260321120500 +0000" stop="20260321130000 +0000" channel="483">
     <title>Heimspiel - Der Fussball-Talk</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39298067_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39298067_lane_w1920.webp"/>
   </programme>
   <programme start="20260321130000 +0000" stop="20260321133000 +0000" channel="483">
     <title>GO! Das Schweizer Mobilitätsmagazin</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39727726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321133000 +0000" stop="20260321140000 +0000" channel="483">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39645129_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321153000 +0000" channel="483">
     <title>Live: Formel E Weltmeisterschaft</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39817932_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39817932_lane_w1920.webp"/>
   </programme>
   <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="483">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759366_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39759366_lane_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="483">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759366_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39759366_lane_w1920.webp"/>
   </programme>
   <programme start="20260321163000 +0000" stop="20260321191500 +0000" channel="483">
     <title>FC Zürich - FC Thun</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790185_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39790185_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321214500 +0000" channel="483">
     <title>FC Sion - FC St.Gallen 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321214500 +0000" stop="20260321221000 +0000" channel="483">
     <title>Alle Spiele, alle Tore - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790307_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39790307_lane_w1920.webp"/>
   </programme>
   <programme start="20260321221000 +0000" stop="20260321224000 +0000" channel="483">
     <title>GO! Das Schweizer Mobilitätsmagazin</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727726_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39727726_lane_w1920.webp"/>
   </programme>
   <programme start="20260321224000 +0000" stop="20260321231000 +0000" channel="483">
     <title>The Evolution of Sport</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39783177_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39783177_lane_w1920.webp"/>
   </programme>
   <programme start="20260321231000 +0000" stop="20260321234000 +0000" channel="483">
     <title>WM-Momente für die Ewigkeit</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39759366_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39759366_lane_w1920.webp"/>
   </programme>
   <programme start="20260321234000 +0000" stop="20260322021000 +0000" channel="483">
     <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260322021000 +0000" stop="20260322022500 +0000" channel="483">
     <title>Top Goals 2025 - Swiss Football League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39620121_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39620121_lane_w1920.webp"/>
   </programme>
   <programme start="20260322022500 +0000" stop="20260322025000 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329227_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329227_lane_w1920.webp"/>
   </programme>
   <programme start="20260322025000 +0000" stop="20260322031500 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329233_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329233_lane_w1920.webp"/>
   </programme>
   <programme start="20260322031500 +0000" stop="20260322034500 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329239_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329239_lane_w1920.webp"/>
   </programme>
   <programme start="20260322034500 +0000" stop="20260322041000 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329245_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329245_lane_w1920.webp"/>
   </programme>
   <programme start="20260322041000 +0000" stop="20260322043500 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329251_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329251_lane_w1920.webp"/>
   </programme>
   <programme start="20260322043500 +0000" stop="20260322050000 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329257_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329257_lane_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322052500 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329263_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329263_lane_w1920.webp"/>
   </programme>
   <programme start="20260322052500 +0000" stop="20260322055000 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329269_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329269_lane_w1920.webp"/>
   </programme>
   <programme start="20260322055000 +0000" stop="20260322061500 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329275_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329275_lane_w1920.webp"/>
   </programme>
   <programme start="20260322061500 +0000" stop="20260322064000 +0000" channel="483">
     <title>Football Nation</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39329281_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39329281_lane_w1920.webp"/>
   </programme>
   <programme start="20260322064000 +0000" stop="20260322091000 +0000" channel="483">
     <title>Fussball: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260322091000 +0000" stop="20260322100500 +0000" channel="483">
     <title>Heimspiel - Der Fussball-Talk</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39298067_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39298067_lane_w1920.webp"/>
   </programme>
   <programme start="20260322100500 +0000" stop="20260322103500 +0000" channel="483">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645129_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/483/39645129_lane_w1920.webp"/>
   </programme>
   <channel id="484">
     <display-name>blue Sport 8 Live</display-name>
@@ -1845,7 +1845,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="484">
     <title>CA Osasuna - Girona FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804961_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/484/39804961_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="484">
     <title>blue Sport 8 Live</title>
@@ -1873,7 +1873,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="485">
     <title>Levante UD - Real Oviedo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804933_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/485/39804933_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="485">
     <title>blue Sport 9 Live</title>
@@ -1901,7 +1901,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="486">
     <title>Cádiz CF - Málaga CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39844347_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/486/39844347_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="486">
     <title>blue Sport 10 Live</title>
@@ -1917,7 +1917,7 @@
   </programme>
   <programme start="20260322085500 +0000" stop="20260322133000 +0000" channel="486">
     <title>Live Mountainbike: Absa Cape Epic</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39777662_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/486/39777662_lane_w1920.webp"/>
   </programme>
   <channel id="487">
     <display-name>blue Sport 11 Live</display-name>
@@ -1936,7 +1936,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321221500 +0000" channel="487">
     <title>FC Sion - FC St.Gallen 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/487/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321221500 +0000" stop="20260322000000 +0000" channel="487">
     <title>blue Sport 11 Live</title>
@@ -2099,67 +2099,67 @@
   </channel>
   <programme start="20260321082500 +0000" stop="20260321104500 +0000" channel="494">
     <title>Fussball: FC Porto - VfB Stuttgart</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838465_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838465_lane_w1920.webp"/>
   </programme>
   <programme start="20260321104500 +0000" stop="20260321112000 +0000" channel="494">
     <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838687_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838687_lane_w1920.webp"/>
   </programme>
   <programme start="20260321112000 +0000" stop="20260321140000 +0000" channel="494">
     <title>Fussball: Sporting Clube de Portugal - FK Bodø/Glimt</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836111_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39836111_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321154500 +0000" channel="494">
     <title>Fussball: Chelsea FC - Paris Saint-Germain</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836240_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39836240_lane_w1920.webp"/>
   </programme>
   <programme start="20260321154500 +0000" stop="20260321162000 +0000" channel="494">
     <title>Fussball: Matchnight - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820782_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39820782_lane_w1920.webp"/>
   </programme>
   <programme start="20260321162000 +0000" stop="20260321191000 +0000" channel="494">
     <title>Fussball: Arsenal FC - Bayer 04 Leverkusen</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836197_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39836197_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191000 +0000" stop="20260321194500 +0000" channel="494">
     <title>Fussball: Matchnight - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820782_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39820782_lane_w1920.webp"/>
   </programme>
   <programme start="20260321194500 +0000" stop="20260321224000 +0000" channel="494">
     <title>Fussball: Manchester City - Real Madrid CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836154_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39836154_lane_w1920.webp"/>
   </programme>
   <programme start="20260321224000 +0000" stop="20260321231500 +0000" channel="494">
     <title>Fussball: Matchnight - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820782_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39820782_lane_w1920.webp"/>
   </programme>
   <programme start="20260321231500 +0000" stop="20260322011500 +0000" channel="494">
     <title>Fussball: Konferenz - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820760_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39820760_lane_w1920.webp"/>
   </programme>
   <programme start="20260322011500 +0000" stop="20260322040000 +0000" channel="494">
     <title>Fussball: FC Midtjylland - Nottingham Forest FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838578_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838578_lane_w1920.webp"/>
   </programme>
   <programme start="20260322040000 +0000" stop="20260322043500 +0000" channel="494">
     <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838687_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838687_lane_w1920.webp"/>
   </programme>
   <programme start="20260322043500 +0000" stop="20260322063000 +0000" channel="494">
     <title>Fussball: SC Freiburg - KRC Genk</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838641_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838641_lane_w1920.webp"/>
   </programme>
   <programme start="20260322063000 +0000" stop="20260322082500 +0000" channel="494">
     <title>Fussball: Olympique Lyonnais - Real Club Celta</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838379_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838379_lane_w1920.webp"/>
   </programme>
   <programme start="20260322082500 +0000" stop="20260322090000 +0000" channel="494">
     <title>Fussball: Highlights - UEFA Europa League / Conference League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838687_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838687_lane_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322122500 +0000" channel="494">
     <title>Fussball: AS Roma - Bologna FC 1909</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838422_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/494/39838422_lane_w1920.webp"/>
   </programme>
   <channel id="495">
     <display-name>blue Sport 18 Live</display-name>
@@ -2484,7 +2484,7 @@
   </programme>
   <programme start="20260321124500 +0000" stop="20260321150000 +0000" channel="511">
     <title>Elche CF - RCD Mallorca</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804878_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/511/39804878_lane_w1920.webp"/>
   </programme>
   <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="511">
     <title>blue Sport 2 Live</title>
@@ -2509,7 +2509,7 @@
   </programme>
   <programme start="20260321134500 +0000" stop="20260321160000 +0000" channel="512">
     <title>Padova Calcio - US Palermo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39814938_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/512/39814938_lane_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="512">
     <title>blue Sport 3 Live</title>
@@ -2537,7 +2537,7 @@
   </programme>
   <programme start="20260321150000 +0000" stop="20260321171500 +0000" channel="513">
     <title>RCD Espanyol de Barcelona - Getafe CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804906_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/513/39804906_lane_w1920.webp"/>
   </programme>
   <programme start="20260321171500 +0000" stop="20260321200000 +0000" channel="513">
     <title>blue Sport 4 Live</title>
@@ -2565,7 +2565,7 @@
   </programme>
   <programme start="20260321160000 +0000" stop="20260321181500 +0000" channel="514">
     <title>AC Monza - Venezia FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39814960_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/514/39814960_lane_w1920.webp"/>
   </programme>
   <programme start="20260321181500 +0000" stop="20260321220000 +0000" channel="514">
     <title>blue Sport 5 Live</title>
@@ -2596,7 +2596,7 @@
   </programme>
   <programme start="20260321162500 +0000" stop="20260321191500 +0000" channel="515">
     <title>Servette FC - Grasshopper Club Zürich</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790134_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/515/39790134_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="515">
     <title>blue Sport 6 Live</title>
@@ -2624,7 +2624,7 @@
   </programme>
   <programme start="20260321165000 +0000" stop="20260321190000 +0000" channel="516">
     <title>FC Aarau - Neuchâtel Xamax FCS</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716557_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/516/39716557_lane_w1920.webp"/>
   </programme>
   <programme start="20260321190000 +0000" stop="20260321230000 +0000" channel="516">
     <title>blue Sport 7 Live</title>
@@ -2643,197 +2643,197 @@
   </channel>
   <programme start="20260321091000 +0000" stop="20260321104000 +0000" channel="589">
     <title>Die goldenen Jahre</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv018437530000x803_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p22358357vh8aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321104000 +0000" stop="20260321123000 +0000" channel="589">
     <title>Türkisch für Anfänger</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p10866464kh10ai_KeyArt_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p10866464vh10aq_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321123000 +0000" stop="20260321140000 +0000" channel="589">
     <title>La dérive des continents (au sud)</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv019531100000x118_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p22595122vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321154000 +0000" channel="589">
     <title>Drachenzähmen leicht gemacht</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p11935469bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p11935469kh10aa_KeyArt_w1920.webp"/>
   </programme>
   <programme start="20260321154000 +0000" stop="20260321172500 +0000" channel="589">
     <title>Immenhof - Das grosse Versprechen</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p19345589bdh8ad_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p19345589vh8ae_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321172500 +0000" stop="20260321191500 +0000" channel="589">
     <title>Das Beste kommt noch!</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv020188220000x64_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p24704078vh10ab_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321210000 +0000" channel="589">
     <title>Paul - Ein Alien auf der Flucht</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8371978bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p8371978vh10ag_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321210000 +0000" stop="20260321224000 +0000" channel="589">
     <title>After Love</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv017369260000x45_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p19398611vh8al_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321224000 +0000" stop="20260322002500 +0000" channel="589">
     <title>Love is Blind - Auf den zweiten Blick</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p14217133bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p14217133vh10be_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322002500 +0000" stop="20260322021000 +0000" channel="589">
     <title>Alpha</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv011908210000x396_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p13434106vh8ai_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322021000 +0000" stop="20260322034000 +0000" channel="589">
     <title>La dérive des continents (au sud)</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv019531100000x118_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p22595122vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322034000 +0000" stop="20260322053000 +0000" channel="589">
     <title>Das Beste kommt noch!</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv020188220000x64_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p24704078vh10ab_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322053000 +0000" stop="20260322071500 +0000" channel="589">
     <title>Paul - Ein Alien auf der Flucht</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8371978bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p8371978vh10ag_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322071500 +0000" stop="20260322090000 +0000" channel="589">
     <title>Love is Blind - Auf den zweiten Blick</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p14217133bdh10ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p14217133vh10be_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322090000 +0000" stop="20260322104000 +0000" channel="589">
     <title>After Love</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv017369260000x45_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/589/p19398611vh8al_VodArt_w1920.webp"/>
   </programme>
   <channel id="590">
     <display-name>blue Sport F</display-name>
   </channel>
   <programme start="20260321093500 +0000" stop="20260321113000 +0000" channel="590">
     <title>Foot: FC Bayern München - Atalanta BC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836497_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39836497_lane_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="590">
     <title>Le temps additionnel - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820873_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39820873_lane_w1920.webp"/>
   </programme>
   <programme start="20260321120000 +0000" stop="20260321144500 +0000" channel="590">
     <title>Foot: Liverpool FC - Galatasaray AŞ</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836454_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39836454_lane_w1920.webp"/>
   </programme>
   <programme start="20260321144500 +0000" stop="20260321151500 +0000" channel="590">
     <title>Le temps additionnel - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820873_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39820873_lane_w1920.webp"/>
   </programme>
   <programme start="20260321151500 +0000" stop="20260321154500 +0000" channel="590">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39335236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321154500 +0000" stop="20260321161500 +0000" channel="590">
     <title>World of Freesports</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39645114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39645114_lane_w1920.webp"/>
   </programme>
   <programme start="20260321161500 +0000" stop="20260321164500 +0000" channel="590">
     <title>GO ! Le magazine suisse de la mobilité</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727720_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39727720_lane_w1920.webp"/>
   </programme>
   <programme start="20260321164500 +0000" stop="20260321191500 +0000" channel="590">
     <title>Servette FC - Grasshopper Club Zürich</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790134_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39790134_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321213000 +0000" channel="590">
     <title>FC Sion - FC St-Gall 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="590">
     <title>Le temps additionnel - Brack Super League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790323_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39790323_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="590">
     <title>GO ! Le magazine suisse de la mobilité</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39727720_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39727720_lane_w1920.webp"/>
   </programme>
   <programme start="20260321223000 +0000" stop="20260321224500 +0000" channel="590">
     <title>Best of de la semaine</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39335114_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39335114_lane_w1920.webp"/>
   </programme>
   <programme start="20260321224500 +0000" stop="20260322004000 +0000" channel="590">
     <title>Foot: FC Vaduz - Yverdon Sport FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716436_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39716436_lane_w1920.webp"/>
   </programme>
   <programme start="20260322004000 +0000" stop="20260322035000 +0000" channel="590">
     <title>Foot: AS Roma - Bologna FC 1909</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39838422_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39838422_lane_w1920.webp"/>
   </programme>
   <programme start="20260322035000 +0000" stop="20260322054000 +0000" channel="590">
     <title>Foot: Arsenal FC - Bayer 04 Leverkusen</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836197_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39836197_lane_w1920.webp"/>
   </programme>
   <programme start="20260322054000 +0000" stop="20260322072500 +0000" channel="590">
     <title>Foot: Chelsea FC - Paris Saint-Germain</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836240_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39836240_lane_w1920.webp"/>
   </programme>
   <programme start="20260322072500 +0000" stop="20260322075500 +0000" channel="590">
     <title>Le temps additionnel - UEFA Champions League</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39820798_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39820798_lane_w1920.webp"/>
   </programme>
   <programme start="20260322075500 +0000" stop="20260322104000 +0000" channel="590">
     <title>Foot: Manchester City - Real Madrid CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39836154_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/590/39836154_lane_w1920.webp"/>
   </programme>
   <channel id="591">
     <display-name>blue Action</display-name>
   </channel>
   <programme start="20260321095500 +0000" stop="20260321113000 +0000" channel="591">
     <title>One Shot - Mission ausser Kontrolle</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p20778935kh8aa_KeyArt_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p20778935vh8ah_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321113000 +0000" stop="20260321134000 +0000" channel="591">
     <title>Detective Dee und der Fluch des Seeungeheuers</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p10229311bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p10229311vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321134000 +0000" stop="20260321153000 +0000" channel="591">
     <title>Bloodshot</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p17180895bdh8ab_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p17180895vh8ab_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321153000 +0000" stop="20260321172000 +0000" channel="591">
     <title>Men in Black 3</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8797139bdh10ad_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p8797139vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321172000 +0000" stop="20260321191500 +0000" channel="591">
     <title>Terminator - Die Erlösung</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p182955bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p182955vh10ak_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321204500 +0000" channel="591">
     <title>3022</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv014360180000x234_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p17499594vh8aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321204500 +0000" stop="20260321224500 +0000" channel="591">
     <title>Knowing</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p182354bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p182354vh8ad_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260321224500 +0000" stop="20260322002500 +0000" channel="591">
     <title>Paranormal Activity: Die Gezeichneten</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p9895310bdh10ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p9895310vh10ai_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322002500 +0000" stop="20260322021500 +0000" channel="591">
     <title>Scary Stories to Tell in the Dark</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p16357092bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p16357092vh8ad_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322021500 +0000" stop="20260322043000 +0000" channel="591">
     <title>Detective Dee und der Fluch des Seeungeheuers</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p10229311bdh8aa_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p10229311vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322043000 +0000" stop="20260322062000 +0000" channel="591">
     <title>Men in Black 3</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p8797139bdh10ad_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p8797139vh10aa_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322062000 +0000" stop="20260322081500 +0000" channel="591">
     <title>Terminator - Die Erlösung</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p182955bdh8af_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p182955vh10ak_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322081500 +0000" stop="20260322101500 +0000" channel="591">
     <title>Knowing</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/p182354bdh8ac_Backdrop_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p182354vh8ad_VodArt_w1920.webp"/>
   </programme>
   <programme start="20260322101500 +0000" stop="20260322121000 +0000" channel="591">
     <title>Killer's Bodyguard 2</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/mv017025910000x126_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/591/p17909399vh8ao_VodArt_w1920.webp"/>
   </programme>
   <channel id="663">
     <display-name>blue Sport 1 Live</display-name>
@@ -2843,7 +2843,7 @@
   </programme>
   <programme start="20260321115000 +0000" stop="20260321140000 +0000" channel="663">
     <title>Manchester City - Tottenham Hotspur</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39824521_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/663/39824521_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321180000 +0000" channel="663">
     <title>blue Sport 1 Live</title>
@@ -2853,7 +2853,7 @@
   </programme>
   <programme start="20260321194500 +0000" stop="20260321220000 +0000" channel="663">
     <title>Sevilla FC - Valencia CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804989_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/663/39804989_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="663">
     <title>blue Sport 1 Live</title>
@@ -2881,7 +2881,7 @@
   </programme>
   <programme start="20260321165000 +0000" stop="20260321190000 +0000" channel="930">
     <title>FC Aarau - Neuchâtel Xamax FCS</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39716557_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/930/39716557_lane_w1920.webp"/>
   </programme>
   <programme start="20260321190000 +0000" stop="20260321230000 +0000" channel="930">
     <title>blue Sport 6 direct</title>
@@ -2909,7 +2909,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="932">
     <title>CA Osasuna - Girona FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804961_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/932/39804961_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="932">
     <title>blue Sport 7 direct</title>
@@ -2937,7 +2937,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="934">
     <title>Levante UD - Real Oviedo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804933_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/934/39804933_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="934">
     <title>blue Sport 8 direct</title>
@@ -2953,7 +2953,7 @@
   </programme>
   <programme start="20260322085500 +0000" stop="20260322133000 +0000" channel="934">
     <title>Live Mountainbike: Absa Cape Epic</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39777662_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/934/39777662_lane_w1920.webp"/>
   </programme>
   <channel id="936">
     <display-name>blue Sport 9 direct</display-name>
@@ -2969,7 +2969,7 @@
   </programme>
   <programme start="20260321171500 +0000" stop="20260321193000 +0000" channel="936">
     <title>Cádiz CF - Málaga CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39844347_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/936/39844347_lane_w1920.webp"/>
   </programme>
   <programme start="20260321193000 +0000" stop="20260321230000 +0000" channel="936">
     <title>blue Sport 9 direct</title>
@@ -2991,7 +2991,7 @@
   </programme>
   <programme start="20260321115000 +0000" stop="20260321140000 +0000" channel="938">
     <title>Manchester City - Tottenham Hotspur</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39824521_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/938/39824521_lane_w1920.webp"/>
   </programme>
   <programme start="20260321140000 +0000" stop="20260321180000 +0000" channel="938">
     <title>blue Sport 10 direct</title>
@@ -3001,7 +3001,7 @@
   </programme>
   <programme start="20260321191000 +0000" stop="20260321220000 +0000" channel="938">
     <title>FC Sion - FC St-Gall 1879</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790236_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/938/39790236_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322000000 +0000" channel="938">
     <title>blue Sport 10 direct</title>
@@ -3146,7 +3146,7 @@
   </programme>
   <programme start="20260321124500 +0000" stop="20260321150000 +0000" channel="950">
     <title>Elche CF - RCD Mallorca</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804878_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/950/39804878_lane_w1920.webp"/>
   </programme>
   <programme start="20260321150000 +0000" stop="20260321190000 +0000" channel="950">
     <title>blue Sport 1 direct</title>
@@ -3156,7 +3156,7 @@
   </programme>
   <programme start="20260321194500 +0000" stop="20260321220000 +0000" channel="950">
     <title>Sevilla FC - Valencia CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804989_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/950/39804989_lane_w1920.webp"/>
   </programme>
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="950">
     <title>blue Sport 1 direct</title>
@@ -3181,7 +3181,7 @@
   </programme>
   <programme start="20260321134500 +0000" stop="20260321160000 +0000" channel="952">
     <title>Padova Calcio - US Palermo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39814938_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/952/39814938_lane_w1920.webp"/>
   </programme>
   <programme start="20260321160000 +0000" stop="20260321200000 +0000" channel="952">
     <title>blue Sport 2 direct</title>
@@ -3209,7 +3209,7 @@
   </programme>
   <programme start="20260321150000 +0000" stop="20260321171500 +0000" channel="954">
     <title>RCD Espanyol de Barcelona - Getafe CF</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39804906_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/954/39804906_lane_w1920.webp"/>
   </programme>
   <programme start="20260321171500 +0000" stop="20260321210000 +0000" channel="954">
     <title>blue Sport 3 direct</title>
@@ -3237,7 +3237,7 @@
   </programme>
   <programme start="20260321160000 +0000" stop="20260321181500 +0000" channel="956">
     <title>AC Monza - Venezia FC</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39814960_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/956/39814960_lane_w1920.webp"/>
   </programme>
   <programme start="20260321181500 +0000" stop="20260321220000 +0000" channel="956">
     <title>blue Sport 4 direct</title>
@@ -3268,7 +3268,7 @@
   </programme>
   <programme start="20260321164000 +0000" stop="20260321191500 +0000" channel="958">
     <title>FC Zurich - FC Thoune</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/39790185_stage_w1920.webp"/>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/958/39790185_lane_w1920.webp"/>
   </programme>
   <programme start="20260321191500 +0000" stop="20260321230000 +0000" channel="958">
     <title>blue Sport 5 direct</title>

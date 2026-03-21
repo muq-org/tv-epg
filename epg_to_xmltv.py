@@ -69,9 +69,9 @@ def to_xmltv(epg_data):
             # Add <icon> for programme image if available
             images = prog_content.get('Nodes', {}).get('Items', [])
             image_url = None
-            # Prefer 'Stage' image, else first image
+            # Prefer 'Lane' image, else first image
             for img in images:
-                if img.get('Kind') == 'Image' and img.get('Role') == 'Stage' and img.get('ContentPath'):
+                if img.get('Kind') == 'Image' and img.get('Role') == 'Lane' and img.get('ContentPath'):
                     image_url = f"https://services.sg101.prd.sctv.ch/content/images/{img['ContentPath']}_w1920.webp"
                     break
             if not image_url:
