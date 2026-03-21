@@ -4498,13 +4498,9 @@
     <title>Adrénaline</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11253852bh10ae_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321112000 +0000" stop="20260321122500 +0000" channel="RTS2.ch" api-channel-id="367">
+  <programme start="20260321112000 +0000" stop="20260321134500 +0000" channel="RTS2.ch" api-channel-id="367">
     <title>FIS Ski alpin : Coupe du monde: Lillehammer : Descente (F)</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23022515ih8an_Iconic_w1920.webp"/>
-  </programme>
-  <programme start="20260321122500 +0000" stop="20260321134500 +0000" channel="RTS2.ch" api-channel-id="367">
-    <title>UCI Women's WorldTour: Milan-San Remo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p26272741bh10am_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321134500 +0000" stop="20260321140000 +0000" channel="RTS2.ch" api-channel-id="367">
     <title>RTS Info : L'actualité en continu</title>
@@ -5111,6 +5107,185 @@
     <sub-title>Im ewigen Eis</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/381/p29421993bh8ab_BannerL1_w1920.webp"/>
   </programme>
+  <channel id="skynews.uk" api-id="390">
+    <display-name>Sky News International</display-name>
+  </channel>
+  <programme start="20260320233000 +0000" stop="20260321000000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321000000 +0000" stop="20260321010000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321020000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321020000 +0000" stop="20260321030000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321030000 +0000" stop="20260321040000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321040000 +0000" stop="20260321050000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321060000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321063000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321070000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321073000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321073000 +0000" stop="20260321080000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321080000 +0000" stop="20260321083000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321090000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321093000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321103000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321103000 +0000" stop="20260321110000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321123000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321133000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Sam Washington</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26004839bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321133000 +0000" stop="20260321140000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Politics Hub</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26013729bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321150000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321153000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Politics Hub</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26013729bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321193000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Politics Hub</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26013729bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321203000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321203000 +0000" stop="20260321210000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>UK Tonight Highlights</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26091299bh11ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321213000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>World with Yalda Hakim</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26530697bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321230000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260321233000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="SRF1.ch" api-id="399">
     <display-name>SRF 1</display-name>
   </channel>
@@ -5499,14 +5674,9 @@
     <sub-title>Der Iran-Krieg und die Geopolitik der Gegenwart</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p10903697bh10af_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321090000 +0000" stop="20260321123000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321090000 +0000" stop="20260321133000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Leichtathletik: Hallen-WM 2026:Morning Session</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p516702ih10ah_Iconic_w1920.webp"/>
-  </programme>
-  <programme start="20260321123000 +0000" stop="20260321133000 +0000" channel="SRFinfo.ch" api-channel-id="400">
-    <title>Gredig direkt</title>
-    <sub-title>Ignazio Cassis: Muss sich die Schweiz neu erfinden?</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18120631bh10ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260321133000 +0000" stop="20260321143500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Club</title>
@@ -5549,48 +5719,48 @@
     <title>Meteo - Vorabendausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p20005713bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321173000 +0000" stop="20260321203000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321173000 +0000" stop="20260321205500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Leichtathletik: Hallen-WM 2026: Evening Session</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p516702ih10ah_Iconic_w1920.webp"/>
   </programme>
-  <programme start="20260321203000 +0000" stop="20260321212000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321205500 +0000" stop="20260321215000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Rundschau talk</title>
     <sub-title>Zu Gast: Bundesrat Albert Rösti</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p14232093bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321212000 +0000" stop="20260321220000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321215000 +0000" stop="20260321222500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Puls</title>
     <sub-title>Herpesviren - Das schlummernde Risiko</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182508bh10ah_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321220000 +0000" stop="20260321222500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321222500 +0000" stop="20260321224500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>gesundheitheute</title>
     <sub-title>Die Gesundheitssendung mit Dr. Jeanne Fürst - Aktivierung für mehr Freude im Leben</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p15817391bh10aj_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321222500 +0000" stop="20260321223000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321224500 +0000" stop="20260321225000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Meteo - Abendausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182414bh8ae_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321223000 +0000" stop="20260321224000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321225000 +0000" stop="20260321230000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Tagesschau - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18927267bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321224000 +0000" stop="20260321224500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321230000 +0000" stop="20260321230500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Meteo - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p20005730bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321224500 +0000" stop="20260321231500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321230500 +0000" stop="20260321234000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Super League - Highlights</title>
     <sub-title>Alle Spiele, alle Tore</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p21386404bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321231500 +0000" stop="20260321233500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321234000 +0000" stop="20260322000000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>sportheute</title>
     <sub-title>Der Sport des Tages</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18909193bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321233500 +0000" stop="20260322001500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322000000 +0000" stop="20260322004000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Gredig direkt</title>
     <sub-title>Ignazio Cassis: Muss sich die Schweiz neu erfinden?</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18120631bh10ab_BannerL1_w1920.webp"/>
@@ -12850,6 +13020,177 @@
     <sub-title>Weit, weit weg</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/381/p17754829bh8af_BannerL2_w1920.webp"/>
   </programme>
+  <channel id="skynews.uk" api-id="390">
+    <display-name>Sky News International</display-name>
+  </channel>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322030000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322060000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322073000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Mornings with Jones and Melbourne</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p31562311bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322100000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sunday Morning with Trevor Phillips</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p25550624bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322103000 +0000" stop="20260322110000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322113000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322113000 +0000" stop="20260322120000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322123000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322130000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322133000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today with Matt Barbet</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26843308bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322140000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Trevor Phillips: Highlights</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p20037967bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322143000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322150000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322153000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322160000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News Today</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p17723715bh11ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Trevor Phillips: Highlights</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p20037967bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322183000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322190000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The News Hour with Jonathan Samuels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26008492bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322193000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322200000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Trevor Phillips: Highlights</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p20037967bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322203000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322203000 +0000" stop="20260322210000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>UK Tonight Highlights</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26091299bh11ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>World with Yalda Hakim</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p26530697bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322223000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322223000 +0000" stop="20260322230000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260322233000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>The Wrap With Gillian Joseph</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p32288474bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="skynews.uk" api-channel-id="390">
+    <title>Sky News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/390/p907196bh10bc_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="SRF1.ch" api-id="399">
     <display-name>SRF 1</display-name>
   </channel>
@@ -13091,74 +13432,74 @@
   <channel id="SRFinfo.ch" api-id="400">
     <display-name>SRF info</display-name>
   </channel>
-  <programme start="20260321233500 +0000" stop="20260322001500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321234000 +0000" stop="20260322000000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+    <title>sportheute</title>
+    <sub-title>Der Sport des Tages</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18909193bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322004000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Gredig direkt</title>
     <sub-title>Ignazio Cassis: Muss sich die Schweiz neu erfinden?</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18120631bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322001500 +0000" stop="20260322002500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322004000 +0000" stop="20260322005000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Tagesschau - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18927267bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322002500 +0000" stop="20260322003000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322005000 +0000" stop="20260322005500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Meteo - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p20005730bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322003000 +0000" stop="20260322010000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322005500 +0000" stop="20260322012500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Super League - Highlights</title>
     <sub-title>Alle Spiele, alle Tore</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p21386404bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322010000 +0000" stop="20260322012000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322012500 +0000" stop="20260322014500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>sportheute</title>
     <sub-title>Der Sport des Tages</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18909193bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322012000 +0000" stop="20260322015500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322014500 +0000" stop="20260322022000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Kassensturz</title>
     <sub-title>Mangelhafte IV-Gutachten: Betroffenen droht Unrecht</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182432bh8aj_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322015500 +0000" stop="20260322020500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322022000 +0000" stop="20260322023000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Tagesschau - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18927267bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322020500 +0000" stop="20260322021000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322023000 +0000" stop="20260322023500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Meteo - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p20005730bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322021000 +0000" stop="20260322024000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322023500 +0000" stop="20260322030500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Super League - Highlights</title>
     <sub-title>Alle Spiele, alle Tore</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p21386404bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322024000 +0000" stop="20260322030000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322030500 +0000" stop="20260322032500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>sportheute</title>
     <sub-title>Der Sport des Tages</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18909193bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322030000 +0000" stop="20260322033500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322032500 +0000" stop="20260322040000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Puls</title>
     <sub-title>Herpesviren - Das schlummernde Risiko</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182508bh10ah_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322033500 +0000" stop="20260322034500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322040000 +0000" stop="20260322041000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Tagesschau - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18927267bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322034500 +0000" stop="20260322035000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322041000 +0000" stop="20260322041500 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Meteo - Spätausgabe</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p20005730bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322035000 +0000" stop="20260322042500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260322041500 +0000" stop="20260322044000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Super League - Highlights</title>
     <sub-title>Alle Spiele, alle Tore</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p21386404bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322042500 +0000" stop="20260322044000 +0000" channel="SRFinfo.ch" api-channel-id="400">
-    <title>sportheute</title>
-    <sub-title>Der Sport des Tages</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18909193bh8ab_BannerL1_w1920.webp"/>
   </programme>
   <programme start="20260322044000 +0000" stop="20260322055000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Arena</title>
