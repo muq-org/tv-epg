@@ -12649,6 +12649,11 @@
     <sub-title>Das Juwel von Mumbai</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/322/p185554bh8az_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323111500 +0000" stop="20260323114000 +0000" channel="ProSieben.ch" api-channel-id="322">
+    <title>The Big Bang Theory</title>
+    <sub-title>Herz zwei</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/322/p185554bh8az_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="Rai 1.ch" api-id="327">
     <display-name>Rai 1</display-name>
   </channel>
@@ -13996,6 +14001,10 @@
     <title>TeleBärn News</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/572/p11182421bh10aa_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323111500 +0000" stop="20260323112000 +0000" channel="Tele Bärn.ch" api-channel-id="572">
+    <title>premiumshopping.tv</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/572/p15265407bh10ae_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="TeleZüri.ch" api-id="585">
     <display-name>TeleZüri</display-name>
   </channel>
@@ -14110,6 +14119,10 @@
   <programme start="20260323110000 +0000" stop="20260323111500 +0000" channel="TeleZüri.ch" api-channel-id="585">
     <title>ZüriNews</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/585/p11168904bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323111500 +0000" stop="20260323112000 +0000" channel="TeleZüri.ch" api-channel-id="585">
+    <title>premiumshopping.tv</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/585/p15265407bh10ae_BannerL1_w1920.webp"/>
   </programme>
   <channel id="3sat.ch" api-id="6">
     <display-name>3sat</display-name>
