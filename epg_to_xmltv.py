@@ -98,7 +98,12 @@ def main():
     if not os.path.exists('selected_channel_ids.json'):
         raise RuntimeError("selected_channel_ids.json not found. Run extract_selected_channel_ids.py first.")
     with open('selected_channel_ids.json') as f:
-        channel_ids = json.load(f)
+        channel_data = json.load(f)
+        # Support both list of strings and list of dicts with 'id'
+        if channel_data and isinstance(channel_data[0], dict):
+            channel_ids = [c['id'] for c in channel_data]
+        else:
+            channel_ids = channel_data
     # Set time window (example: next 24h from now)
     import datetime as dt
     now = dt.datetime.utcnow()
