@@ -1,96 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
-  <channel id="franceinfo.ch" api-id="1064">
-    <display-name>franceinfo</display-name>
-  </channel>
-  <programme start="20260320231500 +0000" stop="20260321052900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>France 24</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p8191639bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321052900 +0000" stop="20260321073300 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale week-end</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p22927244bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321073300 +0000" stop="20260321075200 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>8h30 Franceinfo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17274835bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321075200 +0000" stop="20260321075900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale week-end</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p22927244bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321075900 +0000" stop="20260321084100 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La politique s'éclaire</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31778067bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321084100 +0000" stop="20260321085900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Les Informés de l'éco</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p23225722bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321085900 +0000" stop="20260321105900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 10h/12h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31779716bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321105900 +0000" stop="20260321115900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le Vrai ou Faux</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p25554199bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321115900 +0000" stop="20260321121900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le journal de France 2</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p425676bh8aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321121900 +0000" stop="20260321122900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>L'interview culture</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17768804bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321122900 +0000" stop="20260321125900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Nous, les Européens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17582604bh8ae_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321125900 +0000" stop="20260321144900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 14h/16h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p29366447bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321144900 +0000" stop="20260321145900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Outremer - l'info</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p21706775bh10ae_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321145900 +0000" stop="20260321165900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 16h/18h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p21475837bh10ac_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321165900 +0000" stop="20260321185900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Tout est politique</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31049077bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321185900 +0000" stop="20260321192900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>INAttendu</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p18746367bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321192900 +0000" stop="20260321195900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Nous, les Européens</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17582604bh8ae_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321195900 +0000" stop="20260321205900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le journal de 21h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1064/700.701_genre_w1920.webp"/>
-  </programme>
-  <programme start="20260321205900 +0000" stop="20260321215500 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le pour et le contre</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31031612bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321215500 +0000" stop="20260321215900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Journal Météo Climat</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p24316159bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321215900 +0000" stop="20260321230000 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 23h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17274803bh10ac_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321230000 +0000" stop="20260322052900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>France 24</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p8191639bh10ab_BannerL1_w1920.webp"/>
-  </programme>
   <channel id="Antenna 3.ch" api-id="1380">
     <display-name>Antenna 3</display-name>
   </channel>
@@ -925,6 +834,47 @@
   </programme>
   <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 10.ch" api-channel-id="1581">
     <title>Sky Bundesliga 10</title>
+  </programme>
+  <channel id="Sky Bundesliga 1.ch" api-id="1591">
+    <display-name>Sky Bundesliga 1</display-name>
+  </channel>
+  <programme start="20260320224500 +0000" stop="20260321020000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260321020000 +0000" stop="20260321060000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321100000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321124000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260321124000 +0000" stop="20260321130000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Es folgt: Live Bundesliga</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p15302905bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: tipico Countdown, 27. Spieltag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1591/500.501_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321141500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: FCB - FCU: tipico Countdown, 27. Spieltag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1591/500.501_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321141500 +0000" stop="20260321164500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>FC Bayern München - 1. FC Union Berlin</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/39821676_lane_w1920.webp"/>
+  </programme>
+  <programme start="20260321164500 +0000" stop="20260321201500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Borussia Dortmund - Hamburger SV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/39821716_lane_w1920.webp"/>
+  </programme>
+  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
   </programme>
   <channel id="Sky Sport 1 D.ch" api-id="1598">
     <display-name>Sky Sport 1 D</display-name>
@@ -6007,77 +5957,6 @@
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="blue Sport 1 Live.ch" api-channel-id="663">
     <title>blue Sport 1 Live</title>
   </programme>
-  <channel id="franceinfo.ch" api-id="1064">
-    <display-name>franceinfo</display-name>
-  </channel>
-  <programme start="20260321230000 +0000" stop="20260322052900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>France 24</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p8191639bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322052900 +0000" stop="20260322073300 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale week-end</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p22927244bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322073300 +0000" stop="20260322075200 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>8h30 Franceinfo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17274835bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322075200 +0000" stop="20260322075900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale week-end</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p22927244bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322075900 +0000" stop="20260322084100 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La politique s'éclaire</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31778067bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322084100 +0000" stop="20260322085900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Les informés de l'Europe</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p25585052bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322085900 +0000" stop="20260322110300 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 10h/12h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31779716bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322110300 +0000" stop="20260322120200 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Questions politiques</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p16833380bh11ac_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322120200 +0000" stop="20260322122200 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le journal de France 2</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p425676bh8aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322122200 +0000" stop="20260322123200 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>L'interview culture</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17768804bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322123200 +0000" stop="20260322125900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>INAttendu</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p18746367bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322125900 +0000" stop="20260322144900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 14h/16h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p29366447bh10aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322144900 +0000" stop="20260322145900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Outremer - l'info</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p21706775bh10ae_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322145900 +0000" stop="20260322165900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 16h/18h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p21475837bh10ac_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322165900 +0000" stop="20260322184500 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Tout est politique</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p31049077bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260322184500 +0000" stop="20260322230000 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Municipales 2026</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p32470092bh8ab_BannerL2_w1920.webp"/>
-  </programme>
-  <programme start="20260322230000 +0000" stop="20260323052900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>France 24</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p8191639bh10ab_BannerL1_w1920.webp"/>
-  </programme>
   <channel id="Antenna 3.ch" api-id="1380">
     <display-name>Antenna 3</display-name>
   </channel>
@@ -6852,6 +6731,58 @@
   </programme>
   <programme start="20260323000000 +0000" stop="20260323040000 +0000" channel="Sky Bundesliga 10.ch" api-channel-id="1581">
     <title>Sky Bundesliga 10</title>
+  </programme>
+  <channel id="Sky Bundesliga 1.ch" api-id="1591">
+    <display-name>Sky Bundesliga 1</display-name>
+  </channel>
+  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322114000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Es folgt: Live 2. Bundesliga</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p15302905bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322143000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live 2. BL: Sonntags-Konferenz, 27. Spieltag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p11553098bh8aj_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322153000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Sonntag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p11426309bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322163000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: Skylights: Die #SkySportShow</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1591/500.530_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: Highlights XXL: M05 - SGE, 27. Spieltag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p20426087bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322183000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: Sky90 - Die Fussballdebatte</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p11102883bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322191500 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Live BL: Highlights XXL: STP - SCF, 27. Spieltag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1591/p20426087bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322191500 +0000" stop="20260322200000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260323000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
   </programme>
   <channel id="Sky Sport 1 D.ch" api-id="1598">
     <display-name>Sky Sport 1 D</display-name>
@@ -11649,45 +11580,6 @@
   <programme start="20260323000000 +0000" stop="20260323040000 +0000" channel="blue Sport 1 Live.ch" api-channel-id="663">
     <title>blue Sport 1 Live</title>
   </programme>
-  <channel id="franceinfo.ch" api-id="1064">
-    <display-name>franceinfo</display-name>
-  </channel>
-  <programme start="20260322230000 +0000" stop="20260323052900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>France 24</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p8191639bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323052900 +0000" stop="20260323064500 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p20585767bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323064500 +0000" stop="20260323065400 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>L'invité politique</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p14466135bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323065400 +0000" stop="20260323073300 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>La matinale</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p20585767bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323073300 +0000" stop="20260323075800 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>8h30 Franceinfo</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p17274835bh10ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323075800 +0000" stop="20260323080600 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le journal de France 2</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p425676bh8aa_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323080600 +0000" stop="20260323082900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Les informés du matin</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p25691420bh11ab_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323082900 +0000" stop="20260323095900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>L'info s'éclaire</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p18746364bh10ac_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260323095900 +0000" stop="20260323115900 +0000" channel="franceinfo.ch" api-channel-id="1064">
-    <title>Le 11h/13h</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1064/p27205696bh10ac_BannerL1_w1920.webp"/>
-  </programme>
   <channel id="Antenna 3.ch" api-id="1380">
     <display-name>Antenna 3</display-name>
   </channel>
@@ -11809,6 +11701,12 @@
   <programme start="20260323110000 +0000" stop="20260323113000 +0000" channel="MySports Eins.ch" api-channel-id="1543">
     <title>Wiederholung: National League - die Playoff-Highlights</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1543/p22931687ih8ad_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260323113000 +0000" stop="20260323123000 +0000" channel="MySports Eins.ch" api-channel-id="1543">
+    <title>Slow Hockey</title>
+    <sub-title>National League</sub-title>
+    <desc>National League</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1543/500.503_genre_w1920.webp"/>
   </programme>
   <channel id="MySports 2 D.ch" api-id="1544">
     <display-name>MySports 2 D</display-name>
@@ -12096,6 +11994,21 @@
   </programme>
   <programme start="20260323080000 +0000" stop="20260323120000 +0000" channel="Sky Bundesliga 10.ch" api-channel-id="1581">
     <title>Sky Bundesliga 10</title>
+  </programme>
+  <channel id="Sky Bundesliga 1.ch" api-id="1591">
+    <display-name>Sky Bundesliga 1</display-name>
+  </channel>
+  <programme start="20260322200000 +0000" stop="20260323000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260323040000 +0000" stop="20260323080000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
+  </programme>
+  <programme start="20260323080000 +0000" stop="20260323120000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+    <title>Sky Bundesliga 1</title>
   </programme>
   <channel id="Sky Sport 1 D.ch" api-id="1598">
     <display-name>Sky Sport 1 D</display-name>
@@ -13033,6 +12946,12 @@
     <sub-title>Buoni propositi</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/356/p183931bh10af_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323113000 +0000" stop="20260323114500 +0000" channel="RSI LA 1.ch" api-channel-id="356">
+    <title>Telegiornale</title>
+    <sub-title>23/03/2026, 12:30</sub-title>
+    <desc>23/03/2026, 12:30</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/356/p11164465bh10ab_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="RSI LA 2.ch" api-id="357">
     <display-name>RSI LA 2</display-name>
   </channel>
@@ -13113,6 +13032,10 @@
   <programme start="20260323104500 +0000" stop="20260323113500 +0000" channel="RSI LA 2.ch" api-channel-id="357">
     <title>Controcorrente in TV</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/357/p24058263bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323113500 +0000" stop="20260323124000 +0000" channel="RSI LA 2.ch" api-channel-id="357">
+    <title>Siamo fuori</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/357/p20687899bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <channel id="RTL ZWEI.ch" api-id="359">
     <display-name>RTL ZWEI</display-name>
@@ -13570,6 +13493,12 @@
     <title>Super League - Highlights</title>
     <sub-title>Alle Spiele, alle Tore</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p21386404bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323113500 +0000" stop="20260323124500 +0000" channel="SRF info.ch" api-channel-id="400">
+    <title>Arena</title>
+    <sub-title>Waffen, Kriege und die Haltung der Schweiz</sub-title>
+    <desc>Waffen, Kriege und die Haltung der Schweiz</desc>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182489bh10ah_BannerL1_w1920.webp"/>
   </programme>
   <channel id="SRF zwei.ch" api-id="401">
     <display-name>SRF zwei</display-name>
