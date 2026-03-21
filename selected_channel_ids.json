@@ -8,12 +8,24 @@
     "name": "3sat"
   },
   {
+    "id": "14",
+    "name": "Al Jazeera"
+  },
+  {
     "id": "25",
     "name": "Das Erste"
   },
   {
     "id": "27",
     "name": "Arte Deutsch"
+  },
+  {
+    "id": "106",
+    "name": "CNBC UK"
+  },
+  {
+    "id": "107",
+    "name": "CNN"
   },
   {
     "id": "167",
@@ -24,8 +36,24 @@
     "name": "Eurosport 2 D"
   },
   {
+    "id": "217",
+    "name": "CNEWS"
+  },
+  {
     "id": "226",
     "name": "Kabel eins"
+  },
+  {
+    "id": "277",
+    "name": "WELT"
+  },
+  {
+    "id": "297",
+    "name": "n-tv"
+  },
+  {
+    "id": "307",
+    "name": "Phoenix TV"
   },
   {
     "id": "322",
@@ -46,6 +74,10 @@
   {
     "id": "330",
     "name": "Rai 4"
+  },
+  {
+    "id": "339",
+    "name": "Rai Sport"
   },
   {
     "id": "356",
@@ -143,10 +175,6 @@
     "id": "663",
     "name": "blue Sport 1 Live"
   },
-   {
-     "id": "1591",
-     "name": "Sky Bundesliga 1"
-   },
   {
     "id": "1276",
     "name": "Sky News International"
@@ -226,6 +254,10 @@
   {
     "id": "1581",
     "name": "Sky Bundesliga 10"
+  },
+  {
+    "id": "1591",
+    "name": "Sky Bundesliga 1"
   },
   {
     "id": "1598",

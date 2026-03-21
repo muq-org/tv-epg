@@ -1,5 +1,305 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
+  <channel id="CNBC UK.ch" api-id="106">
+    <display-name>CNBC UK</display-name>
+  </channel>
+  <programme start="20260320230000 +0000" stop="20260321000000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321000000 +0000" stop="20260321010000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <sub-title>Tessa Thompson; Steve Zahn; Mark Normand</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321020000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Closing Bell: Overtime</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p21779438bh8am_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321020000 +0000" stop="20260321030000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Fast Money</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185328bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321030000 +0000" stop="20260321040000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>Medical Gloves With Holes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321040000 +0000" stop="20260321043000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC on Assignment</title>
+    <sub-title>India AI Summit</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p216365bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321043000 +0000" stop="20260321050000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Dernis Hassabis: The Man Behind Google's AI Machine</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321053000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Meets</title>
+    <sub-title>Paris Hilton</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p8623867bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321053000 +0000" stop="20260321060000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside General Motors</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321063000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC on Assignment</title>
+    <sub-title>India AI Summit</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p216365bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321070000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Dernis Hassabis: The Man Behind Google's AI Machine</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321073000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Meets</title>
+    <sub-title>Paris Hilton</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p8623867bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321073000 +0000" stop="20260321080000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside General Motors</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321080000 +0000" stop="20260321083000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Answers with Bayless Conley</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p331557bh10as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321090000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Dernis Hassabis: The Man Behind Google's AI Machine</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321093000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Meets</title>
+    <sub-title>Paris Hilton</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p8623867bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside General Motors</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>Medical Gloves With Holes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321130000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Sports</title>
+    <sub-title>PGA TOUR 2025 - THE PLAYERS Championship Rd 3</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p346631bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Reaction Sports</title>
+    <sub-title>Ep 3: March</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p19899920bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321150000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Tour Down Under</title>
+    <sub-title>Santos Tour Down Under - Men</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p516411bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321153000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC on Assignment</title>
+    <sub-title>India AI Summit</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p216365bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321160000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Dernis Hassabis: The Man Behind Google's AI Machine</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321170000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>The Kingpin Next Door</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321183000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321200000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>Medical Gloves With Holes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321203000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321203000 +0000" stop="20260321210000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321220000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <sub-title>Tessa Thompson; Steve Zahn; Mark Normand</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="CNN.ch" api-id="107">
+    <display-name>CNN</display-name>
+  </channel>
+  <programme start="20260320230000 +0000" stop="20260321000000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Erin Burnett OutFront</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8855245bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321000000 +0000" stop="20260321010000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Anderson Cooper 360</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p185440bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321020000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Town Hall</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p17914934bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321020000 +0000" stop="20260321030000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN NewsNight With Abby Phillip</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p25850185bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321030000 +0000" stop="20260321040000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Laura Coates Live</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p25850193bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321040000 +0000" stop="20260321050000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>The Story Is With Elex Michaelson</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p31514402bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321060000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>The Story Is With Elex Michaelson</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p31514402bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321063000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321070000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>African Voices Playmakers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23593450bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321073000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321073000 +0000" stop="20260321080000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Africa</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p408155bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321080000 +0000" stop="20260321090000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321100000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN This Morning Weekend</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23278533bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321120000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN This Morning Weekend</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23278533bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321130000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>First of All With Victor Blackwell</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p26010539bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Smerconish</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p10610930bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>African Voices Playmakers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23593450bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321150000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Africa</title>
+    <sub-title>The Ebony Project: Cameroon</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p408155bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321160000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>The Amanpour Hour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p26010561bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>World Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8193600bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Africa</title>
+    <sub-title>STEMpower: Africa's Hands-On STEM Network</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p408155bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321180000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Smerconish</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p10610930bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321190000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195017bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321200000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195017bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321210000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>The Arena: Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p31945912bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321213000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>World Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8193600bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321220000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Connecting Africa</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p18951756bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321230000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195017bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195017bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Smerconish</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p10610930bh8aa_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="Antenna 3.ch" api-id="1380">
     <display-name>Antenna 3</display-name>
   </channel>
@@ -83,6 +383,9 @@
     <title>Format</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1380/p11497479bh8aa_BannerL2_w1920.webp"/>
   </programme>
+  <channel id="Al Jazeera.ch" api-id="14">
+    <display-name>Al Jazeera</display-name>
+  </channel>
   <channel id="MySports Eins.ch" api-id="1543">
     <display-name>MySports Eins</display-name>
   </channel>
@@ -1359,6 +1662,209 @@
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag komplett</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1962/p11426309bh10ah_BannerL2_w1920.webp"/>
   </programme>
+  <channel id="CNEWS.ch" api-id="217">
+    <display-name>CNEWS</display-name>
+  </channel>
+  <programme start="20260320235900 +0000" stop="20260321002100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321002100 +0000" stop="20260321003100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321003100 +0000" stop="20260321003400 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321003400 +0000" stop="20260321003500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321003500 +0000" stop="20260321005700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321005700 +0000" stop="20260321005900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'éphéméride</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321005900 +0000" stop="20260321010200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321010200 +0000" stop="20260321010300 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321010300 +0000" stop="20260321012500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321012500 +0000" stop="20260321012800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321012800 +0000" stop="20260321013000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321013000 +0000" stop="20260321015200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321015200 +0000" stop="20260321015500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321015500 +0000" stop="20260321015600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321015600 +0000" stop="20260321021800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321021800 +0000" stop="20260321022100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321022100 +0000" stop="20260321022200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321022200 +0000" stop="20260321024400 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321024400 +0000" stop="20260321025500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321025500 +0000" stop="20260321025600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321025600 +0000" stop="20260321031800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321031800 +0000" stop="20260321032100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321032100 +0000" stop="20260321032300 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321032300 +0000" stop="20260321034500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321034500 +0000" stop="20260321035800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321035800 +0000" stop="20260321035900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321035900 +0000" stop="20260321042100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321042100 +0000" stop="20260321042800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321042800 +0000" stop="20260321042900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321042900 +0000" stop="20260321045600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321045600 +0000" stop="20260321045800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La matinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11063516bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321045800 +0000" stop="20260321075800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321075800 +0000" stop="20260321095700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des pros</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p14068102bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321095700 +0000" stop="20260321095900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321095900 +0000" stop="20260321115700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>100% Politique</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27646470bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321115700 +0000" stop="20260321115900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321115900 +0000" stop="20260321134000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>News week-end</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11176571bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321134000 +0000" stop="20260321135700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321135700 +0000" stop="20260321135900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321135900 +0000" stop="20260321155100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>180 minutes info</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p25596110bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321155100 +0000" stop="20260321155700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321155700 +0000" stop="20260321155900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321155900 +0000" stop="20260321175900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>Punchline</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p13289610bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321175900 +0000" stop="20260321190500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>Face à Philippe de Villiers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/217/700.701_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321190500 +0000" stop="20260321195900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des pros 2</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p22441740bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321195900 +0000" stop="20260321215700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>100% Politique</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27646470bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321215700 +0000" stop="20260321215900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321215900 +0000" stop="20260321235800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>Le meilleur de l'info</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p22930419bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321235800 +0000" stop="20260321235900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="Kabel eins.ch" api-id="226">
     <display-name>Kabel eins</display-name>
   </channel>
@@ -1877,6 +2383,605 @@
   <programme start="20260322000000 +0000" stop="20260322020000 +0000" channel="Arte Deutsch.ch" api-channel-id="27">
     <title>Der Widerspenstigen Zähmung</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/27/p23493616bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="WELT.ch" api-id="277">
+    <display-name>WELT</display-name>
+  </channel>
+  <programme start="20260320235500 +0000" stop="20260321003700 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>USA Top Secret</title>
+    <sub-title>Inside Secret Service</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8979060bh10bp_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321003700 +0000" stop="20260321011700 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Der Zoll - Auf Schmugglerjagd</title>
+    <sub-title>Folge 1</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p19651723bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321011700 +0000" stop="20260321020300 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Der Wasserzoll - Kontrolleinheit See im Einsatz</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p16341365bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321020300 +0000" stop="20260321024800 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Blaulicht</title>
+    <sub-title>Die Bundespolizei - Zu Wasser, zu Lande und in der Luft</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p29894748bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321024800 +0000" stop="20260321033400 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Faszination historische Militärtechnik</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p26551074ih10aa_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321033400 +0000" stop="20260321041700 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>USA Top Secret</title>
+    <sub-title>Operation Gehirnwäsche</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8979060bh10bp_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321041700 +0000" stop="20260321045900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>USA Top Secret</title>
+    <sub-title>Inside Secret Service</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8979060bh10bp_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321045900 +0000" stop="20260321055900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Lost Places</title>
+    <sub-title>Enemy at the Gates</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p13786056bh10bu_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321055900 +0000" stop="20260321062000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321062000 +0000" stop="20260321063600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321063600 +0000" stop="20260321065900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321065900 +0000" stop="20260321072000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321072000 +0000" stop="20260321073500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321073500 +0000" stop="20260321075900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321075900 +0000" stop="20260321081100 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321081100 +0000" stop="20260321083000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321084200 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321084200 +0000" stop="20260321084800 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321084800 +0000" stop="20260321085900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>ICON TV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p30332144bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321085900 +0000" stop="20260321093000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321095900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321095900 +0000" stop="20260321101100 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321101100 +0000" stop="20260321103000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321103000 +0000" stop="20260321104200 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321104200 +0000" stop="20260321104800 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321104800 +0000" stop="20260321105900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>ICON TV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p30332144bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321105900 +0000" stop="20260321113000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321115900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321115900 +0000" stop="20260321121400 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321121400 +0000" stop="20260321123000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321124500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321124500 +0000" stop="20260321125900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321125900 +0000" stop="20260321133000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321133000 +0000" stop="20260321135000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321135000 +0000" stop="20260321144500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Essen.Trinken.Machen.</title>
+    <sub-title>Burger-Alarm - Der Siegeszug des Hamburgers</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p29895493bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321144500 +0000" stop="20260321153500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Deutschland im Glutrausch - Grillen extrem</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p12982115bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321153500 +0000" stop="20260321163000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Offroad-Monster - Der steinige Weg zum eigenen Fernreisemobil</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p14792790bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321172500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Traumzüge</title>
+    <sub-title>Seven Stars</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p13221805bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321172500 +0000" stop="20260321182000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Traumzüge</title>
+    <sub-title>Rocky Mountaineer</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p13221805bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321182000 +0000" stop="20260321191500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Luxusautos</title>
+    <sub-title>Legende auf vier Rädern - Porsche 911</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p29896482bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321201000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Abgefahren - Die spektakulärsten Dashcam Clips</title>
+    <sub-title>Folge 4</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p14492585bh10ag_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321201000 +0000" stop="20260321210500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Abgefahren - Die spektakulärsten Dashcam Clips</title>
+    <sub-title>Folge 1</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p12272725bh10aq_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210500 +0000" stop="20260321213500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Der griechische Ex-Häftling</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321213500 +0000" stop="20260321220500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Die goldene Banane</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321220500 +0000" stop="20260321223100 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol New Zealand</title>
+    <sub-title>Überraschung im Kupferdraht</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321223100 +0000" stop="20260321230500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Ein Netz aus Lügen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321230500 +0000" stop="20260322000000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>In der Wirbelschleppe</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322003600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>Gefährliches Handgepäck - Explosive Touchdown</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="n-tv.ch" api-id="297">
+    <display-name>n-tv</display-name>
+  </channel>
+  <programme start="20260320232000 +0000" stop="20260321001000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Imperien der Geschichte</title>
+    <sub-title>China - Das alte Kaiserreich</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p20858191bh10aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321001000 +0000" stop="20260321005000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Imperien der Geschichte</title>
+    <sub-title>China - Jahrhundert der Demütigung</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p20858191bh10aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321005000 +0000" stop="20260321013500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Imperien der Geschichte</title>
+    <sub-title>China - Auf dem Weg in die Moderne</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p20858191bh10aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321013500 +0000" stop="20260321022000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Ausser Kontrolle</title>
+    <sub-title>Willkommen in Florida</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23426050bh8ad_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321022000 +0000" stop="20260321030000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Ausser Kontrolle</title>
+    <sub-title>Willkommen in Mexiko</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23426050bh8ad_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321030000 +0000" stop="20260321031000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321031000 +0000" stop="20260321035500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Undenkbare Momente</title>
+    <sub-title>Schicksalsstunden</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p30651791ih10aa_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321035500 +0000" stop="20260321040500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321040500 +0000" stop="20260321050000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Grosse Katastrophen</title>
+    <sub-title>Staudämme</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p24174280bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321051500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321051500 +0000" stop="20260321054000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Auslandsreport</title>
+    <sub-title>Thema u.a.: Kämpfe im Libanon - Hunderttausende auf der Flucht</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10941661bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321054000 +0000" stop="20260321060000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Klima Update Spezial</title>
+    <sub-title>Wasserstoff</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23163069bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321063000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321070000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321073000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321073000 +0000" stop="20260321080000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321080000 +0000" stop="20260321083000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321090000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321093000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321103000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321103000 +0000" stop="20260321110000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321114000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Startup Magazin</title>
+    <sub-title>Thema u.a.: Startups zeigen ihre Belastbarkeit beim Polar Bear Pitching in Finnland</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p15247922bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321114000 +0000" stop="20260321120000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Klima Update Spezial</title>
+    <sub-title>Wasserstoff</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23163069bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321123000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321123000 +0000" stop="20260321130000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>PS</title>
+    <sub-title>Thema u.a.: Der neue 3er BMW</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10907279bh10as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321133000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321133000 +0000" stop="20260321140000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>ntv mobil</title>
+    <sub-title>Thema: So verändert der Klimawandel den Bergsport</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p18706324bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321141000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321141000 +0000" stop="20260321150000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+    <sub-title>Folge 5</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p21741630bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321151000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321151000 +0000" stop="20260321160000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Mysteriöse Phänomene - Rätsel von oben</title>
+    <sub-title>Folge 6</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p21741630bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321161000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321161000 +0000" stop="20260321170000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Fatale Fehlkonstruktionen</title>
+    <sub-title>Brücken</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/297/400.414_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Auslandsreport</title>
+    <sub-title>Thema u.a.: Kämpfe im Libanon - Hunderttausende auf der Flucht</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10941661bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321181000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321181000 +0000" stop="20260321190000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rohstoff-Rausch</title>
+    <sub-title>Gold</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/297/400.414_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321194000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Schlüpfrige Fotos</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321194000 +0000" stop="20260321200000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Kaffeepause mit Hindernissen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321201000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321201000 +0000" stop="20260321203500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Die reiselustige Friseurin</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321203500 +0000" stop="20260321210000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Schlangen im Postzentrum</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321210500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210500 +0000" stop="20260321213500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Südamerika</title>
+    <sub-title>Folge 113</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p17623349bh8af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321213500 +0000" stop="20260321220000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Südamerika</title>
+    <sub-title>Folge 114</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p17623349bh8af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321232000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rätselhafte Phänomene</title>
+    <sub-title>Eine Pforte zur Unterwelt</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p11488371bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321232000 +0000" stop="20260322001000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rätselhafte Phänomene</title>
+    <sub-title>Der Konvoi im ewigen Eis</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p11488371bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="Phoenix TV.ch" api-id="307">
+    <display-name>Phoenix TV</display-name>
+  </channel>
+  <programme start="20260320233000 +0000" stop="20260321001500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Mussolini - Ikone des Faschismus</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321001500 +0000" stop="20260321010000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Mao - Herrscher des Grauens</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321014500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Stalin</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321014500 +0000" stop="20260321023000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Hideki Tojo - Japans Minister des Schreckens</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321023000 +0000" stop="20260321031500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Papa Doc - Haitis Albtraum</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321031500 +0000" stop="20260321040000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Kim Jong Il - Dynastie des Teufels</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321040000 +0000" stop="20260321044500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Saddam Hussein - Der Schlächter von Baghdad</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321044500 +0000" stop="20260321053000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Bin Laden - Drahtzieher des Terrors</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321053000 +0000" stop="20260321061500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Despoten</title>
+    <sub-title>Gaddafi - Libyens kaltblütiger Herrscher</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11850102bh10an_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321061500 +0000" stop="20260321074500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Der Kalifornische Traum</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p32514444bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321074500 +0000" stop="20260321083000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Der Oman von oben</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p25910323bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321085500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Abenteuer Archäologie</title>
+    <sub-title>Der Mythos des Labyrinths von Kreta</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12943991bh10am_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321085500 +0000" stop="20260321095000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Portugal - Mit Nelken gegen die Diktatur</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p27058117bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321095000 +0000" stop="20260321103500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Europas vergessene Diktaturen</title>
+    <sub-title>Die Ära Salazar in Portugal</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p21053023bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321103500 +0000" stop="20260321111500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Nelken für die Revolution</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p27078669bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321111500 +0000" stop="20260321120000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Portugal im Wandel</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p30701162bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321131500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix plus</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p15586965bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321131500 +0000" stop="20260321140000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Als das Wetter verrücktspielte - 1970</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321144500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Das Jahr der Frau - 1975</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321144500 +0000" stop="20260321153000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Als wir nach den Sternen griffen - 1972</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321161500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land - Die 70er</title>
+    <sub-title>Dicke Luft und frischer Wind - 1973</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p14359524bh12aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321161500 +0000" stop="20260321174500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Der Kalifornische Traum</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p32514444bh11aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321174500 +0000" stop="20260321183000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Der Oman von oben</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p25910323bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix persönlich</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p15586988bh11aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Tagesschau</title>
+    <sub-title>vom 21.03.2026, 20:00:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p10414016bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321191500 +0000" stop="20260321200000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Pfad der Elefanten</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321204500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Treck der Karibus</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321204500 +0000" stop="20260321213000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Zug der Zebras</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321221500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Guyana - Der Weg des Jaguars</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p30000864bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321221500 +0000" stop="20260321230000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Terra X History</title>
+    <sub-title>Augustus - Kampf um Rom</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p9561670bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260321234500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Athen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321234500 +0000" stop="20260322003000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Alexandria</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
   </programme>
   <channel id="ProSieben.ch" api-id="322">
     <display-name>ProSieben</display-name>
@@ -6079,6 +7184,333 @@
   <programme start="20260321220000 +0000" stop="20260322020000 +0000" channel="blue Sport 1 Live.ch" api-channel-id="663">
     <title>blue Sport 1 Live</title>
   </programme>
+  <channel id="CNBC UK.ch" api-id="106">
+    <display-name>CNBC UK</display-name>
+  </channel>
+  <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322013000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322013000 +0000" stop="20260322020000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>The Kingpin Next Door</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322073000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Answers with Bayless Conley</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p331557bh10as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>In Touch Ministries</title>
+    <sub-title>The Throne of Grace</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p28757672bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322090000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Joseph Prince: New Creation Church TV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10438095bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>The Kingpin Next Door</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322130000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Sports</title>
+    <sub-title>PGA TOUR 2025 - THE PLAYERS Championship Rd 4</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p346631bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322133000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Hail Baja Rally</title>
+    <sub-title>Ep 1</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/106/500.502_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322140000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Sports</title>
+    <sub-title>EDP Porto Marathon</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p346631bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322143000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Sports</title>
+    <sub-title>Dubai Marathon - 2</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p346631bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322150000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Sports</title>
+    <sub-title>Ras Al Khaimah Half Marathon - 3</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p346631bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322153000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322160000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322170000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>Medical Gloves With Holes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322183000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>CNBC Explains</title>
+    <sub-title>Why Big Opportunities Fall Short</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p15582002bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322190000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Leader's Playbook</title>
+    <sub-title>Inside YouTube</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31908398bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322200000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>American Greed</title>
+    <sub-title>The Kingpin Next Door</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p185958bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322203000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Built for Billions</title>
+    <sub-title>Nintendo</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p31576023bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322203000 +0000" stop="20260322210000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>The Tech Download</title>
+    <sub-title>Will AI Save Education - or Break It?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p32022277bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Late Night With Seth Meyers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p10409716bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260322233000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Squawk Box Asia</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p333662bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Squawk Box Asia</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p333662bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323003000 +0000" channel="CNBC UK.ch" api-channel-id="106">
+    <title>Squawk Box Asia</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/106/p333662bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="CNN.ch" api-id="107">
+    <display-name>CNN</display-name>
+  </channel>
+  <programme start="20260321230000 +0000" stop="20260322000000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Saturday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195017bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Smerconish</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p10610930bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>The Amanpour Hour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p26010561bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>World Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8193600bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>African Voices Playmakers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23593450bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322040000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Africa</title>
+    <sub-title>The Ebony Project: Cameroon</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p408155bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Connecting Africa</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p18951756bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322080000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322090000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322100000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p186552bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN This Morning Weekend</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23278533bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN This Morning Weekend</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23278533bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322130000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Politics With Manu Raju</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p25612453bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322140000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>State of the Union With Jake Tapper and Dana Bash</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p19358336bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322150000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Fareed Zakaria GPS</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p30593255bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Politics With Manu Raju</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p25612453bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>World Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8193600bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Inside Africa</title>
+    <sub-title>The Ebony Project: Cameroon</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p408155bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>African Voices Playmakers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p23593450bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Connecting Africa</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p18951756bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Sunday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195037bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322200000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Sunday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195037bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Sunday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195037bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322213000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>World Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p8193600bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322213000 +0000" stop="20260322220000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>Mission Tiger</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p24053222bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Sunday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195037bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260323000000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>CNN Newsroom Sunday</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p16195037bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="CNN.ch" api-channel-id="107">
+    <title>State of the Union With Jake Tapper and Dana Bash</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/107/p19358336bh10ac_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="Antenna 3.ch" api-id="1380">
     <display-name>Antenna 3</display-name>
   </channel>
@@ -6142,6 +7574,9 @@
     <title>Format</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1380/p11497479bh8aa_BannerL2_w1920.webp"/>
   </programme>
+  <channel id="Al Jazeera.ch" api-id="14">
+    <display-name>Al Jazeera</display-name>
+  </channel>
   <channel id="MySports Eins.ch" api-id="1543">
     <display-name>MySports Eins</display-name>
   </channel>
@@ -7507,6 +8942,205 @@
     <title>2. BL Kompakt: 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1962/p12022170bh8ac_BannerL1_w1920.webp"/>
   </programme>
+  <channel id="CNEWS.ch" api-id="217">
+    <display-name>CNEWS</display-name>
+  </channel>
+  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322002100 +0000" stop="20260322003100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322003100 +0000" stop="20260322003400 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322003400 +0000" stop="20260322003500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322003500 +0000" stop="20260322005700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322005700 +0000" stop="20260322005900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'éphéméride</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322005900 +0000" stop="20260322010200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322010200 +0000" stop="20260322010300 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322010300 +0000" stop="20260322012500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322012500 +0000" stop="20260322012800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322012800 +0000" stop="20260322013000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322013000 +0000" stop="20260322015200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322015200 +0000" stop="20260322015500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322015500 +0000" stop="20260322015600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322015600 +0000" stop="20260322021800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322021800 +0000" stop="20260322022100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322022100 +0000" stop="20260322022200 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322022200 +0000" stop="20260322024400 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322024400 +0000" stop="20260322025500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322025500 +0000" stop="20260322025600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322025600 +0000" stop="20260322031800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322031800 +0000" stop="20260322032100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322032100 +0000" stop="20260322032300 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322032300 +0000" stop="20260322034500 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322034500 +0000" stop="20260322035800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322035800 +0000" stop="20260322035900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322035900 +0000" stop="20260322042100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322042100 +0000" stop="20260322042800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des livres</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322042800 +0000" stop="20260322042900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322042900 +0000" stop="20260322045600 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'édition de la nuit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322045600 +0000" stop="20260322050100 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La matinale</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11063516bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050100 +0000" stop="20260322075000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La matinale week-end</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10921755bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322075000 +0000" stop="20260322075800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322075800 +0000" stop="20260322095900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'heure des pros</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p14068102bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322095900 +0000" stop="20260322100000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322115800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>100% Actu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p32543559bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322115800 +0000" stop="20260322115900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322115900 +0000" stop="20260322124800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>En quête d'esprit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p18502430bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322124800 +0000" stop="20260322125000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'éphéméride</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322125000 +0000" stop="20260322125700 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>Lumières orthodoxes</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/217/400.422_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260322125700 +0000" stop="20260322125900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322125900 +0000" stop="20260322135800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>News week-end</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11176571bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322135800 +0000" stop="20260322135900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322135900 +0000" stop="20260322145400 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>180 minutes info</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p25596110bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322145400 +0000" stop="20260322145900 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>La sélection</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322145900 +0000" stop="20260322160000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>L'Heure Inter</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p29512910bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>2nd tour des élections législatives</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322220000 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>2nd tour des élections législatives</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260323005800 +0000" channel="CNEWS.ch" api-channel-id="217">
+    <title>2nd tour des élections législatives</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
+  </programme>
   <channel id="Kabel eins.ch" api-id="226">
     <display-name>Kabel eins</display-name>
   </channel>
@@ -7944,6 +9578,622 @@
   <programme start="20260322234000 +0000" stop="20260323012500 +0000" channel="Arte Deutsch.ch" api-channel-id="27">
     <title>Bach: Orgelwerke - Thomaskirche, Leipzig</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/27/p32545111bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="WELT.ch" api-id="277">
+    <display-name>WELT</display-name>
+  </channel>
+  <programme start="20260321230500 +0000" stop="20260322000000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>In der Wirbelschleppe</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322003600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>Gefährliches Handgepäck - Explosive Touchdown</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322003600 +0000" stop="20260322011000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Abgefahren - Die spektakulärsten Dashcam Clips</title>
+    <sub-title>Folge 4</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p14492585bh10ag_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322011000 +0000" stop="20260322015600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Abgefahren - Die spektakulärsten Dashcam Clips</title>
+    <sub-title>Folge 1</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p12272725bh10aq_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322015600 +0000" stop="20260322022000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Der griechische Ex-Häftling</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322022000 +0000" stop="20260322024500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Die goldene Banane</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322024500 +0000" stop="20260322030800 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol New Zealand</title>
+    <sub-title>Überraschung im Kupferdraht</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322030800 +0000" stop="20260322033100 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Ein Netz aus Lügen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322033100 +0000" stop="20260322041500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>In der Wirbelschleppe</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322041500 +0000" stop="20260322045900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Mayday</title>
+    <sub-title>Gefährliches Handgepäck - Explosive Touchdown</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p203985bh8ds_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322045900 +0000" stop="20260322055900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Blaulicht</title>
+    <sub-title>Die Bundespolizei - Zu Wasser, zu Lande und in der Luft</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p29894748bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322055900 +0000" stop="20260322062000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322062000 +0000" stop="20260322063600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063600 +0000" stop="20260322065900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322065900 +0000" stop="20260322072000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322072000 +0000" stop="20260322073700 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322073700 +0000" stop="20260322075900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Morgen</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253016bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322075900 +0000" stop="20260322081400 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322081400 +0000" stop="20260322083000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322084500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322084500 +0000" stop="20260322085900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322085900 +0000" stop="20260322093000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322094900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322094900 +0000" stop="20260322095900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>ICON TV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p30332144bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322095900 +0000" stop="20260322101500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322101500 +0000" stop="20260322103000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322103000 +0000" stop="20260322104600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322104600 +0000" stop="20260322105900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322105900 +0000" stop="20260322113000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322113000 +0000" stop="20260322114900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322114900 +0000" stop="20260322115900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>ICON TV</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p30332144bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322115900 +0000" stop="20260322121400 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322121400 +0000" stop="20260322123000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322124500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Die Welt am Mittag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253038bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322124500 +0000" stop="20260322125900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Meine WELT - Die Meinung zum Tag</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p27789501bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322125900 +0000" stop="20260322133000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322135900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT-Spezial</title>
+    <sub-title>Zeitgeschehen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p18118688bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322135900 +0000" stop="20260322141600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322141600 +0000" stop="20260322143000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT Newsroom</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21253023bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322153000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>BILD SPORT</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p26548767bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322155900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>WELT-Spezial</title>
+    <sub-title>Zeitgeschehen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p18118688bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322155900 +0000" stop="20260322163000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322165900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322165900 +0000" stop="20260322173000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322175900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322175900 +0000" stop="20260322183000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322185900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322185900 +0000" stop="20260322193000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322194500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322194500 +0000" stop="20260322195900 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322195900 +0000" stop="20260322201000 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322201000 +0000" stop="20260322210500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Lost Places</title>
+    <sub-title>Folge 60</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p13786056bh10bu_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322210500 +0000" stop="20260322220500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Hitler und Stalin</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p244422bh10ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322220500 +0000" stop="20260322230500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Hitler und Stalin</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p244422bh10ae_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322230500 +0000" stop="20260322235600 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Lost Airships - Amerikas vergessene Luftschiffe</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p21618685bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322235600 +0000" stop="20260323003500 +0000" channel="WELT.ch" api-channel-id="277">
+    <title>Magda Goebbels - Fanatisch bis in den Tod</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/277/p14525799ih11ac_Iconic_w1920.webp"/>
+  </programme>
+  <channel id="n-tv.ch" api-id="297">
+    <display-name>n-tv</display-name>
+  </channel>
+  <programme start="20260321232000 +0000" stop="20260322001000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rätselhafte Phänomene</title>
+    <sub-title>Der Konvoi im ewigen Eis</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p11488371bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322001000 +0000" stop="20260322003000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Schlüpfrige Fotos</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322003000 +0000" stop="20260322005500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Kaffeepause mit Hindernissen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322005500 +0000" stop="20260322011500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Die reiselustige Friseurin</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322011500 +0000" stop="20260322013500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Schlangen im Postzentrum</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322013500 +0000" stop="20260322020000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Südamerika</title>
+    <sub-title>Folge 113</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p17623349bh8af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322022500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Südamerika</title>
+    <sub-title>Folge 114</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p17623349bh8af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322022500 +0000" stop="20260322031000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rätselhafte Phänomene</title>
+    <sub-title>Eine Pforte zur Unterwelt</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p11488371bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322031000 +0000" stop="20260322035500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Rätselhafte Phänomene</title>
+    <sub-title>Der Konvoi im ewigen Eis</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p11488371bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322035500 +0000" stop="20260322041500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Schlüpfrige Fotos</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322041500 +0000" stop="20260322043500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Kaffeepause mit Hindernissen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322043500 +0000" stop="20260322050000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Border Patrol Neuseeland</title>
+    <sub-title>Die reiselustige Friseurin</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p8603832bh10an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322051000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322051000 +0000" stop="20260322053000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>PS</title>
+    <sub-title>Thema u.a.: Der neue 3er BMW</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10907279bh10as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>ntv mobil</title>
+    <sub-title>Thema: So verändert der Klimawandel den Bergsport</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p18706324bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322073000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>PS</title>
+    <sub-title>Thema u.a.: Der neue 3er BMW</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10907279bh10as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322090000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322103000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322103000 +0000" stop="20260322110000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322113000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322113000 +0000" stop="20260322120000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Auslandsreport</title>
+    <sub-title>Thema u.a.: Kämpfe im Libanon - Hunderttausende auf der Flucht</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10941661bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322123000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322123000 +0000" stop="20260322124000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>ntv Service</title>
+    <sub-title>Thema u.a.: Pizzaöfen für zuhause</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23124033bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322124000 +0000" stop="20260322130000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>ntv Service</title>
+    <sub-title>Thema u.a.: Gartenmärkte im Service-Check</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23124033bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322133000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322140000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>ntv reisen</title>
+    <sub-title>Das sind die aussergewöhnlichsten Wellnesshotels</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p22114259bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322141000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322141000 +0000" stop="20260322150000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Der Wahrheit auf der Spur</title>
+    <sub-title>Das Nostradamus-Rätsel</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p24680154bh10ad_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322151000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322151000 +0000" stop="20260322160000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Der Wahrheit auf der Spur</title>
+    <sub-title>Das Rätsel der Kristallschädel</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p24680154bh10ad_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322190000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322191500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322191500 +0000" stop="20260322200500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Akte Mord - Ermittler auf Beweisjagd</title>
+    <sub-title>Tödliche Fahrgäste</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p7837306bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322200500 +0000" stop="20260322210000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Augenzeuge Kamera - Auf frischer Tat ertappt</title>
+    <sub-title>Quad Spree und Brockbanks</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23976642ih10ad_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322210500 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Nachrichten</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943759bh10ai_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322210500 +0000" stop="20260322220000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Augenzeuge Kamera - Auf frischer Tat ertappt</title>
+    <sub-title>Wright und Hanson</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23976642ih10ad_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322223000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>News Spezial</title>
+    <sub-title>Wahlen - Landtagswahl Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p10943774bh10au_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322223000 +0000" stop="20260322232000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Augenzeuge Kamera - Auf frischer Tat ertappt</title>
+    <sub-title>Bailey und Monge</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p23976642ih10ad_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322232000 +0000" stop="20260323001000 +0000" channel="n-tv.ch" api-channel-id="297">
+    <title>Akte Mord - Ermittler auf Beweisjagd</title>
+    <sub-title>Falsche Freunde</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/297/p7837306bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="Phoenix TV.ch" api-id="307">
+    <display-name>Phoenix TV</display-name>
+  </channel>
+  <programme start="20260321234500 +0000" stop="20260322003000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Alexandria</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322003000 +0000" stop="20260322011500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Tikal</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322011500 +0000" stop="20260322020000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Rom</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322024500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Terra X History</title>
+    <sub-title>Augustus - Kampf um Rom</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p9561670bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322024500 +0000" stop="20260322041500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die Sachsen - Piraten. Heiden. Kaiser</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p30641383bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322041500 +0000" stop="20260322050000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Pfad der Elefanten</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322054500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Treck der Karibus</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322054500 +0000" stop="20260322063000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die grossen Wanderungen</title>
+    <sub-title>Der Zug der Zebras</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p12839630bh10ar_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322071500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Guyana - Der Weg des Jaguars</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p30000864bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322071500 +0000" stop="20260322073000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Heimaten - ostdeutsch, migrantisch</title>
+    <sub-title>Ossi of Colour - Aktivist Dennis Chiponda</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p30576669bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322073000 +0000" stop="20260322081500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Als das Wetter verrücktspielte - 1970</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322081500 +0000" stop="20260322090000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Das Jahr der Frau - 1975</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322094500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land in den 70ern</title>
+    <sub-title>Als wir nach den Sternen griffen - 1972</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p18213097bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322094500 +0000" stop="20260322103000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Unser Land - Die 70er</title>
+    <sub-title>Dicke Luft und frischer Wind - 1973</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p14359524bh12aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322103000 +0000" stop="20260322110000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix persönlich</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p15586988bh11aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322120000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Presseclub</title>
+    <sub-title>Krieg in Nahost: Verbrennt der versprochene Wirtschaftsaufschwung?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p863763bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322130000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Die Diskussion</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p11142197bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322134500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Athen</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322134500 +0000" stop="20260322143000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Alexandria</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322151500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Tikal</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322151500 +0000" stop="20260322160000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Metropolen der Antike</title>
+    <sub-title>Rom</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p26933362bh10ah_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322190000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix vor ort</title>
+    <sub-title>vom 22.03.2026, 17:00:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p10969221bh11ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322192000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Tagesschau</title>
+    <sub-title>vom 22.03.2026, 20:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p10414016bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322192000 +0000" stop="20260322200500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix Wahlrunde</title>
+    <sub-title>Wahlrunde zur Landtagswahl in Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p14041757bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322200500 +0000" stop="20260322201500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix vor ort</title>
+    <sub-title>vom 22.03.2026, 21:05:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p10969221bh11ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322201500 +0000" stop="20260322204500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Kaiserslautern Betzenberg - Mehr als nur Fussball</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/307/400.499_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260322204500 +0000" stop="20260322211500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>heute journal</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p400450bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322211500 +0000" stop="20260322220000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Land. Leben. Zukunft - Wie unsere Dörfer überleben können</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p32299176bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322230000 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix vor ort</title>
+    <sub-title>vom 22.03.2026, 23:00:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p10969221bh11ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260322234500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>phoenix Wahlrunde</title>
+    <sub-title>Wahlrunde zur Landtagswahl in Rheinland-Pfalz</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p14041757bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322234500 +0000" stop="20260323011500 +0000" channel="Phoenix TV.ch" api-channel-id="307">
+    <title>Der Kalifornische Traum</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/307/p32514444bh11aa_BannerL2_w1920.webp"/>
   </programme>
   <channel id="ProSieben.ch" api-id="322">
     <display-name>ProSieben</display-name>
