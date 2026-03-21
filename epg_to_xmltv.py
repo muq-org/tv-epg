@@ -59,6 +59,12 @@ def to_xmltv(epg_data, epg_id_map):
             etree.SubElement(prog_elem, 'title').text = title
             if subtitle:
                 etree.SubElement(prog_elem, 'sub-title').text = subtitle
+            series = prog_content.get('Series', {})
+            season = series.get('Season')
+            episode = series.get('Episode')
+            if season and episode:
+                ep_elem = etree.SubElement(prog_elem, 'episode-num', system='xmltv_ns')
+                ep_elem.text = f'{season - 1}.{episode - 1}.'
             # Add <icon> for programme image if available
             images = prog_content.get('Nodes', {}).get('Items', [])
             image_url = None
