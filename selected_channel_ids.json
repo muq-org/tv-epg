@@ -24,15 +24,7 @@
     "name": "TV24"
   },
   {
-    "id": "1910",
-    "name": "TV24"
-  },
-  {
     "id": "4",
-    "name": "3+"
-  },
-  {
-    "id": "1908",
     "name": "3+"
   },
   {
@@ -49,10 +41,6 @@
   },
   {
     "id": "360",
-    "name": "RTL"
-  },
-  {
-    "id": "1770",
     "name": "RTL"
   },
   {
@@ -124,38 +112,6 @@
     "name": "Rai 4"
   },
   {
-    "id": "1990",
-    "name": "Sky Showcase"
-  },
-  {
-    "id": "389",
-    "name": "Sky Krimi"
-  },
-  {
-    "id": "1795",
-    "name": "Sky Crime"
-  },
-  {
-    "id": "1797",
-    "name": "Sky Atlantic D"
-  },
-  {
-    "id": "1867",
-    "name": "Sky Nature"
-  },
-  {
-    "id": "1866",
-    "name": "Sky Documentaries"
-  },
-  {
-    "id": "792",
-    "name": "Sky Cinema D"
-  },
-  {
-    "id": "415",
-    "name": "Sky Sci-Fi"
-  },
-  {
     "id": "1064",
     "name": "Sky Bundesliga 1"
   },
@@ -224,26 +180,6 @@
     "name": "Sky News International"
   },
   {
-    "id": "2184",
-    "name": "Sky Crime IT"
-  },
-  {
-    "id": "2224",
-    "name": "sky TG 24"
-  },
-  {
-    "id": "2916",
-    "name": "Sky Cinema (Logo VOD)"
-  },
-  {
-    "id": "2017",
-    "name": "Sky (Logo VOD)"
-  },
-  {
-    "id": "3288",
-    "name": "Sky Atlantic"
-  },
-  {
     "id": "388",
     "name": "Sky Bundesliga Sport 1"
   },
@@ -256,10 +192,6 @@
     "name": "Sky Sport 1"
   },
   {
-    "id": "3532",
-    "name": "Sky Atlantic +1"
-  },
-  {
     "id": "3660",
     "name": "Sky Sport News"
   },
@@ -268,15 +200,7 @@
     "name": "Sky 1"
   },
   {
-    "id": "3808",
-    "name": "Sky 1+ 1"
-  },
-  {
     "id": "4084",
     "name": "Sky Sport Bundesliga 1"
-  },
-  {
-    "id": "4352",
-    "name": "Sky Comedy"
   }
 ]
