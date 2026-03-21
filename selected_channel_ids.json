@@ -423,5 +423,35 @@
     "api-id": "34",
     "epg-id": "BBC Entertainment.uk",
     "name": "BBC Entertainment"
+  },
+  {
+    "api-id": "218",
+    "epg-id": "itv1.uk",
+    "name": "ITV1"
+  },
+  {
+    "api-id": "219",
+    "epg-id": "itv2.uk",
+    "name": "ITV2"
+  },
+  {
+    "api-id": "220",
+    "epg-id": "itv3.uk",
+    "name": "ITV3"
+  },
+  {
+    "api-id": "221",
+    "epg-id": "itv4.uk",
+    "name": "ITV4"
+  },
+  {
+    "api-id": "89",
+    "epg-id": "channel4.uk",
+    "name": "Channel 4"
+  },
+  {
+    "api-id": "178",
+    "epg-id": "channel5.uk",
+    "name": "Channel 5"
   }
 ]
