@@ -383,9 +383,181 @@
     <title>Format</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1380/p11497479bh8aa_BannerL2_w1920.webp"/>
   </programme>
-  <channel id="aljazeera.ch" api-id="14">
-    <display-name>Al Jazeera</display-name>
+  <channel id="aljazeera.com" api-id="15">
+    <display-name>Al Jazeera English</display-name>
   </channel>
+  <programme start="20260320233000 +0000" stop="20260321000000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321000000 +0000" stop="20260321010000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321020000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Blood, Sweat and Sugar</title>
+    <sub-title>Enslaved</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p32544934bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321020000 +0000" stop="20260321023500 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321023500 +0000" stop="20260321030000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Talk to Al Jazeera</title>
+    <sub-title>Abbas Araghchi</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p499143bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321030000 +0000" stop="20260321033000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321033000 +0000" stop="20260321040000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>101 East</title>
+    <sub-title>India's Bulldozer Justice</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p198481bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321040000 +0000" stop="20260321043000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321043000 +0000" stop="20260321050000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>UpFront</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p12043227bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321053000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321053000 +0000" stop="20260321060000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321063000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321070000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Witness</title>
+    <sub-title>Dead Lakes Alive</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p315035bh8ag_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321073000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321073000 +0000" stop="20260321080000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>People and Power</title>
+    <sub-title>The Gaza Tribunal</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p274890bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321080000 +0000" stop="20260321083000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321083000 +0000" stop="20260321090000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Stream</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p8677594bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321090000 +0000" stop="20260321093000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321093000 +0000" stop="20260321100000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Counting the Cost</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p3559378bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321100000 +0000" stop="20260321110000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321113000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321113000 +0000" stop="20260321120000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321120000 +0000" stop="20260321130000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Al Jazeera World</title>
+    <sub-title>Djibouti - The Man Who Dared</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p8503121bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321130000 +0000" stop="20260321140000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321143000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321143000 +0000" stop="20260321150000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>UpFront</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p12043227bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321150000 +0000" stop="20260321160000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321160000 +0000" stop="20260321163000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321170000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Making Peace</title>
+    <sub-title>Nanawati - The Last Negotiation</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p32238089bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321173000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321173000 +0000" stop="20260321180000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321180000 +0000" stop="20260321190000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321193000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321193000 +0000" stop="20260321200000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Listening Post</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p14819908bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321200000 +0000" stop="20260321210000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Witness</title>
+    <sub-title>See Me As I Am</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p315035bh8ag_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321210000 +0000" stop="20260321220000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321220000 +0000" stop="20260321223000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321230000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Bottom Line</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p23878206bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321230000 +0000" stop="20260321233000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="MySports Eins.ch" api-id="1543">
     <display-name>MySports Eins</display-name>
   </channel>
@@ -8459,9 +8631,181 @@
     <title>Format</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1380/p11497479bh8aa_BannerL2_w1920.webp"/>
   </programme>
-  <channel id="aljazeera.ch" api-id="14">
-    <display-name>Al Jazeera</display-name>
+  <channel id="aljazeera.com" api-id="15">
+    <display-name>Al Jazeera English</display-name>
   </channel>
+  <programme start="20260321233000 +0000" stop="20260322000000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322000000 +0000" stop="20260322010000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322010000 +0000" stop="20260322020000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Al Jazeera World</title>
+    <sub-title>Djibouti - The Man Who Dared</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p8503121bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020000 +0000" stop="20260322023000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322023000 +0000" stop="20260322030000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Stream</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p8677594bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322030000 +0000" stop="20260322033000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322033000 +0000" stop="20260322040000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Counting the Cost</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p3559378bh10af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Listening Post</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p14819908bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322060000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322063000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322063000 +0000" stop="20260322070000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Making Peace</title>
+    <sub-title>Nanawati - The Last Negotiation</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p32238089bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322073000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>101 East</title>
+    <sub-title>India's Bulldozer Justice</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p198481bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322083000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322083000 +0000" stop="20260322090000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>UpFront</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p12043227bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322093000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Bottom Line</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p23878206bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322110000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322113000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322113000 +0000" stop="20260322120000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322120000 +0000" stop="20260322130000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Witness</title>
+    <sub-title>See Me As I Am</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p315035bh8ag_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322140000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322140000 +0000" stop="20260322143000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322143000 +0000" stop="20260322150000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>The Listening Post</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p14819908bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160000 +0000" stop="20260322163000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322163000 +0000" stop="20260322170000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>People and Power</title>
+    <sub-title>The Gaza Tribunal</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p274890bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322170000 +0000" stop="20260322173000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322173000 +0000" stop="20260322180000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322180000 +0000" stop="20260322190000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322193000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322193000 +0000" stop="20260322200000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Talk to Al Jazeera</title>
+    <sub-title>Abbas Araghchi</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p499143bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322210000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Blood, Sweat and Sugar</title>
+    <sub-title>Enslaved</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p32544934bh10ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322210000 +0000" stop="20260322220000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322220000 +0000" stop="20260322223000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322223000 +0000" stop="20260322230000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Reframe</title>
+    <sub-title>Varsha Gandikota-Nellutla</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p29068508bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322230000 +0000" stop="20260322233000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>News</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269593bh8aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323000000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Inside Story</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p9549414bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323000000 +0000" stop="20260323010000 +0000" channel="aljazeera.com" api-channel-id="15">
+    <title>Newshour</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/15/p269613bh8aa_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="MySports Eins.ch" api-id="1543">
     <display-name>MySports Eins</display-name>
   </channel>
