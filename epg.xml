@@ -1701,11 +1701,11 @@
     <title>TGL Golf: Atlanta Drive GC - Los Angeles Golf Club</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p26049265bh8ad_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321073000 +0000" stop="20260321123000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+  <programme start="20260321073000 +0000" stop="20260321123500 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p24361922bh8ae_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321123000 +0000" stop="20260321124500 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+  <programme start="20260321123500 +0000" stop="20260321124500 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>Golf: Projekt 0</title>
     <sub-title>Episode 9</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1959/500.522_genre_w1920.webp"/>
@@ -5846,26 +5846,26 @@
     <sub-title>Der Iran-Krieg und die Geopolitik der Gegenwart</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p10903697bh10af_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321090000 +0000" stop="20260321133000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321090000 +0000" stop="20260321130200 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Leichtathletik: Hallen-WM 2026:Morning Session</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p516702ih10ah_Iconic_w1920.webp"/>
   </programme>
-  <programme start="20260321133000 +0000" stop="20260321143500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321130200 +0000" stop="20260321134000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+    <title>Gredig direkt</title>
+    <sub-title>Ignazio Cassis: Muss sich die Schweiz neu erfinden?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p18120631bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321134000 +0000" stop="20260321144000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Club</title>
     <sub-title>Alt regiert, jung verliert - wer steuert die Schweiz?</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11181099bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321143500 +0000" stop="20260321154500 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321144000 +0000" stop="20260321155000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>Arena</title>
     <sub-title>Waffen, Kriege und die Haltung der Schweiz</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182489bh10ah_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321154500 +0000" stop="20260321161000 +0000" channel="SRFinfo.ch" api-channel-id="400">
-    <title>gesundheitheute</title>
-    <sub-title>Die Gesundheitssendung mit Dr. Jeanne Fürst - Diabetesfrei nach Transplantation</sub-title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p15817391bh10aj_BannerL1_w1920.webp"/>
-  </programme>
-  <programme start="20260321161000 +0000" stop="20260321170000 +0000" channel="SRFinfo.ch" api-channel-id="400">
+  <programme start="20260321155000 +0000" stop="20260321170000 +0000" channel="SRFinfo.ch" api-channel-id="400">
     <title>BILANZ Standpunkte</title>
     <sub-title>WEF und Wahrheit: Klaus Schwab im Gespräch</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11200958bh8ab_BannerL1_w1920.webp"/>
@@ -6001,15 +6001,15 @@
     <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Männer</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/401/p23022515ih8an_Iconic_w1920.webp"/>
   </programme>
-  <programme start="20260321111500 +0000" stop="20260321133500 +0000" channel="SRF2.ch" api-channel-id="401">
+  <programme start="20260321111500 +0000" stop="20260321132500 +0000" channel="SRF2.ch" api-channel-id="401">
     <title>FIS Ski Alpin Weltcup: Lillehammer: Abfahrt Frauen</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/401/p23022515ih8an_Iconic_w1920.webp"/>
   </programme>
-  <programme start="20260321133500 +0000" stop="20260321143000 +0000" channel="SRF2.ch" api-channel-id="401">
+  <programme start="20260321132500 +0000" stop="20260321141500 +0000" channel="SRF2.ch" api-channel-id="401">
     <title>Die Ski-Saga</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/401/p19305797bh10am_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321143000 +0000" stop="20260321150500 +0000" channel="SRF2.ch" api-channel-id="401">
+  <programme start="20260321141500 +0000" stop="20260321150500 +0000" channel="SRF2.ch" api-channel-id="401">
     <title>7 Tage...</title>
     <sub-title>auf der Suche nach dem Glück</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/401/p9987885bh10ae_BannerL1_w1920.webp"/>
@@ -9023,7 +9023,7 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322185500 +0000" stop="20260323014000 +0000" channel="MySports 3 D.ch" api-channel-id="1545">
+  <programme start="20260322185500 +0000" stop="20260323010500 +0000" channel="MySports 3 D.ch" api-channel-id="1545">
     <title>National League: Playoff-Viertelfinale, Spiel 2: EV Zug - HC Davos</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1545/GNLZZGG00310DD6_BannerL2_w1920.webp"/>
   </programme>
@@ -9054,7 +9054,7 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322185500 +0000" stop="20260323014000 +0000" channel="MySports 4 D.ch" api-channel-id="1546">
+  <programme start="20260322185500 +0000" stop="20260323010500 +0000" channel="MySports 4 D.ch" api-channel-id="1546">
     <title>National League: Playoff-Viertelfinale, Spiel 2: SC Rapperswil-Jona Lakers - HC Fribourg-Gottéron</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1546/GNLZZGG00310C8Q_BannerL2_w1920.webp"/>
   </programme>
@@ -9081,15 +9081,15 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322163000 +0000" stop="20260322193500 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
+  <programme start="20260322163000 +0000" stop="20260322200000 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
     <title>NHL: Washington Capitals - Colorado Avalanche</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/GNLZZGG002YKF33_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322193500 +0000" stop="20260322233500 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
+  <programme start="20260322200000 +0000" stop="20260322220000 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322233500 +0000" stop="20260323033500 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
+  <programme start="20260322220000 +0000" stop="20260323010000 +0000" channel="MySports 5 D.ch" api-channel-id="1547">
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1547/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
@@ -9120,11 +9120,11 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322190000 +0000" stop="20260322220500 +0000" channel="MySports 6 D.ch" api-channel-id="1548">
+  <programme start="20260322190000 +0000" stop="20260322220000 +0000" channel="MySports 6 D.ch" api-channel-id="1548">
     <title>NHL: Pittsburgh Penguins - Carolina Hurricanes</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/GNLZZGG002YKK9P_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322220500 +0000" stop="20260323020500 +0000" channel="MySports 6 D.ch" api-channel-id="1548">
+  <programme start="20260322220000 +0000" stop="20260323010000 +0000" channel="MySports 6 D.ch" api-channel-id="1548">
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1548/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
@@ -9159,11 +9159,11 @@
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322190000 +0000" stop="20260322220500 +0000" channel="MySports 7 D.ch" api-channel-id="1549">
+  <programme start="20260322190000 +0000" stop="20260322220000 +0000" channel="MySports 7 D.ch" api-channel-id="1549">
     <title>NHL: Chicago Blackhawks - Nashville Predators</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/GNLZZGG002YKY3Z_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322220500 +0000" stop="20260323020500 +0000" channel="MySports 7 D.ch" api-channel-id="1549">
+  <programme start="20260322220000 +0000" stop="20260323010000 +0000" channel="MySports 7 D.ch" api-channel-id="1549">
     <title>Sendepause</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1549/p480440bh8bu_BannerL2_w1920.webp"/>
   </programme>
@@ -9960,46 +9960,42 @@
     <title>NHL On The Fly</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p12205142bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322175000 +0000" stop="20260322175500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
-    <title>Slow Hockey</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1944/500.503_genre_w1920.webp"/>
-  </programme>
-  <programme start="20260322175500 +0000" stop="20260322180500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322175000 +0000" stop="20260322180000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>NHL: Series Rewind</title>
     <sub-title>Florida Panthers - Tampa Bay Lightning</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1944/500.503_genre_w1920.webp"/>
   </programme>
-  <programme start="20260322180500 +0000" stop="20260322195500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322180000 +0000" stop="20260322194500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>NHL: Series Rewind</title>
     <sub-title>Florida Panthers - Toronto Maple Leafs</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1944/500.503_genre_w1920.webp"/>
   </programme>
-  <programme start="20260322195500 +0000" stop="20260322201000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322194500 +0000" stop="20260322200500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Ambri Total</title>
     <sub-title>Addio Valascia</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p21492932bh11aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322201000 +0000" stop="20260322203500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322200500 +0000" stop="20260322202500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Ambri Total</title>
     <sub-title>La Grande Anteprima</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p21492932bh11aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322203500 +0000" stop="20260322210000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322202500 +0000" stop="20260322205000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Ambri Total</title>
     <sub-title>Il figlio della valle</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p21492932bh11aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322210000 +0000" stop="20260322214500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322205000 +0000" stop="20260322213000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Ambri Total</title>
     <sub-title>Professor Cereda</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p21492932bh11aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322214500 +0000" stop="20260322220500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322213000 +0000" stop="20260322215000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Weird NHL</title>
     <sub-title>Vol. 127</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1944/p24026982bh8aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322220500 +0000" stop="20260323020500 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
+  <programme start="20260322215000 +0000" stop="20260323020000 +0000" channel="MySports Uno I.ch" api-channel-id="1944">
     <title>Slow Hockey</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1944/500.503_genre_w1920.webp"/>
   </programme>
@@ -10014,13 +10010,9 @@
     <title>LIV Golf: Südafrika, 3. Tag in Johannesburg</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p24361922bh8ae_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322040000 +0000" stop="20260322043000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+  <programme start="20260322040000 +0000" stop="20260322050000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>The Masters: Official Film 2025 Rory McIllroy</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p31649590ih8aa_Iconic_w1920.webp"/>
-  </programme>
-  <programme start="20260322043000 +0000" stop="20260322050000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
-    <title>Golf: Greatest Holes</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p20773974bh8ah_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322050000 +0000" stop="20260322053000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>Golf: Greatest Holes</title>
@@ -10030,18 +10022,26 @@
     <title>TGL Golf: Jupiter Links GC - Boston Common Golf</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p26049265bh8ad_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322073000 +0000" stop="20260322100000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
-    <title>Golf: LPGA Tour: Fortinet Founders Cup, 3. Tag in Menlo Park, CA (USA)</title>
-    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p767017bh8ar_BannerL1_w1920.webp"/>
+  <programme start="20260322073000 +0000" stop="20260322080000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+    <title>Golf: Greatest Holes</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p20773974bh8ah_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322100000 +0000" stop="20260322150000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+  <programme start="20260322080000 +0000" stop="20260322130000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>LIV Golf: Südafrika, 4. Tag in Johannesburg</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p24361922bh8ae_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322150000 +0000" stop="20260322160000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+  <programme start="20260322130000 +0000" stop="20260322150000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+    <title>Golf: LPGA Tour: Fortinet Founders Cup, 3. Tag in Menlo Park, CA (USA)</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p767017bh8ar_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150000 +0000" stop="20260322153000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>US Open: Official Film</title>
     <sub-title>2025 (J.J. Spaun)</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p9967908bh10ad_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322153000 +0000" stop="20260322160000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
+    <title>Golf: Greatest Holes</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1959/p20773974bh8ah_BannerL2_w1920.webp"/>
   </programme>
   <programme start="20260322160000 +0000" stop="20260322210000 +0000" channel="Sky Sport Golf.ch" api-channel-id="1959">
     <title>Golf Ladies ET: Australian WPGA Championship, 4. Tag in Gold Coast (Australien)</title>
@@ -11995,31 +11995,31 @@
     <sub-title>Una crisi passeggera</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p15557744bh10aq_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322052600 +0000" stop="20260322062600 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322052600 +0000" stop="20260322062700 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Delitti in Paradiso</title>
     <sub-title>Morte di un poliziotto</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p364580bh8ct_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322062600 +0000" stop="20260322072700 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322062700 +0000" stop="20260322072900 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Delitti in Paradiso</title>
     <sub-title>L'uomo ombra</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p364580bh8ct_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322072700 +0000" stop="20260322083000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322072900 +0000" stop="20260322083300 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Delitti in Paradiso</title>
     <sub-title>Un omicidio artistico</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p364580bh8ct_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322083000 +0000" stop="20260322093000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322083300 +0000" stop="20260322093200 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Delitti in Paradiso</title>
     <sub-title>Una piccola fede</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p364580bh8ct_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322093000 +0000" stop="20260322095800 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322093200 +0000" stop="20260322100000 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Wonderland</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p11186177bh8ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322095800 +0000" stop="20260322104000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322100000 +0000" stop="20260322104000 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Criminal Minds</title>
     <sub-title>Raphael</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p185123bh8ac_BannerL1_w1920.webp"/>
@@ -12029,17 +12029,17 @@
     <sub-title>Raphael</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p185123bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322112500 +0000" stop="20260322120900 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322112500 +0000" stop="20260322121000 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Criminal Minds</title>
     <sub-title>Note mortali</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p185123bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322120900 +0000" stop="20260322125600 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322121000 +0000" stop="20260322125500 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Criminal Minds</title>
     <sub-title>Angoscia</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p185123bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322125600 +0000" stop="20260322133900 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322125500 +0000" stop="20260322133900 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Criminal Minds</title>
     <sub-title>Jones</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p185123bh8ac_BannerL1_w1920.webp"/>
@@ -12058,12 +12058,12 @@
     <sub-title>Franca Leosini</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p28216690bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322150900 +0000" stop="20260322155700 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322150900 +0000" stop="20260322155800 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Private Eyes</title>
     <sub-title>Il tesoro dei pirati</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p12830469bh10as_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322155700 +0000" stop="20260322164300 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322155800 +0000" stop="20260322164300 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Private Eyes</title>
     <sub-title>Glassati e Confusi</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p12830469bh10as_BannerL1_w1920.webp"/>
@@ -12073,12 +12073,12 @@
     <sub-title>Henny Penny, il cielo sta cadendo!</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9260095bh8aq_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322172600 +0000" stop="20260322181000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322172600 +0000" stop="20260322180900 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Elementary</title>
     <sub-title>Cacciatori e prede</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9260095bh8aq_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322181000 +0000" stop="20260322185300 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322180900 +0000" stop="20260322185300 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Elementary</title>
     <sub-title>Disgrazie</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9260095bh8aq_BannerL1_w1920.webp"/>
@@ -12093,19 +12093,19 @@
     <sub-title>Il sapore della morte</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9260095bh8aq_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322201900 +0000" stop="20260322220000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322201900 +0000" stop="20260322215900 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Escape Plan: Fuga dall'inferno</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9911264vh10bj_VodArt_w1920.webp"/>
   </programme>
-  <programme start="20260322220000 +0000" stop="20260322232600 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322215900 +0000" stop="20260322232500 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Derailed: Punto d'Impatto</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p30923vh11ad_VodArt_w1920.webp"/>
   </programme>
-  <programme start="20260322232600 +0000" stop="20260322233000 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322232500 +0000" stop="20260322232900 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Appuntamento al cinema</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p9556016bh10ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322233000 +0000" stop="20260323011300 +0000" channel="Rai4.it" api-channel-id="330">
+  <programme start="20260322232900 +0000" stop="20260323011300 +0000" channel="Rai4.it" api-channel-id="330">
     <title>Kill</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/330/p25687818vh10ad_VodArt_w1920.webp"/>
   </programme>
