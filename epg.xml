@@ -4401,6 +4401,387 @@
     <sub-title>Dance Special</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/360/p10533353bh8aa_BannerL1_w1920.webp"/>
   </programme>
+  <channel id="RTS2.ch" api-id="367">
+    <display-name>RTS 2</display-name>
+  </channel>
+  <programme start="20260320235000 +0000" stop="20260321003000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>New Amsterdam</title>
+    <sub-title>Le monde est un théâtre</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p15516929bh8av_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321003000 +0000" stop="20260321010000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321012000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321012000 +0000" stop="20260321015000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321015000 +0000" stop="20260321020500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321020500 +0000" stop="20260321023500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321023500 +0000" stop="20260321025500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321025500 +0000" stop="20260321032500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321032500 +0000" stop="20260321034000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321034000 +0000" stop="20260321041500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321041500 +0000" stop="20260321043000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321043000 +0000" stop="20260321051000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321051000 +0000" stop="20260321053500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321053500 +0000" stop="20260321054000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321054000 +0000" stop="20260321060000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>National League: Playoffs, quarts de finale, acte 1 : HC Fribourg-Gottéron - SC Rapperswil-Jona Lakers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/GNLZZGG00310FZ3_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321070000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070000 +0000" stop="20260321075000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321075000 +0000" stop="20260321085000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Forum</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p16992181bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321085000 +0000" stop="20260321090500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321090500 +0000" stop="20260321093500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Cuntrasts</title>
+    <sub-title>Cuntrast du 18.05.2025</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11181086bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321093500 +0000" stop="20260321105000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>FIS Ski alpin : Coupe du monde: Lillehammer : Descente (H)</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321105000 +0000" stop="20260321110000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321110000 +0000" stop="20260321112000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Adrénaline</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11253852bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321112000 +0000" stop="20260321122500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>FIS Ski alpin : Coupe du monde: Lillehammer : Descente (F)</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260321122500 +0000" stop="20260321134500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>UCI Women's WorldTour: Milan-San Remo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p26272741bh10am_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321134500 +0000" stop="20260321140000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321140000 +0000" stop="20260321161500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>UCI WorldTour: Milan - San Remo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23581551bh8as_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321161500 +0000" stop="20260321163000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321163000 +0000" stop="20260321172500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>52 minutes</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p18712592bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321172500 +0000" stop="20260321192500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Championnats du monde d'athlétisme en salle 2026</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/367/500.526_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321192500 +0000" stop="20260321213000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Super League: FC Sion - FC Saint Gall</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/GNLZZGG002YXHCL_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321213000 +0000" stop="20260321213500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>PMU</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11420098bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321213500 +0000" stop="20260321220800 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Championnats du monde d'athlétisme en salle 2026</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/367/500.526_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260321220800 +0000" stop="20260321221000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Zap RTS Sport</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p17782126bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321221000 +0000" stop="20260321223000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/GNLZZGG0030TY4T_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321223000 +0000" stop="20260321232500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Heïdi's Ice</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p25104477bh10aa_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321232500 +0000" stop="20260322001500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Ryan Gosling, tout simplement</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p15704437bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <channel id="RTS1.ch" api-id="369">
+    <display-name>RTS 1</display-name>
+  </channel>
+  <programme start="20260320232000 +0000" stop="20260321010000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La Proie d'une ombre</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18975252vh10ae_VodArt_w1920.webp"/>
+  </programme>
+  <programme start="20260321010000 +0000" stop="20260321012000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321012000 +0000" stop="20260321012100 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321012100 +0000" stop="20260321015000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321015000 +0000" stop="20260321023500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Passe-moi les jumelles</title>
+    <sub-title>Jacky et Tutu</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p461242bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321023500 +0000" stop="20260321025600 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321025600 +0000" stop="20260321025700 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321025700 +0000" stop="20260321032500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321032500 +0000" stop="20260321041000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Passe-moi les jumelles</title>
+    <sub-title>Jacky et Tutu</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p461242bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321041000 +0000" stop="20260321043200 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Couleurs locales</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11251346bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321043200 +0000" stop="20260321043300 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321043300 +0000" stop="20260321050000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La Suisse vue du ciel</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11199349bh10af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321050000 +0000" stop="20260321050500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Tut Tut Cory Bolides</title>
+    <sub-title>Cory entraîneur</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p17710822bh8ap_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321050500 +0000" stop="20260321051500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Tut Tut Cory Bolides</title>
+    <sub-title>Le tuba de Cory</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p17710822bh8ap_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321051500 +0000" stop="20260321053500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La Pat'Patrouille</title>
+    <sub-title>En avant la musique ! ; Sauvetage sur le fil</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p10077400bh10cn_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321053500 +0000" stop="20260321060000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La Pat'Patrouille</title>
+    <sub-title>Les oeufs de l'espace; Eddie et Emmy se multiplient</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p10077400bh10cn_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321060000 +0000" stop="20260321061000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Coop Troop</title>
+    <sub-title>Piégés !</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p24607152bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321061000 +0000" stop="20260321062000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Coop Troop</title>
+    <sub-title>Super Trooper</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p24607152bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321062000 +0000" stop="20260321063000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Coop Troop</title>
+    <sub-title>Fête à la ferme</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p24607152bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321063000 +0000" stop="20260321064000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Denis et Scratch : déchaînés !</title>
+    <sub-title>Ecognomologistes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p14754161bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321064000 +0000" stop="20260321065500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Denis et Scratch : déchaînés !</title>
+    <sub-title>Danse si tu peux</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p14754161bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321065500 +0000" stop="20260321070500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Denis et Scratch : déchaînés !</title>
+    <sub-title>Bas les pattes !</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p14754161bh8aj_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321070500 +0000" stop="20260321072500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Bienvenue chez les Loud</title>
+    <sub-title>Perdue dans l'espace / Chic et toc</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p12753730bh8bl_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321072500 +0000" stop="20260321075000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Bienvenue chez les Loud</title>
+    <sub-title>Orchidée mon amour / Le combat des chefs</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p12753730bh8bl_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321075000 +0000" stop="20260321081000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Dragons: les neuf royaumes</title>
+    <sub-title>Comment dresser Yormungandar</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p20884835bh10al_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321081000 +0000" stop="20260321083500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Dragons: les neuf royaumes</title>
+    <sub-title>L'adoption cache-cache</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p20884835bh10al_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321083500 +0000" stop="20260321084000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>OKI</title>
+    <sub-title>C'est quoi le bonheur ?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p31201879bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321084000 +0000" stop="20260321091000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>C'est toujours pas sorcier</title>
+    <sub-title>Houba, houba ! Voici les supers Marsupiaux !</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p17771331bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321091000 +0000" stop="20260321091500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Quel temps fait-il ?</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250817bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321091500 +0000" stop="20260321094500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>En route vers les sommets</title>
+    <sub-title>Destination expédition - Neige et glace</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18421695bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321094500 +0000" stop="20260321104000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Ryan Gosling, tout simplement</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p15704437bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321104000 +0000" stop="20260321114500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>One degree°</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p25765551bh8ab_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321114500 +0000" stop="20260321120500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 12h45</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250828bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321120500 +0000" stop="20260321121000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321121000 +0000" stop="20260321131000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Chronoception</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p28172739bh11ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321131000 +0000" stop="20260321141000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La haute route, au fil des glaciers</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p21428572bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321141000 +0000" stop="20260321144500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Scènes de ménages</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p10838535bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321144500 +0000" stop="20260321153000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Monk</title>
+    <sub-title>Monk et l'astronaute</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p184807bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321153000 +0000" stop="20260321161500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Monk</title>
+    <sub-title>Monk va chez le dentiste</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p184807bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321161500 +0000" stop="20260321170000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Walker</title>
+    <sub-title>Désertion</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18320286bh8an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321170000 +0000" stop="20260321174500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Walker</title>
+    <sub-title>Fausse vérité et vrai mensonge</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18320286bh8an_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321174500 +0000" stop="20260321181600 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les saisons de pique-assiette</title>
+    <sub-title>Le chou-fleur et le brocolis, autrement.</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p15008052bh8ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321181600 +0000" stop="20260321182000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321182000 +0000" stop="20260321183000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Swiss Loto</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250884bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260321183000 +0000" stop="20260321190000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321190000 +0000" stop="20260321191000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321191000 +0000" stop="20260321195500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Cash</title>
+    <sub-title>Geneva artist Ink</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250982bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260321195500 +0000" stop="20260321212000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Sexygénaires</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p25573264vh8ab_VodArt_w1920.webp"/>
+  </programme>
+  <programme start="20260321212000 +0000" stop="20260321231000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Un Espion ordinaire</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18288996vh8be_VodArt_w1920.webp"/>
+  </programme>
+  <programme start="20260321231000 +0000" stop="20260322005500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Shorta</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18607603vh8aa_VodArt_w1920.webp"/>
+  </programme>
   <channel id="sat1.de" api-id="375">
     <display-name>SAT.1</display-name>
   </channel>
@@ -11808,6 +12189,396 @@
     <title>CSI: Den Tätern auf der Spur</title>
     <sub-title>Venusmuscheln á la Card</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/360/p184657bh10cv_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="RTS2.ch" api-id="367">
+    <display-name>RTS 2</display-name>
+  </channel>
+  <programme start="20260321232500 +0000" stop="20260322001500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Ryan Gosling, tout simplement</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p15704437bh8ac_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322001500 +0000" stop="20260322005000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322005000 +0000" stop="20260322012000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322012000 +0000" stop="20260322015000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322015000 +0000" stop="20260322022000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322022000 +0000" stop="20260322025000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322025000 +0000" stop="20260322032500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322032500 +0000" stop="20260322035500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322035500 +0000" stop="20260322042500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322042500 +0000" stop="20260322045500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322045500 +0000" stop="20260322052500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 19h30 signé</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251849bh8ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322052500 +0000" stop="20260322054000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322054000 +0000" stop="20260322060000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>National League: Playoffs, quarts de finale, acte 1 : Genève-Servette HC - Lausanne HC</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/GNLZZGG0030TY4T_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322060000 +0000" stop="20260322093500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322093500 +0000" stop="20260322104000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>FIS Ski alpin : Coupe du monde: Lillehammer : Super G (F)</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322104000 +0000" stop="20260322110000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322110000 +0000" stop="20260322112000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Adrénaline</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11253852bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322112000 +0000" stop="20260322122000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>FIS Ski alpin : Coupe du monde: Lillehammer : Super G (H)</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p23022515ih8an_Iconic_w1920.webp"/>
+  </programme>
+  <programme start="20260322122000 +0000" stop="20260322123500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322123500 +0000" stop="20260322125500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Le 12h45</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11250828bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322125500 +0000" stop="20260322130000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322130000 +0000" stop="20260322140500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322140500 +0000" stop="20260322145500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Passe-moi les jumelles</title>
+    <sub-title>Jacky et Tutu</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p461242bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322145500 +0000" stop="20260322160500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>RTS Info : L'actualité en continu</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11251610bh8ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322160500 +0000" stop="20260322164000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Les saisons de pique-assiette</title>
+    <sub-title>Spécial bocal : lactofermentation et pickles</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p15008052bh8ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322164000 +0000" stop="20260322200000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Championnats du monde d'athlétisme en salle 2026</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/367/500.526_genre_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322205500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>MotoGP: GP du Brésil : La course</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p445587bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322205500 +0000" stop="20260322211000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Tous les buts !</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p14350769bh10ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322211000 +0000" stop="20260322211500 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>PMU</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p11420098bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322211500 +0000" stop="20260322231000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Max et les ferrailleurs</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p26002vh10aa_VodArt_w1920.webp"/>
+  </programme>
+  <programme start="20260322231000 +0000" stop="20260322233000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>National League: Playoffs, quarts de finale, acte 2 : SC Rapperswil-Jona Lakers - HC Fribourg-Gottéron</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/GNLZZGG00310C8Q_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322233000 +0000" stop="20260323010000 +0000" channel="RTS2.ch" api-channel-id="367">
+    <title>Les PFAS, polluants éternels</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/367/p32577950bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <channel id="RTS1.ch" api-id="369">
+    <display-name>RTS 1</display-name>
+  </channel>
+  <programme start="20260321231000 +0000" stop="20260322005500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Shorta</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18607603vh8aa_VodArt_w1920.webp"/>
+  </programme>
+  <programme start="20260322005500 +0000" stop="20260322012500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322012500 +0000" stop="20260322020700 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Cash</title>
+    <sub-title>Geneva artist Ink</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250982bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020700 +0000" stop="20260322020800 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322020800 +0000" stop="20260322024000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322024000 +0000" stop="20260322032100 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Cash</title>
+    <sub-title>Geneva artist Ink</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250982bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322032100 +0000" stop="20260322032200 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322032200 +0000" stop="20260322035000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322035000 +0000" stop="20260322043500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Cash</title>
+    <sub-title>Geneva artist Ink</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250982bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322043500 +0000" stop="20260322043600 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322043600 +0000" stop="20260322050000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>La Suisse vue du ciel</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11199349bh10af_BannerL2_w1920.webp"/>
+  </programme>
+  <programme start="20260322050000 +0000" stop="20260322050500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Maddie + Triggs</title>
+    <sub-title>La mouche</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p28470365bh11ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322050500 +0000" stop="20260322051000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Maddie + Triggs</title>
+    <sub-title>Le vent</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p28470365bh11ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322051000 +0000" stop="20260322052000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Maddie + Triggs</title>
+    <sub-title>Le parc à chiens</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p28470365bh11ac_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322052000 +0000" stop="20260322053000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les Trois Bricochons</title>
+    <sub-title>La Grande Idée de César</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p30838693bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322053000 +0000" stop="20260322054000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les Trois Bricochons</title>
+    <sub-title>Le Gazou-Gazou</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p30838693bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322054000 +0000" stop="20260322055000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les Trois Bricochons</title>
+    <sub-title>La grande fête du partage</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p30838693bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322055000 +0000" stop="20260322061500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Belfort &amp; Lupin</title>
+    <sub-title>Fou d'artifice</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p29018924bh11aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322061500 +0000" stop="20260322063500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Belfort &amp; Lupin</title>
+    <sub-title>Le grand méchant loup</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p29018924bh11aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322063500 +0000" stop="20260322070000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Mystery Lane</title>
+    <sub-title>Le ronge-muraille</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p23676194bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322070000 +0000" stop="20260322072000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Mystery Lane</title>
+    <sub-title>Le maître de la foudre</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p23676194bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322072000 +0000" stop="20260322073500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les aventures de Pil</title>
+    <sub-title>La Mamie Géante</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p31836666bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322073500 +0000" stop="20260322074500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les aventures de Pil</title>
+    <sub-title>Pil au tresor</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p31836666bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322074500 +0000" stop="20260322080000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les aventures de Pil</title>
+    <sub-title>Le vilain Babau</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p31836666bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322080000 +0000" stop="20260322081000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Capitaine Jim</title>
+    <sub-title>USS Méchant Requin</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p32005988bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322081000 +0000" stop="20260322082500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Capitaine Jim</title>
+    <sub-title>Le Choix de Jim</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p32005988bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322082500 +0000" stop="20260322083500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Capitaine Jim</title>
+    <sub-title>Plateau télé</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p32005988bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322083500 +0000" stop="20260322090000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Miraculous : les aventures de Ladybug et Chat Noir</title>
+    <sub-title>Révélator</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p12274735bh10az_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322090000 +0000" stop="20260322092000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Miraculous : les aventures de Ladybug et Chat Noir</title>
+    <sub-title>Papys Garous</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p12274735bh10az_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322092000 +0000" stop="20260322093000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Quel temps fait-il ?</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250817bh8ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322093000 +0000" stop="20260322100000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les saisons de pique-assiette</title>
+    <sub-title>Le chou-fleur et le brocolis, autrement.</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p15008052bh8ah_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322100000 +0000" stop="20260322113500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Les beaux parleurs</title>
+    <sub-title>Dis-moi qui sont tes amis</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p17421583bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322113500 +0000" stop="20260322114500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Ensemble</title>
+    <sub-title>ASA Valais</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p9430574bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322114500 +0000" stop="20260322120500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 12h45</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250828bh10ae_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322120500 +0000" stop="20260322121500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322121500 +0000" stop="20260322124500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Géopolitis</title>
+    <sub-title>IA, chatbots, les nouveaux envahisseurs ?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p392530bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322124500 +0000" stop="20260322133000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Grantchester</title>
+    <sub-title>Protestations indécentes</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11114803bh8al_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322133000 +0000" stop="20260322142000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Grantchester</title>
+    <sub-title>Quête de rédemption</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11114803bh8al_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322142000 +0000" stop="20260322150500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Hudson et Rex</title>
+    <sub-title>Dans les corde</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p16646888bh8bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322150500 +0000" stop="20260322155500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Hudson et Rex</title>
+    <sub-title>Cours Donovan cours</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p16646888bh8bc_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322155500 +0000" stop="20260322164000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Blue Bloods</title>
+    <sub-title>Question de loyauté</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p8130493bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322164000 +0000" stop="20260322172500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Blue Bloods</title>
+    <sub-title>C'est qui le chef ?</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p8130493bh8af_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322172500 +0000" stop="20260322182000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Sport dimanche</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11242715bh8aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322182000 +0000" stop="20260322183000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322183000 +0000" stop="20260322190000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Le 19h30</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250856bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322190000 +0000" stop="20260322191000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Météo</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p11250839bh8ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322191000 +0000" stop="20260322200000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Mise au point</title>
+    <sub-title>Le retour en grâce du nucléaire</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p443168bh10ab_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322200000 +0000" stop="20260322204500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>The Equalizer</title>
+    <sub-title>Enlevé</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18300011bh8at_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322204500 +0000" stop="20260322213500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>The Equalizer</title>
+    <sub-title>Ne fais confiance à personne</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p18300011bh8at_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322213500 +0000" stop="20260322215000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Aspergirl</title>
+    <sub-title>Une Copine Terrienne</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p24286115bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322215000 +0000" stop="20260322221500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Aspergirl</title>
+    <sub-title>Taxi !</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p24286115bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322221500 +0000" stop="20260322224500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Jeune et golri</title>
+    <sub-title>Je veux faire du drame</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p20534899bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322224500 +0000" stop="20260322231000 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Jeune et golri</title>
+    <sub-title>Merci Mamina</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p20534899bh10aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260322231000 +0000" stop="20260323000500 +0000" channel="RTS1.ch" api-channel-id="369">
+    <title>Rapa</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/369/p22150547bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <channel id="sat1.de" api-id="375">
     <display-name>SAT.1</display-name>

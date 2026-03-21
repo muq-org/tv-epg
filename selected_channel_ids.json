@@ -35,6 +35,16 @@
     "name": "CNBC UK"
   },
   {
+    "api-id": "367",
+    "epg-id": "RTS2.ch",
+    "name": "RTS 2"
+  },
+  {
+    "api-id": "369",
+    "epg-id": "RTS1.ch",
+    "name": "RTS 1"
+  },
+  {
     "api-id": "107",
     "epg-id": "cnn.uk",
     "name": "CNN"
