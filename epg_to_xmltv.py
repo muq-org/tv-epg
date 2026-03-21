@@ -8,18 +8,9 @@ import os
 API_URL_TEMPLATE = "https://services.sg101.prd.sctv.ch/catalog/tv/channels/list/(end={end};ids={ids};level=minimal;start={start})"
 HEADERS = {
     'Accept': 'application/json, text/plain, */*',
-    'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8,de-CH;q=0.7,de;q=0.6',
-    'Authorization': 'Bearer 6ba3e826-7840-4c43-843d-24433b526e26',
-    'Content-Type': 'application/json; charset=utf-8',
-    'From': 'fd93f6e8-852b-4d77-a381-1f105a735055@services.sg101.prd.sctv.ch',
-    'Loading-Disabled': 'true',
     'Origin': 'https://tv.blue.ch',
     'Referer': 'https://tv.blue.ch/',
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36',
-    'X-Request-ID': '2630df32-7ecc-c0ad-c8a2-c7abb6ea923e_1774084900934',
-    'sec-ch-ua': '"Not-A.Brand";v="24", "Chromium";v="146"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"macOS"',
 }
 
 # --- FETCH DATA ---
