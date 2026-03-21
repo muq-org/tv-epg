@@ -108,7 +108,7 @@ def main():
     import datetime as dt
     now = dt.datetime.utcnow()
     start_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    end_dt = now + dt.timedelta(days=2)
+    end_dt = start_dt + dt.timedelta(days=2)
     # Split into 1-day intervals
     all_epg_nodes = []
     interval = dt.timedelta(days=1)
