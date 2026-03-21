@@ -102,11 +102,25 @@ def main():
     # Set time window (example: next 24h from now)
     import datetime as dt
     now = dt.datetime.utcnow()
-    start = now.strftime('%Y%m%d%H%M')
-    end = (now + dt.timedelta(days=1)).strftime('%Y%m%d%H%M')
-    print(f"Requesting EPG for {len(channel_ids)} channels from {start} to {end}")
-    epg_data = fetch_epg_data(channel_ids, start, end)
-    xmltv = to_xmltv(epg_data)
+    start_dt = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    end_dt = now + dt.timedelta(days=2)
+    # Split into 1-day intervals
+    all_epg_nodes = []
+    interval = dt.timedelta(days=1)
+    interval_start = start_dt
+    while interval_start < end_dt:
+        interval_end = min(interval_start + interval, end_dt)
+        start_str = interval_start.strftime('%Y%m%d%H%M')
+        end_str = interval_end.strftime('%Y%m%d%H%M')
+        print(f"Requesting EPG for {len(channel_ids)} channels from {start_str} to {end_str}")
+        epg_data = fetch_epg_data(channel_ids, start_str, end_str)
+        # Extract channel nodes and append
+        nodes = epg_data.get('Nodes', {}).get('Items', [])
+        all_epg_nodes.extend(nodes)
+        interval_start = interval_end
+    # Merge all nodes into a single epg_data structure
+    merged_epg_data = {'Nodes': {'Items': all_epg_nodes}}
+    xmltv = to_xmltv(merged_epg_data)
     with open('epg.xml', 'wb') as f:
         f.write(xmltv)
     print("EPG XMLTV data written to epg.xml")
