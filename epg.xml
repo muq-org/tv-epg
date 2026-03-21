@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <tv>
-  <div>dummy change for workflow test</div>
   <channel id="1000">
     <display-name>blue Sport 1 Live D</display-name>
   </channel>
@@ -1496,6 +1495,9 @@
   </programme>
   <programme start="20260322091000 +0000" stop="20260322100500 +0000" channel="483">
     <title>Heimspiel - Der Fussball-Talk</title>
+  </programme>
+  <programme start="20260322100500 +0000" stop="20260322103500 +0000" channel="483">
+    <title>World of Freesports</title>
   </programme>
   <channel id="484">
     <display-name>blue Sport 8 Live</display-name>
