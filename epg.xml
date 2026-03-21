@@ -12964,6 +12964,11 @@
     <sub-title>23/03/2026, 12:30</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/356/p11164465bh10ab_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323114500 +0000" stop="20260323115000 +0000" channel="RSI LA 1.ch" api-channel-id="356">
+    <title>Meteo regionale</title>
+    <sub-title>23/03/2026, 12:45</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/356/p11164546bh10ab_BannerL2_w1920.webp"/>
+  </programme>
   <channel id="RSI LA 2.ch" api-id="357">
     <display-name>RSI LA 2</display-name>
   </channel>
@@ -13331,6 +13336,10 @@
     <title>Mini Chuchi, dini Chuchi</title>
     <sub-title>Kichererbse - Tag 5</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/399/p20479226bh10ad_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323114500 +0000" stop="20260323115000 +0000" channel="SRF 1.ch" api-channel-id="399">
+    <title>Tagesschau kompakt - Mittagsausgabe</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/399/p32581704bh10aa_BannerL2_w1920.webp"/>
   </programme>
   <channel id="3+.ch" api-id="4">
     <display-name>3+</display-name>
@@ -14372,6 +14381,11 @@
     <title>Das Waisenhaus für wilde Tiere</title>
     <sub-title>Folge 42</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/654/p9707524bh11aa_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323114500 +0000" stop="20260323120000 +0000" channel="WDR.ch" api-channel-id="654">
+    <title>WDR aktuell</title>
+    <sub-title>vom 23.03.2026, 12:45:00 Uhr</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/654/p10914395bh10ad_BannerL1_w1920.webp"/>
   </programme>
   <channel id="ZDF.ch" api-id="656">
     <display-name>ZDF</display-name>
