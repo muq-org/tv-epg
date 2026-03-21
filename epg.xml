@@ -1656,206 +1656,206 @@
     <title>2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 27. Spieltag, Samstag komplett</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1962/p11426309bh10ah_BannerL2_w1920.webp"/>
   </programme>
-  <channel id="itele.fr" api-id="217">
+  <channel id="CNEWS.fr" api-id="217">
     <display-name>CNEWS</display-name>
   </channel>
-  <programme start="20260320235900 +0000" stop="20260321002100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260320235900 +0000" stop="20260321002100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321002100 +0000" stop="20260321003100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321002100 +0000" stop="20260321003100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321003100 +0000" stop="20260321003400 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321003100 +0000" stop="20260321003400 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321003400 +0000" stop="20260321003500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321003400 +0000" stop="20260321003500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321003500 +0000" stop="20260321005700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321003500 +0000" stop="20260321005700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321005700 +0000" stop="20260321005900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321005700 +0000" stop="20260321005900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'éphéméride</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321005900 +0000" stop="20260321010200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321005900 +0000" stop="20260321010200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321010200 +0000" stop="20260321010300 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321010200 +0000" stop="20260321010300 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321010300 +0000" stop="20260321012500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321010300 +0000" stop="20260321012500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321012500 +0000" stop="20260321012800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321012500 +0000" stop="20260321012800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321012800 +0000" stop="20260321013000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321012800 +0000" stop="20260321013000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321013000 +0000" stop="20260321015200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321013000 +0000" stop="20260321015200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321015200 +0000" stop="20260321015500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321015200 +0000" stop="20260321015500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321015500 +0000" stop="20260321015600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321015500 +0000" stop="20260321015600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321015600 +0000" stop="20260321021800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321015600 +0000" stop="20260321021800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321021800 +0000" stop="20260321022100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321021800 +0000" stop="20260321022100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321022100 +0000" stop="20260321022200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321022100 +0000" stop="20260321022200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321022200 +0000" stop="20260321024400 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321022200 +0000" stop="20260321024400 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321024400 +0000" stop="20260321025500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321024400 +0000" stop="20260321025500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321025500 +0000" stop="20260321025600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321025500 +0000" stop="20260321025600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321025600 +0000" stop="20260321031800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321025600 +0000" stop="20260321031800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321031800 +0000" stop="20260321032100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321031800 +0000" stop="20260321032100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321032100 +0000" stop="20260321032300 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321032100 +0000" stop="20260321032300 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321032300 +0000" stop="20260321034500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321032300 +0000" stop="20260321034500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321034500 +0000" stop="20260321035800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321034500 +0000" stop="20260321035800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321035800 +0000" stop="20260321035900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321035800 +0000" stop="20260321035900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321035900 +0000" stop="20260321042100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321035900 +0000" stop="20260321042100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321042100 +0000" stop="20260321042800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321042100 +0000" stop="20260321042800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321042800 +0000" stop="20260321042900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321042800 +0000" stop="20260321042900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321042900 +0000" stop="20260321045600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321042900 +0000" stop="20260321045600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321045600 +0000" stop="20260321045800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321045600 +0000" stop="20260321045800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La matinale</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11063516bh10ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321045800 +0000" stop="20260321075800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321045800 +0000" stop="20260321075800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321075800 +0000" stop="20260321095700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321075800 +0000" stop="20260321095700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des pros</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p14068102bh8aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321095700 +0000" stop="20260321095900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321095700 +0000" stop="20260321095900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321095900 +0000" stop="20260321115700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321095900 +0000" stop="20260321115700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>100% Politique</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27646470bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321115700 +0000" stop="20260321115900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321115700 +0000" stop="20260321115900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321115900 +0000" stop="20260321134000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321115900 +0000" stop="20260321134000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>News week-end</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11176571bh8ac_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321134000 +0000" stop="20260321135700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321134000 +0000" stop="20260321135700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321135700 +0000" stop="20260321135900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321135700 +0000" stop="20260321135900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321135900 +0000" stop="20260321155100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321135900 +0000" stop="20260321155100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>180 minutes info</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p25596110bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321155100 +0000" stop="20260321155700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321155100 +0000" stop="20260321155700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321155700 +0000" stop="20260321155900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321155700 +0000" stop="20260321155900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321155900 +0000" stop="20260321175900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321155900 +0000" stop="20260321175900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>Punchline</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p13289610bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321175900 +0000" stop="20260321190500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321175900 +0000" stop="20260321190500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>Face à Philippe de Villiers</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/217/700.701_genre_w1920.webp"/>
   </programme>
-  <programme start="20260321190500 +0000" stop="20260321195900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321190500 +0000" stop="20260321195900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des pros 2</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p22441740bh8aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321195900 +0000" stop="20260321215700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321195900 +0000" stop="20260321215700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>100% Politique</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27646470bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321215700 +0000" stop="20260321215900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321215700 +0000" stop="20260321215900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321215900 +0000" stop="20260321235800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321215900 +0000" stop="20260321235800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>Le meilleur de l'info</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p22930419bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260321235800 +0000" stop="20260321235900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321235800 +0000" stop="20260321235900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
@@ -8001,7 +8001,7 @@
   <channel id="Sky Bundesliga 2.ch" api-id="1572">
     <display-name>Sky Bundesliga 2</display-name>
   </channel>
-  <programme start="20260321230000 +0000" stop="20260322030000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
+  <programme start="20260321233000 +0000" stop="20260322030000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
     <title>Sky Bundesliga 2</title>
   </programme>
   <programme start="20260322030000 +0000" stop="20260322070000 +0000" channel="Sky Bundesliga 2.ch" api-channel-id="1572">
@@ -8046,7 +8046,7 @@
   <channel id="Sky Bundesliga 3.ch" api-id="1573">
     <display-name>Sky Bundesliga 3</display-name>
   </channel>
-  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
+  <programme start="20260321204500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
     <title>Sky Bundesliga 3</title>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 3.ch" api-channel-id="1573">
@@ -8081,16 +8081,16 @@
   <channel id="Sky Bundesliga 4.ch" api-id="1574">
     <display-name>Sky Bundesliga 4</display-name>
   </channel>
-  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260321210000 +0000" stop="20260322010000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
-  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
-  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
-  <programme start="20260322080000 +0000" stop="20260322114000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
+  <programme start="20260322090000 +0000" stop="20260322114000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
     <title>Sky Bundesliga 4</title>
   </programme>
   <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Bundesliga 4.ch" api-channel-id="1574">
@@ -8116,16 +8116,16 @@
   <channel id="Sky Bundesliga 5.ch" api-id="1576">
     <display-name>Sky Bundesliga 5</display-name>
   </channel>
-  <programme start="20260321200000 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260321210000 +0000" stop="20260322010000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
-  <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260322010000 +0000" stop="20260322050000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
-  <programme start="20260322040000 +0000" stop="20260322080000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260322050000 +0000" stop="20260322090000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
-  <programme start="20260322080000 +0000" stop="20260322114000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
+  <programme start="20260322090000 +0000" stop="20260322114000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
     <title>Sky Bundesliga 5</title>
   </programme>
   <programme start="20260322114000 +0000" stop="20260322120000 +0000" channel="Sky Bundesliga 5.ch" api-channel-id="1576">
@@ -8286,7 +8286,7 @@
   <channel id="Sky Bundesliga 1.ch" api-id="1591">
     <display-name>Sky Bundesliga 1</display-name>
   </channel>
-  <programme start="20260321201500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
+  <programme start="20260321204500 +0000" stop="20260322000000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
     <title>Sky Bundesliga 1</title>
   </programme>
   <programme start="20260322000000 +0000" stop="20260322040000 +0000" channel="Sky Bundesliga 1.ch" api-channel-id="1591">
@@ -8936,202 +8936,202 @@
     <title>2. BL Kompakt: 27. Spieltag</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/1962/p12022170bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <channel id="itele.fr" api-id="217">
+  <channel id="CNEWS.fr" api-id="217">
     <display-name>CNEWS</display-name>
   </channel>
-  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260321235900 +0000" stop="20260322002100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322002100 +0000" stop="20260322003100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322002100 +0000" stop="20260322003100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322003100 +0000" stop="20260322003400 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322003100 +0000" stop="20260322003400 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322003400 +0000" stop="20260322003500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322003400 +0000" stop="20260322003500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322003500 +0000" stop="20260322005700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322003500 +0000" stop="20260322005700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322005700 +0000" stop="20260322005900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322005700 +0000" stop="20260322005900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'éphéméride</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322005900 +0000" stop="20260322010200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322005900 +0000" stop="20260322010200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322010200 +0000" stop="20260322010300 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322010200 +0000" stop="20260322010300 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322010300 +0000" stop="20260322012500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322010300 +0000" stop="20260322012500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322012500 +0000" stop="20260322012800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322012500 +0000" stop="20260322012800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322012800 +0000" stop="20260322013000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322012800 +0000" stop="20260322013000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322013000 +0000" stop="20260322015200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322013000 +0000" stop="20260322015200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322015200 +0000" stop="20260322015500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322015200 +0000" stop="20260322015500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322015500 +0000" stop="20260322015600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322015500 +0000" stop="20260322015600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322015600 +0000" stop="20260322021800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322015600 +0000" stop="20260322021800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322021800 +0000" stop="20260322022100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322021800 +0000" stop="20260322022100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322022100 +0000" stop="20260322022200 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322022100 +0000" stop="20260322022200 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322022200 +0000" stop="20260322024400 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322022200 +0000" stop="20260322024400 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322024400 +0000" stop="20260322025500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322024400 +0000" stop="20260322025500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322025500 +0000" stop="20260322025600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322025500 +0000" stop="20260322025600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322025600 +0000" stop="20260322031800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322025600 +0000" stop="20260322031800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322031800 +0000" stop="20260322032100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322031800 +0000" stop="20260322032100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322032100 +0000" stop="20260322032300 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322032100 +0000" stop="20260322032300 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322032300 +0000" stop="20260322034500 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322032300 +0000" stop="20260322034500 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322034500 +0000" stop="20260322035800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322034500 +0000" stop="20260322035800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322035800 +0000" stop="20260322035900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322035800 +0000" stop="20260322035900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322035900 +0000" stop="20260322042100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322035900 +0000" stop="20260322042100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322042100 +0000" stop="20260322042800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322042100 +0000" stop="20260322042800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des livres</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19442212bh10ab_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322042800 +0000" stop="20260322042900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322042800 +0000" stop="20260322042900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322042900 +0000" stop="20260322045600 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322042900 +0000" stop="20260322045600 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'édition de la nuit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10949361bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322045600 +0000" stop="20260322050100 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322045600 +0000" stop="20260322050100 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La matinale</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11063516bh10ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322050100 +0000" stop="20260322075000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322050100 +0000" stop="20260322075000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La matinale week-end</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10921755bh8ac_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322075000 +0000" stop="20260322075800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322075000 +0000" stop="20260322075800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322075800 +0000" stop="20260322095900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322075800 +0000" stop="20260322095900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'heure des pros</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p14068102bh8aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322095900 +0000" stop="20260322100000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322095900 +0000" stop="20260322100000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322100000 +0000" stop="20260322115800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322100000 +0000" stop="20260322115800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>100% Actu</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p32543559bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322115800 +0000" stop="20260322115900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322115800 +0000" stop="20260322115900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322115900 +0000" stop="20260322124800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322115900 +0000" stop="20260322124800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>En quête d'esprit</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p18502430bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322124800 +0000" stop="20260322125000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322124800 +0000" stop="20260322125000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'éphéméride</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p23282366bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322125000 +0000" stop="20260322125700 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322125000 +0000" stop="20260322125700 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>Lumières orthodoxes</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/217/400.422_genre_w1920.webp"/>
   </programme>
-  <programme start="20260322125700 +0000" stop="20260322125900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322125700 +0000" stop="20260322125900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322125900 +0000" stop="20260322135800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322125900 +0000" stop="20260322135800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>News week-end</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p11176571bh8ac_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322135800 +0000" stop="20260322135900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322135800 +0000" stop="20260322135900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La météo</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p10958361bh8ae_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322135900 +0000" stop="20260322145400 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322135900 +0000" stop="20260322145400 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>180 minutes info</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p25596110bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322145400 +0000" stop="20260322145900 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322145400 +0000" stop="20260322145900 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>La sélection</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p19042546bh10aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322145900 +0000" stop="20260322160000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322145900 +0000" stop="20260322160000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>L'Heure Inter</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p29512910bh10aa_BannerL1_w1920.webp"/>
   </programme>
-  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322160000 +0000" stop="20260322180000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>2nd tour des élections législatives</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322180000 +0000" stop="20260322220000 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322180000 +0000" stop="20260322220000 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>2nd tour des élections législatives</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
   </programme>
-  <programme start="20260322220000 +0000" stop="20260323005800 +0000" channel="itele.fr" api-channel-id="217">
+  <programme start="20260322220000 +0000" stop="20260323005800 +0000" channel="CNEWS.fr" api-channel-id="217">
     <title>2nd tour des élections législatives</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/217/p27746026bh8aa_BannerL2_w1920.webp"/>
   </programme>
