@@ -11705,7 +11705,6 @@
   <programme start="20260323113000 +0000" stop="20260323123000 +0000" channel="MySports Eins.ch" api-channel-id="1543">
     <title>Slow Hockey</title>
     <sub-title>National League</sub-title>
-    <desc>National League</desc>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/broadcast/1543/500.503_genre_w1920.webp"/>
   </programme>
   <channel id="MySports 2 D.ch" api-id="1544">
@@ -12459,6 +12458,11 @@
     <sub-title>Kreta: Tintenfisch</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/27/p29123912bh10aa_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323112500 +0000" stop="20260323121000 +0000" channel="Arte Deutsch.ch" api-channel-id="27">
+    <title>Stadt Land Kunst</title>
+    <sub-title>Ahmadou Kouroumas Elfenbeinküste / Frankreich / New York</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/27/p13847903bh8ab_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="ProSieben.ch" api-id="322">
     <display-name>ProSieben</display-name>
   </channel>
@@ -12566,6 +12570,11 @@
     <title>The Big Bang Theory</title>
     <sub-title>Herz zwei</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/322/p185554bh8az_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323114000 +0000" stop="20260323121000 +0000" channel="ProSieben.ch" api-channel-id="322">
+    <title>How I Met Your Mother</title>
+    <sub-title>Traum und Wirklichkeit</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/322/p185124bh10aj_BannerL1_w1920.webp"/>
   </programme>
   <channel id="Rai 1.ch" api-id="327">
     <display-name>Rai 1</display-name>
@@ -12790,6 +12799,10 @@
     <title>Tg3</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/329/p497923bh10ac_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323112500 +0000" stop="20260323115000 +0000" channel="Rai 3.ch" api-channel-id="329">
+    <title>Tg3 fuori Tg</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/329/p10548909bh8ac_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="Rai 4.ch" api-id="330">
     <display-name>Rai 4</display-name>
   </channel>
@@ -12949,7 +12962,6 @@
   <programme start="20260323113000 +0000" stop="20260323114500 +0000" channel="RSI LA 1.ch" api-channel-id="356">
     <title>Telegiornale</title>
     <sub-title>23/03/2026, 12:30</sub-title>
-    <desc>23/03/2026, 12:30</desc>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/356/p11164465bh10ab_BannerL1_w1920.webp"/>
   </programme>
   <channel id="RSI LA 2.ch" api-id="357">
@@ -13315,6 +13327,11 @@
     <sub-title>Stuntfrauen</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/399/p11180898bh10an_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323112000 +0000" stop="20260323114500 +0000" channel="SRF 1.ch" api-channel-id="399">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Kichererbse - Tag 5</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/399/p20479226bh10ad_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="3+.ch" api-id="4">
     <display-name>3+</display-name>
   </channel>
@@ -13497,7 +13514,6 @@
   <programme start="20260323113500 +0000" stop="20260323124500 +0000" channel="SRF info.ch" api-channel-id="400">
     <title>Arena</title>
     <sub-title>Waffen, Kriege und die Haltung der Schweiz</sub-title>
-    <desc>Waffen, Kriege und die Haltung der Schweiz</desc>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/400/p11182489bh10ah_BannerL1_w1920.webp"/>
   </programme>
   <channel id="SRF zwei.ch" api-id="401">
@@ -13934,6 +13950,10 @@
     <title>premiumshopping.tv</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/572/p15265407bh10ae_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323112000 +0000" stop="20260323120000 +0000" channel="Tele Bärn.ch" api-channel-id="572">
+    <title>premiumshopping.tv</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/572/p14275893bh10ac_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="TeleZüri.ch" api-id="585">
     <display-name>TeleZüri</display-name>
   </channel>
@@ -14053,6 +14073,10 @@
     <title>premiumshopping.tv</title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/585/p15265407bh10ae_BannerL1_w1920.webp"/>
   </programme>
+  <programme start="20260323112000 +0000" stop="20260323120000 +0000" channel="TeleZüri.ch" api-channel-id="585">
+    <title>premiumshopping.tv</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/585/p14275893bh10ac_BannerL1_w1920.webp"/>
+  </programme>
   <channel id="3sat.ch" api-id="6">
     <display-name>3sat</display-name>
   </channel>
@@ -14138,6 +14162,10 @@
     <title>ZDF.reportage</title>
     <sub-title>Helgoland - Leben und Arbeiten auf der Insel</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/6/p8859044bh8ag_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323112000 +0000" stop="20260323115000 +0000" channel="3sat.ch" api-channel-id="6">
+    <title>Servicezeit</title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/6/p10914446bh10aa_BannerL1_w1920.webp"/>
   </programme>
   <channel id="TV24.ch" api-id="634">
     <display-name>TV24</display-name>
@@ -14243,6 +14271,11 @@
     <title>CSI: Vegas</title>
     <sub-title>Es wird eng</sub-title>
     <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/651/p184657bh10cn_BannerL1_w1920.webp"/>
+  </programme>
+  <programme start="20260323112500 +0000" stop="20260323120500 +0000" channel="VOX.ch" api-channel-id="651">
+    <title>CSI: Miami</title>
+    <sub-title>Stein auf Stein</sub-title>
+    <icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/651/p184820bh10ag_BannerL1_w1920.webp"/>
   </programme>
   <channel id="WDR.ch" api-id="654">
     <display-name>WDR</display-name>
