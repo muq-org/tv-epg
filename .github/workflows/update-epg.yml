@@ -5,9 +5,16 @@ on:
         - cron: '0 5 * * *' # Every day at 05:00 UTC
     workflow_dispatch:
 
+permissions:
+    pages: write
+    id-token: write
+
 jobs:
     update-epg:
         runs-on: ubuntu-latest
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -18,11 +25,16 @@ jobs:
             - name: Generate EPG XMLTV
               run: uv run python epg_to_xmltv.py
 
-            - name: Commit and push EPG XMLTV
+            - name: Stage files for Pages
               run: |
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
-                  git add epg.xml
-                  git commit -m "Update EPG XMLTV [skip ci]" || echo "No changes to commit"
-                  git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-                  git push
+                  mkdir _site
+                  cp index.html .nojekyll epg.xml _site/
+
+            - name: Upload Pages artifact
+              uses: actions/upload-pages-artifact@v3
+              with:
+                  path: _site
+
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v4
