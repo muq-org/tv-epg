@@ -4,8 +4,10 @@
 		{
 			"label": "Run EPG to XMLTV script",
 			"type": "shell",
-			"command": ".venv/bin/python",
+			"command": "uv",
 			"args": [
+				"run",
+				"python",
 				"epg_to_xmltv.py"
 			],
 			"isBackground": false,
