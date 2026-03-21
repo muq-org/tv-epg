@@ -1,43 +1,51 @@
 name: Update EPG XMLTV
 
 on:
-  schedule:
-    - cron: '0 5 * * *' # Every day at 05:00 UTC
-  workflow_dispatch:
+    schedule:
+        - cron: '0 5 * * *' # Every day at 05:00 UTC
+    workflow_dispatch:
 
 jobs:
-  update-epg:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    update-epg:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Check PAT secret
+              run: |
+                  if [ -z "${{ secrets.PAT }}" ]; then
+                    echo "::error::PAT secret is not set. Please add a repository secret named 'PAT' with your Personal Access Token."
+                    exit 1
+                  else
+                    echo "PAT secret is set."
+                  fi
+            - name: Checkout repository
+              uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests lxml
+            - name: Install dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install requests lxml
 
-      - name: Generate EPG XMLTV
-        run: |
-          python extract_selected_channel_ids.py
-          python epg_to_xmltv.py
+            - name: Generate EPG XMLTV
+              run: |
+                  python extract_selected_channel_ids.py
+                  python epg_to_xmltv.py
 
-      - name: Commit and push EPG XMLTV
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
-          git commit -m "Update EPG XMLTV [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git
-          git push
+            - name: Commit and push EPG XMLTV
+              run: |
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                  git add epg.xml
+                  git commit -m "Update EPG XMLTV [skip ci]" || echo "No changes to commit"
+                  git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git
+                  git push
 
-      - name: Upload epg.xml as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: epg-xmltv
-          path: epg.xml
+            - name: Upload epg.xml as artifact
+              uses: actions/upload-artifact@v4
+              with:
+                  name: epg-xmltv
+                  path: epg.xml
