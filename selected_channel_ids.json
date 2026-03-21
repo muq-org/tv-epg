@@ -1,59 +1,15 @@
 [
   {
-    "id": "399",
-    "name": "SRF 1"
-  },
-  {
-    "id": "401",
-    "name": "SRF zwei"
-  },
-  {
-    "id": "400",
-    "name": "SRF info"
-  },
-  {
-    "id": "585",
-    "name": "TeleZüri"
-  },
-  {
-    "id": "572",
-    "name": "Tele Bärn"
-  },
-  {
-    "id": "634",
-    "name": "TV24"
-  },
-  {
     "id": "4",
     "name": "3+"
   },
   {
-    "id": "25",
-    "name": "Das Erste"
-  },
-  {
-    "id": "656",
-    "name": "ZDF"
-  },
-  {
-    "id": "322",
-    "name": "ProSieben"
-  },
-  {
-    "id": "360",
-    "name": "RTL"
-  },
-  {
-    "id": "359",
-    "name": "RTL ZWEI"
-  },
-  {
-    "id": "375",
-    "name": "SAT.1"
-  },
-  {
     "id": "6",
     "name": "3sat"
+  },
+  {
+    "id": "25",
+    "name": "Das Erste"
   },
   {
     "id": "27",
@@ -64,36 +20,8 @@
     "name": "Kabel eins"
   },
   {
-    "id": "651",
-    "name": "VOX"
-  },
-  {
-    "id": "654",
-    "name": "WDR"
-  },
-  {
-    "id": "414",
-    "name": "SWR"
-  },
-  {
-    "id": "381",
-    "name": "Servus TV"
-  },
-  {
-    "id": "1380",
-    "name": "Antenna 3"
-  },
-  {
-    "id": "367",
-    "name": "RTS 2"
-  },
-  {
-    "id": "356",
-    "name": "RSI LA 1"
-  },
-  {
-    "id": "357",
-    "name": "RSI LA 2"
+    "id": "322",
+    "name": "ProSieben"
   },
   {
     "id": "327",
@@ -112,88 +40,48 @@
     "name": "Rai 4"
   },
   {
-    "id": "1064",
-    "name": "Sky Bundesliga 1"
+    "id": "356",
+    "name": "RSI LA 1"
   },
   {
-    "id": "1572",
-    "name": "Sky Bundesliga 2"
+    "id": "357",
+    "name": "RSI LA 2"
   },
   {
-    "id": "1573",
-    "name": "Sky Bundesliga 3"
+    "id": "359",
+    "name": "RTL ZWEI"
   },
   {
-    "id": "1574",
-    "name": "Sky Bundesliga 4"
+    "id": "360",
+    "name": "RTL"
   },
   {
-    "id": "1576",
-    "name": "Sky Bundesliga 5"
+    "id": "375",
+    "name": "SAT.1"
   },
   {
-    "id": "1577",
-    "name": "Sky Bundesliga 6"
-  },
-  {
-    "id": "1578",
-    "name": "Sky Bundesliga 7"
-  },
-  {
-    "id": "1579",
-    "name": "Sky Bundesliga 8"
-  },
-  {
-    "id": "1580",
-    "name": "Sky Bundesliga 9"
-  },
-  {
-    "id": "1581",
-    "name": "Sky Bundesliga 10"
-  },
-  {
-    "id": "1962",
-    "name": "Sky Sport Bundesliga"
-  },
-  {
-    "id": "1959",
-    "name": "Sky Sport Golf"
-  },
-  {
-    "id": "1598",
-    "name": "Sky Sport 1 D"
-  },
-  {
-    "id": "1608",
-    "name": "Sky Sport 2 D"
-  },
-  {
-    "id": "1276",
-    "name": "Sky News International"
+    "id": "381",
+    "name": "Servus TV"
   },
   {
     "id": "392",
     "name": "Sky Sport 2"
   },
   {
-    "id": "3456",
-    "name": "Sky Sport 1"
+    "id": "399",
+    "name": "SRF 1"
   },
   {
-    "id": "3660",
-    "name": "Sky Sport News"
+    "id": "400",
+    "name": "SRF info"
   },
   {
-    "id": "591",
-    "name": "blue Action"
+    "id": "401",
+    "name": "SRF zwei"
   },
   {
-    "id": "589",
-    "name": "blue Stars"
-  },
-  {
-    "id": "1226",
-    "name": "blue Retro"
+    "id": "414",
+    "name": "SWR"
   },
   {
     "id": "483",
@@ -202,10 +90,6 @@
   {
     "id": "494",
     "name": "blue Sport D 2"
-  },
-  {
-    "id": "663",
-    "name": "blue Sport 1 Live"
   },
   {
     "id": "511",
@@ -222,6 +106,58 @@
   {
     "id": "514",
     "name": "blue Sport 5 Live"
+  },
+  {
+    "id": "572",
+    "name": "Tele Bärn"
+  },
+  {
+    "id": "585",
+    "name": "TeleZüri"
+  },
+  {
+    "id": "589",
+    "name": "blue Stars"
+  },
+  {
+    "id": "591",
+    "name": "blue Action"
+  },
+  {
+    "id": "634",
+    "name": "TV24"
+  },
+  {
+    "id": "651",
+    "name": "VOX"
+  },
+  {
+    "id": "654",
+    "name": "WDR"
+  },
+  {
+    "id": "656",
+    "name": "ZDF"
+  },
+  {
+    "id": "663",
+    "name": "blue Sport 1 Live"
+  },
+  {
+    "id": "1064",
+    "name": "Sky Bundesliga 1"
+  },
+  {
+    "id": "1226",
+    "name": "blue Retro"
+  },
+  {
+    "id": "1276",
+    "name": "Sky News International"
+  },
+  {
+    "id": "1380",
+    "name": "Antenna 3"
   },
   {
     "id": "1543",
@@ -260,11 +196,71 @@
     "name": "MySports 9 D"
   },
   {
+    "id": "1572",
+    "name": "Sky Bundesliga 2"
+  },
+  {
+    "id": "1573",
+    "name": "Sky Bundesliga 3"
+  },
+  {
+    "id": "1574",
+    "name": "Sky Bundesliga 4"
+  },
+  {
+    "id": "1576",
+    "name": "Sky Bundesliga 5"
+  },
+  {
+    "id": "1577",
+    "name": "Sky Bundesliga 6"
+  },
+  {
+    "id": "1578",
+    "name": "Sky Bundesliga 7"
+  },
+  {
+    "id": "1579",
+    "name": "Sky Bundesliga 8"
+  },
+  {
+    "id": "1580",
+    "name": "Sky Bundesliga 9"
+  },
+  {
+    "id": "1581",
+    "name": "Sky Bundesliga 10"
+  },
+  {
+    "id": "1598",
+    "name": "Sky Sport 1 D"
+  },
+  {
+    "id": "1608",
+    "name": "Sky Sport 2 D"
+  },
+  {
     "id": "1722",
     "name": "MySports EDGE"
   },
   {
     "id": "1944",
     "name": "MySports Uno I"
+  },
+  {
+    "id": "1959",
+    "name": "Sky Sport Golf"
+  },
+  {
+    "id": "1962",
+    "name": "Sky Sport Bundesliga"
+  },
+  {
+    "id": "3456",
+    "name": "Sky Sport 1"
+  },
+  {
+    "id": "3660",
+    "name": "Sky Sport News"
   }
 ]
