@@ -1,294 +1,367 @@
 [
   {
-    "id": "4",
+    "api-id": "4",
+    "epg-id": "3+.ch",
     "name": "3+"
   },
   {
-    "id": "6",
+    "api-id": "6",
+    "epg-id": "3sat.de",
     "name": "3sat"
   },
   {
-    "id": "14",
+    "api-id": "14",
+    "epg-id": "aljazeera.com",
     "name": "Al Jazeera"
   },
   {
-    "id": "25",
+    "api-id": "25",
+    "epg-id": "daserstehd.de",
     "name": "Das Erste"
   },
   {
-    "id": "27",
+    "api-id": "27",
+    "epg-id": "arte.fr",
     "name": "Arte Deutsch"
   },
   {
-    "id": "106",
+    "api-id": "106",
+    "epg-id": "CNBC.uk",
     "name": "CNBC UK"
   },
   {
-    "id": "107",
+    "api-id": "107",
+    "epg-id": "cnn.uk",
     "name": "CNN"
   },
   {
-    "id": "167",
+    "api-id": "167",
+    "epg-id": "eurosport1.de",
     "name": "Eurosport 1 D"
   },
   {
-    "id": "170",
+    "api-id": "170",
+    "epg-id": "Eurosport 2 D.ch",
     "name": "Eurosport 2 D"
   },
   {
-    "id": "217",
+    "api-id": "217",
+    "epg-id": "itele.fr",
     "name": "CNEWS"
   },
   {
-    "id": "226",
+    "api-id": "226",
+    "epg-id": "kabel1.de",
     "name": "Kabel eins"
   },
   {
-    "id": "277",
+    "api-id": "277",
+    "epg-id": "welt.de",
     "name": "WELT"
   },
   {
-    "id": "297",
+    "api-id": "297",
+    "epg-id": "ntv.de",
     "name": "n-tv"
   },
   {
-    "id": "307",
+    "api-id": "307",
+    "epg-id": "phoenix.de",
     "name": "Phoenix TV"
   },
   {
-    "id": "322",
+    "api-id": "322",
+    "epg-id": "pro7.de",
     "name": "ProSieben"
   },
   {
-    "id": "327",
+    "api-id": "327",
+    "epg-id": "Rai1.it",
     "name": "Rai 1"
   },
   {
-    "id": "328",
+    "api-id": "328",
+    "epg-id": "Rai2.it",
     "name": "Rai 2"
   },
   {
-    "id": "329",
+    "api-id": "329",
+    "epg-id": "Rai3.it",
     "name": "Rai 3"
   },
   {
-    "id": "330",
+    "api-id": "330",
+    "epg-id": "Rai 4.ch",
     "name": "Rai 4"
   },
   {
-    "id": "339",
+    "api-id": "339",
+    "epg-id": "Raisport1.it",
     "name": "Rai Sport"
   },
   {
-    "id": "356",
+    "api-id": "356",
+    "epg-id": "RSILa1.ch",
     "name": "RSI LA 1"
   },
   {
-    "id": "357",
+    "api-id": "357",
+    "epg-id": "RSILa2.ch",
     "name": "RSI LA 2"
   },
   {
-    "id": "359",
+    "api-id": "359",
+    "epg-id": "rtl2.de",
     "name": "RTL ZWEI"
   },
   {
-    "id": "360",
+    "api-id": "360",
+    "epg-id": "rtl.de",
     "name": "RTL"
   },
   {
-    "id": "375",
+    "api-id": "375",
+    "epg-id": "sat1.de",
     "name": "SAT.1"
   },
   {
-    "id": "381",
+    "api-id": "381",
+    "epg-id": "servustv.de",
     "name": "Servus TV"
   },
   {
-    "id": "392",
+    "api-id": "392",
+    "epg-id": "Sky Sport 2.ch",
     "name": "Sky Sport 2"
   },
   {
-    "id": "399",
+    "api-id": "399",
+    "epg-id": "SRF1.ch",
     "name": "SRF 1"
   },
   {
-    "id": "400",
+    "api-id": "400",
+    "epg-id": "SRFinfo.ch",
     "name": "SRF info"
   },
   {
-    "id": "401",
+    "api-id": "401",
+    "epg-id": "SRF zwei.ch",
     "name": "SRF zwei"
   },
   {
-    "id": "414",
+    "api-id": "414",
+    "epg-id": "swr.de",
     "name": "SWR"
   },
   {
-    "id": "483",
+    "api-id": "483",
+    "epg-id": "blue Sport D 1.ch",
     "name": "blue Sport D 1"
   },
   {
-    "id": "494",
+    "api-id": "494",
+    "epg-id": "blue Sport D 2.ch",
     "name": "blue Sport D 2"
   },
   {
-    "id": "511",
+    "api-id": "511",
+    "epg-id": "blue Sport 2 Live.ch",
     "name": "blue Sport 2 Live"
   },
   {
-    "id": "512",
+    "api-id": "512",
+    "epg-id": "blue Sport 3 Live.ch",
     "name": "blue Sport 3 Live"
   },
   {
-    "id": "513",
+    "api-id": "513",
+    "epg-id": "blue Sport 4 Live.ch",
     "name": "blue Sport 4 Live"
   },
   {
-    "id": "514",
+    "api-id": "514",
+    "epg-id": "blue Sport 5 Live.ch",
     "name": "blue Sport 5 Live"
   },
   {
-    "id": "572",
+    "api-id": "572",
+    "epg-id": "telebaern.ch",
     "name": "Tele Bärn"
   },
   {
-    "id": "585",
+    "api-id": "585",
+    "epg-id": "TeleZüri.ch",
     "name": "TeleZüri"
   },
   {
-    "id": "634",
+    "api-id": "634",
+    "epg-id": "tv24.ch",
     "name": "TV24"
   },
   {
-    "id": "651",
+    "api-id": "651",
+    "epg-id": "vox.de",
     "name": "VOX"
   },
   {
-    "id": "654",
+    "api-id": "654",
+    "epg-id": "wdrhd.de",
     "name": "WDR"
   },
   {
-    "id": "656",
+    "api-id": "656",
+    "epg-id": "zdf.de",
     "name": "ZDF"
   },
   {
-    "id": "663",
+    "api-id": "663",
+    "epg-id": "blue Sport 1 Live.ch",
     "name": "blue Sport 1 Live"
   },
   {
-    "id": "1276",
+    "api-id": "1276",
+    "epg-id": "skynews.uk",
     "name": "Sky News International"
   },
   {
-    "id": "1380",
+    "api-id": "1380",
+    "epg-id": "Antenna 3.ch",
     "name": "Antenna 3"
   },
   {
-    "id": "1543",
+    "api-id": "1543",
+    "epg-id": "MySports Eins.ch",
     "name": "MySports Eins"
   },
   {
-    "id": "1544",
+    "api-id": "1544",
+    "epg-id": "MySports 2 D.ch",
     "name": "MySports 2 D"
   },
   {
-    "id": "1545",
+    "api-id": "1545",
+    "epg-id": "MySports 3 D.ch",
     "name": "MySports 3 D"
   },
   {
-    "id": "1546",
+    "api-id": "1546",
+    "epg-id": "MySports 4 D.ch",
     "name": "MySports 4 D"
   },
   {
-    "id": "1547",
+    "api-id": "1547",
+    "epg-id": "MySports 5 D.ch",
     "name": "MySports 5 D"
   },
   {
-    "id": "1548",
+    "api-id": "1548",
+    "epg-id": "MySports 6 D.ch",
     "name": "MySports 6 D"
   },
   {
-    "id": "1549",
+    "api-id": "1549",
+    "epg-id": "MySports 7 D.ch",
     "name": "MySports 7 D"
   },
   {
-    "id": "1550",
+    "api-id": "1550",
+    "epg-id": "MySports 8 D.ch",
     "name": "MySports 8 D"
   },
   {
-    "id": "1551",
+    "api-id": "1551",
+    "epg-id": "MySports 9 D.ch",
     "name": "MySports 9 D"
   },
   {
-    "id": "1572",
+    "api-id": "1572",
+    "epg-id": "Sky Bundesliga 2.ch",
     "name": "Sky Bundesliga 2"
   },
   {
-    "id": "1573",
+    "api-id": "1573",
+    "epg-id": "Sky Bundesliga 3.ch",
     "name": "Sky Bundesliga 3"
   },
   {
-    "id": "1574",
+    "api-id": "1574",
+    "epg-id": "Sky Bundesliga 4.ch",
     "name": "Sky Bundesliga 4"
   },
   {
-    "id": "1576",
+    "api-id": "1576",
+    "epg-id": "Sky Bundesliga 5.ch",
     "name": "Sky Bundesliga 5"
   },
   {
-    "id": "1577",
+    "api-id": "1577",
+    "epg-id": "Sky Bundesliga 6.ch",
     "name": "Sky Bundesliga 6"
   },
   {
-    "id": "1578",
+    "api-id": "1578",
+    "epg-id": "Sky Bundesliga 7.ch",
     "name": "Sky Bundesliga 7"
   },
   {
-    "id": "1579",
+    "api-id": "1579",
+    "epg-id": "Sky Bundesliga 8.ch",
     "name": "Sky Bundesliga 8"
   },
   {
-    "id": "1580",
+    "api-id": "1580",
+    "epg-id": "Sky Bundesliga 9.ch",
     "name": "Sky Bundesliga 9"
   },
   {
-    "id": "1581",
+    "api-id": "1581",
+    "epg-id": "Sky Bundesliga 10.ch",
     "name": "Sky Bundesliga 10"
   },
   {
-    "id": "1591",
+    "api-id": "1591",
+    "epg-id": "Sky Bundesliga 1.ch",
     "name": "Sky Bundesliga 1"
   },
   {
-    "id": "1598",
+    "api-id": "1598",
+    "epg-id": "Sky Sport 1 D.ch",
     "name": "Sky Sport 1 D"
   },
   {
-    "id": "1608",
+    "api-id": "1608",
+    "epg-id": "Sky Sport 2 D.ch",
     "name": "Sky Sport 2 D"
   },
   {
-    "id": "1722",
+    "api-id": "1722",
+    "epg-id": "MySports EDGE.ch",
     "name": "MySports EDGE"
   },
   {
-    "id": "1944",
+    "api-id": "1944",
+    "epg-id": "MySports Uno I.ch",
     "name": "MySports Uno I"
   },
   {
-    "id": "1959",
+    "api-id": "1959",
+    "epg-id": "Sky Sport Golf.ch",
     "name": "Sky Sport Golf"
   },
   {
-    "id": "1962",
+    "api-id": "1962",
+    "epg-id": "Sky Sport Bundesliga.ch",
     "name": "Sky Sport Bundesliga"
   },
   {
-    "id": "3456",
+    "api-id": "3456",
+    "epg-id": "Sky Sport 1.ch",
     "name": "Sky Sport 1"
   },
   {
-    "id": "3660",
+    "api-id": "3660",
+    "epg-id": "Sky Sport News.ch",
     "name": "Sky Sport News"
   }
 ]

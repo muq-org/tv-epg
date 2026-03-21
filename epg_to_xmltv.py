@@ -31,7 +31,7 @@ def fetch_epg_data(channel_ids, start, end):
     return response.json()
 
 # --- CONVERT TO XMLTV ---
-def to_xmltv(epg_data):
+def to_xmltv(epg_data, epg_id_map):
     tv = etree.Element('tv')
     nodes = epg_data.get('Nodes', {}).get('Items', [])
     for channel in nodes:
@@ -39,9 +39,8 @@ def to_xmltv(epg_data):
             continue
         chan_id = channel.get('Identifier')
         chan_title = channel.get('Content', {}).get('Description', {}).get('Title', f"Channel {chan_id}")
-        # Use readable channel id (e.g., 'blue Zoom D.ch'), fallback to API id if missing
-        readable_id = f"{chan_title}.ch" if chan_title else str(chan_id)
-        chan_elem = etree.SubElement(tv, 'channel', id=readable_id, **{'api-id': str(chan_id)})
+        epg_id = epg_id_map.get(str(chan_id), f"{chan_title}.ch")
+        chan_elem = etree.SubElement(tv, 'channel', id=epg_id, **{'api-id': str(chan_id)})
         etree.SubElement(chan_elem, 'display-name').text = chan_title
         # Programs/Broadcasts
         broadcasts = channel.get('Content', {}).get('Nodes', {}).get('Items', [])
@@ -63,7 +62,7 @@ def to_xmltv(epg_data):
             prog_elem = etree.SubElement(tv, 'programme', {
                 'start': format_xmltv_time(start),
                 'stop': format_xmltv_time(stop),
-                'channel': readable_id,
+                'channel': epg_id,
                 'api-channel-id': str(chan_id)
             })
             etree.SubElement(prog_elem, 'title').text = title
@@ -99,11 +98,8 @@ def main():
         raise RuntimeError("selected_channel_ids.json not found. Run extract_selected_channel_ids.py first.")
     with open('selected_channel_ids.json') as f:
         channel_data = json.load(f)
-        # Support both list of strings and list of dicts with 'id'
-        if channel_data and isinstance(channel_data[0], dict):
-            channel_ids = [c['id'] for c in channel_data]
-        else:
-            channel_ids = channel_data
+        channel_ids = [c['api-id'] for c in channel_data]
+        epg_id_map = {c['api-id']: c['epg-id'] for c in channel_data}
     # Set time window (example: next 24h from now)
     import datetime as dt
     now = dt.datetime.utcnow()
@@ -125,7 +121,7 @@ def main():
         interval_start = interval_end
     # Merge all nodes into a single epg_data structure
     merged_epg_data = {'Nodes': {'Items': all_epg_nodes}}
-    xmltv = to_xmltv(merged_epg_data)
+    xmltv = to_xmltv(merged_epg_data, epg_id_map)
     with open('epg.xml', 'wb') as f:
         f.write(xmltv)
     print("EPG XMLTV data written to epg.xml")
