@@ -1,11 +1,11 @@
 import json
 
-with open('all_channels.json') as f:
+with open('config/all_channels.json') as f:
     all_channels = json.load(f)
 
 name_by_id = {c['id']: c['name'] for c in all_channels}
 
-with open('selected_channel_ids.json') as f:
+with open('config/selected_channel_ids.json') as f:
     selected = json.load(f)
 
 updated = 0
@@ -17,7 +17,7 @@ for channel in selected:
         channel['name'] = new_name
         updated += 1
 
-with open('selected_channel_ids.json', 'w') as f:
+with open('config/selected_channel_ids.json', 'w') as f:
     json.dump(selected, f, indent=2, ensure_ascii=False)
     f.write('\n')
 

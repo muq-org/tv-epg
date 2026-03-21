@@ -8,7 +8,7 @@
 			"args": [
 				"run",
 				"python",
-				"epg_to_xmltv.py"
+				"src/epg_to_xmltv.py"
 			],
 			"isBackground": false,
 			"problemMatcher": [],

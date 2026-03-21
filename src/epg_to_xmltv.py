@@ -91,9 +91,9 @@ def format_xmltv_time(dt_str):
 # --- MAIN ---
 def main():
     # Load selected channel IDs
-    if not os.path.exists('selected_channel_ids.json'):
-        raise RuntimeError("selected_channel_ids.json not found. Run extract_selected_channel_ids.py first.")
-    with open('selected_channel_ids.json') as f:
+    if not os.path.exists('config/selected_channel_ids.json'):
+        raise RuntimeError("config/selected_channel_ids.json not found.")
+    with open('config/selected_channel_ids.json') as f:
         channel_data = json.load(f)
         channel_ids = [c['api-id'] for c in channel_data]
         epg_id_map = {c['api-id']: c['epg-id'] for c in channel_data}

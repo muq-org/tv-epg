@@ -25,12 +25,12 @@ jobs:
               uses: astral-sh/setup-uv@v7.6.0
 
             - name: Generate EPG XMLTV
-              run: uv run python epg_to_xmltv.py
+              run: uv run python src/epg_to_xmltv.py
 
             - name: Stage files for Pages
               run: |
                   mkdir _site
-                  cp index.html epg.xml _site/
+                  cp site/index.html epg.xml _site/
 
             - name: Upload Pages artifact
               uses: actions/upload-pages-artifact@v4
