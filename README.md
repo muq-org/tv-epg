@@ -1,11 +1,10 @@
 # MUQ tv epg
 
-This project fetches EPG data from a specified API endpoint and converts it to the standard XMLTV format for use with Dispatcharr.
+This project fetches EPG data from a specified API endpoint and converts it to the standard XMLTV format.
 
 ## Features
 - Fetches EPG data from a JSON API
 - Converts data to XMLTV format
-- Designed for easy integration with Dispatcharr
 
 ## Requirements
 - Python 3.8+
