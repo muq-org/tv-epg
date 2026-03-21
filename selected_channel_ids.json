@@ -383,5 +383,45 @@
     "api-id": "3660",
     "epg-id": "Sky Sport News.de",
     "name": "Sky Sport News"
+  },
+  {
+    "api-id": "37",
+    "epg-id": "bbc1.uk",
+    "name": "BBC One"
+  },
+  {
+    "api-id": "39",
+    "epg-id": "bbc2.uk",
+    "name": "BBC Two"
+  },
+  {
+    "api-id": "35",
+    "epg-id": "bbc4cbeebies.uk",
+    "name": "BBC Four"
+  },
+  {
+    "api-id": "85",
+    "epg-id": "bbc3cbbc.uk",
+    "name": "BBC Three / CBBC"
+  },
+  {
+    "api-id": "36",
+    "epg-id": "BBC News.uk",
+    "name": "BBC News"
+  },
+  {
+    "api-id": "40",
+    "epg-id": "bbcworld.uk",
+    "name": "BBC World News"
+  },
+  {
+    "api-id": "1397",
+    "epg-id": "BBC Parliament.uk",
+    "name": "BBC Parliament"
+  },
+  {
+    "api-id": "34",
+    "epg-id": "BBC Entertainment.uk",
+    "name": "BBC Entertainment"
   }
 ]
