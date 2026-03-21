@@ -66,6 +66,21 @@ def to_xmltv(epg_data):
             etree.SubElement(prog_elem, 'title').text = title
             if subtitle:
                 etree.SubElement(prog_elem, 'sub-title').text = subtitle
+            # Add <icon> for programme image if available
+            images = prog_content.get('Nodes', {}).get('Items', [])
+            image_url = None
+            # Prefer 'Stage' image, else first image
+            for img in images:
+                if img.get('Kind') == 'Image' and img.get('Role') == 'Stage' and img.get('ContentPath'):
+                    image_url = f"https://services.sg101.prd.sctv.ch/content/images/{img['ContentPath']}_w1920.webp"
+                    break
+            if not image_url:
+                for img in images:
+                    if img.get('Kind') == 'Image' and img.get('ContentPath'):
+                        image_url = f"https://services.sg101.prd.sctv.ch/content/images/{img['ContentPath']}_w1920.webp"
+                        break
+            if image_url:
+                etree.SubElement(prog_elem, 'icon', {'src': image_url})
             # Optionally add more fields (desc, etc.)
     return etree.tostring(tv, pretty_print=True, xml_declaration=True, encoding='UTF-8')
 
