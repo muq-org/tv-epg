@@ -1,4 +1,4 @@
-# blue tv epg
+# MUQ tv epg
 
 This project fetches EPG data from a specified API endpoint and converts it to the standard XMLTV format for use with Dispatcharr.
 
