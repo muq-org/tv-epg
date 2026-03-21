@@ -7,7 +7,7 @@ This project fetches EPG data from a specified API endpoint and converts it to t
 - Converts data to XMLTV format
 
 ## Requirements
-- Python 3.8+
+- Python 3.11+
 - [uv](https://github.com/astral-sh/uv) for dependency management
 
 ## Usage
@@ -19,7 +19,8 @@ uv run epg_to_xmltv.py
 ```
 
 ## Configuration
-- Update the API endpoint and authentication headers in `epg_to_xmltv.py` as needed.
+- Update the channel selection in `selected_channel_ids.json`.
+- Update the API endpoint in `epg_to_xmltv.py` if needed.
 
 ## License
 MIT
