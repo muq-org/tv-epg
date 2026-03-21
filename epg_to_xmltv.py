@@ -39,7 +39,9 @@ def to_xmltv(epg_data):
             continue
         chan_id = channel.get('Identifier')
         chan_title = channel.get('Content', {}).get('Description', {}).get('Title', f"Channel {chan_id}")
-        chan_elem = etree.SubElement(tv, 'channel', id=str(chan_id))
+        # Use readable channel id (e.g., 'blue Zoom D.ch'), fallback to API id if missing
+        readable_id = f"{chan_title}.ch" if chan_title else str(chan_id)
+        chan_elem = etree.SubElement(tv, 'channel', id=readable_id, **{'api-id': str(chan_id)})
         etree.SubElement(chan_elem, 'display-name').text = chan_title
         # Programs/Broadcasts
         broadcasts = channel.get('Content', {}).get('Nodes', {}).get('Items', [])
@@ -61,7 +63,8 @@ def to_xmltv(epg_data):
             prog_elem = etree.SubElement(tv, 'programme', {
                 'start': format_xmltv_time(start),
                 'stop': format_xmltv_time(stop),
-                'channel': str(chan_id)
+                'channel': readable_id,
+                'api-channel-id': str(chan_id)
             })
             etree.SubElement(prog_elem, 'title').text = title
             if subtitle:
