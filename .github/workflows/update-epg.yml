@@ -24,7 +24,6 @@ jobs:
 
             - name: Generate EPG XMLTV
               run: |
-                  python extract_selected_channel_ids.py
                   python epg_to_xmltv.py
 
             - name: Commit and push EPG XMLTV
