@@ -453,5 +453,10 @@
     "api-id": "178",
     "epg-id": "channel5.uk",
     "name": "Channel 5"
+  },
+  {
+    "api-id": "398",
+    "epg-id": "sport1.de",
+    "name": "Sport1"
   }
 ]
