@@ -1,3 +1,4 @@
+import secrets
 import requests
 from lxml import etree
 import datetime
@@ -19,7 +20,7 @@ HEADERS = {
 }
 
 # The API checks for the presence of JSESSIONID but does not validate its value.
-COOKIES = {'JSESSIONID': 'tvepg'}
+COOKIES = {'JSESSIONID': secrets.token_hex(16)}
 
 
 def fetch_channels() -> list:
