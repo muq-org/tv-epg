@@ -3,6 +3,7 @@ from lxml import etree
 import datetime
 import json
 import os
+from xmltv_utils import format_xmltv_time, write_xmltv
 
 # --- CONFIGURATION ---
 API_URL_TEMPLATE = "https://services.sg101.prd.sctv.ch/catalog/tv/channels/list/(end={end};ids={ids};level=minimal;start={start})"
@@ -81,12 +82,7 @@ def to_xmltv(epg_data, epg_id_map):
             if image_url:
                 etree.SubElement(prog_elem, 'icon', {'src': image_url})
             # Optionally add more fields (desc, etc.)
-    return etree.tostring(tv, pretty_print=True, xml_declaration=True, encoding='UTF-8')
-
-def format_xmltv_time(dt_str):
-    # expects ISO8601, returns XMLTV format: YYYYMMDDHHMMSS + 00 offset
-    dt = datetime.datetime.fromisoformat(dt_str.replace('Z', '+00:00'))
-    return dt.strftime('%Y%m%d%H%M%S +0000')
+    return tv
 
 # --- MAIN ---
 def main():
@@ -118,9 +114,8 @@ def main():
         interval_start = interval_end
     # Merge all nodes into a single epg_data structure
     merged_epg_data = {'Nodes': {'Items': all_epg_nodes}}
-    xmltv = to_xmltv(merged_epg_data, epg_id_map)
-    with open('epg.xml', 'wb') as f:
-        f.write(xmltv)
+    tv = to_xmltv(merged_epg_data, epg_id_map)
+    write_xmltv(tv, 'epg.xml')
     print("EPG XMLTV data written to epg.xml")
 
 if __name__ == "__main__":
