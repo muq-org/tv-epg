@@ -1,4 +1,5 @@
 """Validates generated EPG XML files for basic sanity."""
+import os
 import sys
 from lxml import etree
 
@@ -10,6 +11,9 @@ CHECKS = [
 
 errors = []
 for path, limits in CHECKS:
+    if not os.path.exists(path):
+        print(f"WARNING: {path} not found — scraper may have failed, skipping")
+        continue
     try:
         root = etree.parse(path).getroot()
     except Exception as e:

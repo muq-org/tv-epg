@@ -7,6 +7,8 @@ on:
 jobs:
     verify:
         runs-on: ubuntu-latest
+        env:
+            FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
@@ -18,18 +20,25 @@ jobs:
               run: uv run pytest tests/ -v -m "not integration"
 
             - name: Generate Swiss provider EPG
+              id: swiss
+              continue-on-error: true
               run: uv run python src/epg_to_xmltv.py
 
             - name: Generate Sky.de EPG
+              id: sky
+              continue-on-error: true
               run: uv run python src/epg_sky_to_xmltv.py
 
             - name: Generate DAZN EPG
+              id: dazn
+              continue-on-error: true
               run: uv run python src/epg_dazn_to_xmltv.py
 
             - name: Validate EPG outputs
               run: uv run python src/validate_epg.py
 
             - name: Upload EPG artifacts
+              if: always()
               uses: actions/upload-artifact@v4
               with:
                   name: epg-output
@@ -37,3 +46,27 @@ jobs:
                       epg.xml
                       epg_sky.xml
                       epg_dazn.xml
+
+            - name: Report scraper results
+              if: always()
+              run: |
+                  swiss="${{ steps.swiss.outcome }}"
+                  sky="${{ steps.sky.outcome }}"
+                  dazn="${{ steps.dazn.outcome }}"
+
+                  icon() { [ "$1" = "success" ] && echo "✅" || echo "❌"; }
+
+                  {
+                    echo "## EPG Scraper Results"
+                    echo ""
+                    echo "| Source | Status |"
+                    echo "|--------|--------|"
+                    echo "| Swiss provider | $(icon $swiss) \`$swiss\` |"
+                    echo "| Sky.de | $(icon $sky) \`$sky\` |"
+                    echo "| DAZN | $(icon $dazn) \`$dazn\` |"
+                  } >> "$GITHUB_STEP_SUMMARY"
+
+                  if [ "$swiss" != "success" ] || [ "$sky" != "success" ] || [ "$dazn" != "success" ]; then
+                    echo "::error::One or more EPG scrapers failed — see job summary for details"
+                    exit 1
+                  fi
