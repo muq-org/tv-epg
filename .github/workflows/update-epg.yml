@@ -30,13 +30,16 @@ jobs:
             - name: Generate Sky EPG XMLTV
               run: uv run python src/epg_sky_to_xmltv.py
 
+            - name: Generate DAZN EPG XMLTV
+              run: uv run python src/epg_dazn_to_xmltv.py
+
             - name: Validate EPG outputs
               run: uv run python src/validate_epg.py
 
             - name: Stage files for Pages
               run: |
                   mkdir _site
-                  cp site/index.html epg.xml epg_sky.xml _site/
+                  cp site/index.html epg.xml epg_sky.xml epg_dazn.xml _site/
 
             - name: Upload Pages artifact
               uses: actions/upload-pages-artifact@v4

@@ -3,8 +3,9 @@ import sys
 from lxml import etree
 
 CHECKS = [
-    ('epg.xml',     {'min_channels': 50, 'min_programmes': 1000}),
-    ('epg_sky.xml', {'min_channels': 70, 'min_programmes': 2000}),
+    ('epg.xml',      {'min_channels': 50,  'min_programmes': 1000}),
+    ('epg_sky.xml',  {'min_channels': 70,  'min_programmes': 2000}),
+    ('epg_dazn.xml', {'min_channels': 10,  'min_programmes': 200}),
 ]
 
 errors = []
