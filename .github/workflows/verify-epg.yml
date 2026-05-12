@@ -23,6 +23,9 @@ jobs:
             - name: Generate Sky.de EPG
               run: uv run python src/epg_sky_to_xmltv.py
 
+            - name: Generate DAZN EPG
+              run: uv run python src/epg_dazn_to_xmltv.py
+
             - name: Validate EPG outputs
               run: uv run python src/validate_epg.py
 
@@ -33,3 +36,4 @@ jobs:
                   path: |
                       epg.xml
                       epg_sky.xml
+                      epg_dazn.xml
