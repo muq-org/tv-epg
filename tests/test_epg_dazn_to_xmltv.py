@@ -16,7 +16,7 @@ SAMPLE_TILES = [
                 'Start': '2026-05-12T07:15:00Z',
                 'End': '2026-05-12T09:15:00Z',
                 'Genre': [{'name': 'Soccer', 'MappedValue': [1]}],
-                'Image': {'Id': 'prog-img-001', 'ImageMimeType': 'jpg'},
+                'BackgroundImage': {'Id': 'prog-img-001', 'ImageMimeType': 'jpg'},
             },
             'Next': {
                 'Title': 'La Liga',
@@ -24,7 +24,7 @@ SAMPLE_TILES = [
                 'Start': '2026-05-12T09:15:00Z',
                 'End': '2026-05-12T11:15:00Z',
                 'Genre': [{'name': 'Soccer'}],
-                'Image': {'Id': 'prog-img-002', 'ImageMimeType': 'jpg'},
+                'BackgroundImage': {'Id': 'prog-img-002', 'ImageMimeType': 'jpg'},
             },
             'Later': [
                 {
@@ -33,7 +33,7 @@ SAMPLE_TILES = [
                     'Start': '2026-05-12T11:15:00Z',
                     'End': '2026-05-12T11:45:00Z',
                     'Genre': [{'name': 'Entertainment'}],
-                    'Image': None,
+                    'BackgroundImage': None,
                 },
             ],
         },
@@ -49,7 +49,7 @@ SAMPLE_TILES = [
                 'Start': '2026-05-12T08:00:00Z',
                 'End': '2026-05-12T09:00:00Z',
                 'Genre': [],
-                'Image': {'Id': 'prog-img-003', 'ImageMimeType': 'jpg'},
+                'BackgroundImage': {'Id': 'prog-img-003', 'ImageMimeType': 'jpg'},
             },
             'Next': None,
             'Later': [],
@@ -138,8 +138,8 @@ class TestToXmltvStructure:
         icon = progs[0].find('icon')
         assert icon is not None
         assert icon.get('src') == (
-            'https://image.discovery.indazn.com/eu/v3/eu/none/'
-            'prog-img-001/fill/none/top/none/80/668/374/webp/image?brand=dazn'
+            'https://image.discovery.indazn.com/eu/v3/linear-channel/none/'
+            'prog-img-001/fill/center/center/none/80/2160/1000/webp/image?brand=dazn'
         )
 
     def test_programme_icon_omitted_when_no_image(self):

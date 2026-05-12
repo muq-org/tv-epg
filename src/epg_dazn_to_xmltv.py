@@ -6,7 +6,7 @@ from xmltv_utils import slugify, format_xmltv_time, write_xmltv
 API_URL = "https://rail-router.discovery.indazn.com/eu/v10/Rail?platform=web&id=Livetvschedule&country=de&brand=dazn&languageCode=de"
 IMAGE_BASE = "https://image.discovery.indazn.com/eu/v3"
 LOGO_SUFFIX = "contain/center/center/none/80/136/112/png/image?brand=dazn"
-PROG_SUFFIX = "fill/none/top/none/80/668/374/webp/image?brand=dazn"
+PROG_SUFFIX = "fill/center/center/none/80/2160/1000/webp/image?brand=dazn"
 
 
 def logo_url(image_id: str) -> str:
@@ -14,7 +14,7 @@ def logo_url(image_id: str) -> str:
 
 
 def prog_url(image_id: str) -> str:
-    return f"{IMAGE_BASE}/eu/none/{image_id}/{PROG_SUFFIX}"
+    return f"{IMAGE_BASE}/linear-channel/none/{image_id}/{PROG_SUFFIX}"
 
 
 def fetch_tiles() -> list:
@@ -77,7 +77,7 @@ def to_xmltv(tiles: list):
             genres = prog.get('Genre') or []
             if genres and genres[0].get('name'):
                 etree.SubElement(prog_elem, 'category').text = genres[0]['name']
-            image = prog.get('Image') or {}
+            image = prog.get('BackgroundImage') or {}
             if image.get('Id'):
                 etree.SubElement(prog_elem, 'icon', src=prog_url(image['Id']))
 
