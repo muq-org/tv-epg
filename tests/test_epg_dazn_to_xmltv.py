@@ -108,22 +108,22 @@ class TestToXmltvStructure:
         assert now_prog.get('start') == '20260512071500 +0000'
         assert now_prog.get('stop') == '20260512091500 +0000'
 
-    def test_programme_title(self):
+    def test_programme_title_combines_episode_title(self):
         progs = self.tv.findall("programme[@channel='dazn-1.de']")
-        assert progs[0].find('title').text == 'Fußball: Bundesliga'
+        assert progs[0].find('title').text == 'Fußball: Bundesliga: VfB Stuttgart - Leverkusen'
 
-    def test_sub_title_when_different(self):
+    def test_programme_title_unchanged_when_no_episode_title(self):
         progs = self.tv.findall("programme[@channel='dazn-1.de']")
-        assert progs[0].find('sub-title').text == 'VfB Stuttgart - Leverkusen'
+        best_of = next(p for p in progs if 'Best of DAZN' in p.find('title').text)
+        assert best_of.find('title').text == 'Best of DAZN'
 
-    def test_sub_title_omitted_when_same_as_title(self):
+    def test_programme_title_unchanged_when_episode_title_same(self):
         prog = self.tv.find("programme[@channel='dazn-2.de']")
-        assert prog.find('sub-title') is None
+        assert prog.find('title').text == 'Same Title'
 
-    def test_sub_title_omitted_when_empty(self):
-        progs = self.tv.findall("programme[@channel='dazn-1.de']")
-        best_of = next(p for p in progs if p.find('title').text == 'Best of DAZN')
-        assert best_of.find('sub-title') is None
+    def test_no_sub_title_element(self):
+        for p in self.tv.findall('programme'):
+            assert p.find('sub-title') is None
 
     def test_category(self):
         progs = self.tv.findall("programme[@channel='dazn-1.de']")
