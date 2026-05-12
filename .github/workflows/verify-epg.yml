@@ -25,3 +25,11 @@ jobs:
 
             - name: Validate EPG outputs
               run: uv run python src/validate_epg.py
+
+            - name: Upload EPG artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  name: epg-output
+                  path: |
+                      epg.xml
+                      epg_sky.xml
