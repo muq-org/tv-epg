@@ -9,3 +9,14 @@ dependencies = [
 ]
 
 [tool.uv]
+
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+markers = [
+    "integration: calls live external APIs (deselect with -m 'not integration')",
+]

@@ -1,0 +1,35 @@
+name: Verify EPG Output
+
+on:
+    pull_request:
+        branches: [main]
+
+jobs:
+    verify:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Install uv
+              uses: astral-sh/setup-uv@v7.6.0
+
+            - name: Run unit tests
+              run: uv run pytest tests/ -v -m "not integration"
+
+            - name: Generate Swiss provider EPG
+              run: uv run python src/epg_to_xmltv.py
+
+            - name: Generate Sky.de EPG
+              run: uv run python src/epg_sky_to_xmltv.py
+
+            - name: Validate EPG outputs
+              run: uv run python src/validate_epg.py
+
+            - name: Upload EPG artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  name: epg-output
+                  path: |
+                      epg.xml
+                      epg_sky.xml
