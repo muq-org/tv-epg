@@ -6,8 +6,8 @@ Fetches TV schedule data from three sources and converts it to [XMLTV](http://wi
 
 | Feed | URL | Coverage |
 |---|---|---|
-| Swiss provider channels | `https://muq-org.github.io/tv-epg/epg.xml` | 2 days |
-| Sky.de channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` | 2 days |
+| Swiss provider channels | `https://muq-org.github.io/tv-epg/epg.xml` | 3 days |
+| Sky.de channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` | 3 days |
 | DAZN channels | `https://muq-org.github.io/tv-epg/epg_dazn.xml` | 3 days |
 
 Feeds are regenerated daily at 05:00 UTC via GitHub Actions and published to GitHub Pages.
