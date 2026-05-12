@@ -70,10 +70,11 @@ def to_xmltv(tiles: list):
                 'channel': epg_id,
                 'api-channel-id': asset_id,
             })
-            etree.SubElement(prog_elem, 'title').text = prog.get('Title', '')
+            title = prog.get('Title', '')
             episode_title = prog.get('EpisodeTitle', '')
-            if episode_title and episode_title != prog.get('Title'):
-                etree.SubElement(prog_elem, 'sub-title').text = episode_title
+            if episode_title and episode_title != title:
+                title = f'{title}: {episode_title}'
+            etree.SubElement(prog_elem, 'title').text = title
             genres = prog.get('Genre') or []
             if genres and genres[0].get('name'):
                 etree.SubElement(prog_elem, 'category').text = genres[0]['name']
