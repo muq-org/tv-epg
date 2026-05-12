@@ -1,22 +1,26 @@
 # MUQ TV EPG
 
-Fetches TV schedule data from two sources and converts it to [XMLTV](http://wiki.xmltv.org/index.php/XMLTVFormat) format for use with media centers like Kodi, Jellyfin, and Plex.
+Fetches TV schedule data from three sources and converts it to [XMLTV](http://wiki.xmltv.org/index.php/XMLTVFormat) format for use with media centers like Kodi, Jellyfin, and Plex.
 
 ## Public feeds
 
-| Feed | URL |
-|---|---|
-| Swiss provider channels | `https://muq-org.github.io/tv-epg/epg.xml` |
-| Sky.de channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` |
+| Feed | URL | Coverage |
+|---|---|---|
+| Swiss provider channels | `https://muq-org.github.io/tv-epg/epg.xml` | 2 days |
+| Sky.de channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` | 2 days |
+| DAZN channels | `https://muq-org.github.io/tv-epg/epg_dazn.xml` | 3 days |
 
-Both feeds cover today and tomorrow and are regenerated daily at 05:00 UTC via GitHub Actions.
+Feeds are regenerated daily at 05:00 UTC via GitHub Actions and published to GitHub Pages.
 
 ## Sources
 
-| Script | Source | Output |
-|---|---|---|
-| `src/epg_to_xmltv.py` | Swiss provider (Sunrise/Blue) | `epg.xml` |
-| `src/epg_sky_to_xmltv.py` | Sky.de (all 78 channels) | `epg_sky.xml` |
+| Script | Source | Channels | Output |
+|---|---|---|---|
+| `src/epg_to_xmltv.py` | Swiss provider (Sunrise/Blue) | configurable | `epg.xml` |
+| `src/epg_sky_to_xmltv.py` | Sky.de | all (~78) | `epg_sky.xml` |
+| `src/epg_dazn_to_xmltv.py` | DAZN (Germany) | all (~11) | `epg_dazn.xml` |
+
+The DAZN feed includes channel logo images and per-programme artwork.
 
 ## Requirements
 
@@ -31,6 +35,9 @@ uv run python src/epg_to_xmltv.py
 
 # Sky.de EPG
 uv run python src/epg_sky_to_xmltv.py
+
+# DAZN EPG
+uv run python src/epg_dazn_to_xmltv.py
 ```
 
 Output files are written to the repo root.
@@ -49,16 +56,16 @@ To discover available channels:
 uv run python src/list_channels.py
 ```
 
-The Sky.de feed always includes all available channels — no configuration needed.
+The Sky.de and DAZN feeds always include all available channels — no configuration needed.
 
 ## Testing
 
 ```sh
-# All tests (unit + integration — integration tests call the live Sky.de API)
-uv run pytest tests/ -v
-
 # Unit tests only (no network required)
 uv run pytest tests/ -v -m "not integration"
+
+# All tests including integration (calls live APIs)
+uv run pytest tests/ -v
 ```
 
 ## License
