@@ -139,7 +139,7 @@ class TestToXmltvStructure:
         assert icon is not None
         assert icon.get('src') == (
             'https://image.discovery.indazn.com/eu/v3/linear-channel/none/'
-            'prog-img-001/fill/center/center/none/80/2160/1000/webp/image?brand=dazn'
+            'prog-img-001/fill/center/center/none/80/1280/720/webp/image?brand=dazn'
         )
 
     def test_programme_icon_omitted_when_no_image(self):
