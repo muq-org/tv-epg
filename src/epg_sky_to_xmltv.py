@@ -102,7 +102,7 @@ def main():
     print(f"Found {len(channel_ids)} channels")
 
     broadcasts_by_ci: dict = {}
-    for day_offset in range(2):
+    for day_offset in range(3):
         day = today + datetime.timedelta(days=day_offset)
         date_ms = int(day.timestamp() * 1000)
         print(f"Fetching broadcasts for {day.date()}...")
