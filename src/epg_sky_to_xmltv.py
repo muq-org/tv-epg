@@ -86,7 +86,8 @@ def to_xmltv(channels: list, broadcasts_by_ci: dict):
             if ep.get('ec'):
                 etree.SubElement(prog_elem, 'category').text = ep['ec']
             if ep.get('pu'):
-                etree.SubElement(prog_elem, 'icon', src=f"{IMAGE_BASE}{ep['pu']}")
+                img_url = f"{IMAGE_BASE}{ep['pu']}".replace('_s.jpg', '_l.jpg')
+                etree.SubElement(prog_elem, 'icon', src=img_url)
 
     return tv
 
