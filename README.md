@@ -7,7 +7,7 @@ Fetches TV schedule data from three sources and converts it to [XMLTV](http://wi
 | Feed | URL | Coverage |
 |---|---|---|
 | Swiss provider channels | `https://muq-org.github.io/tv-epg/epg.xml` | 3 days |
-| Sky.de channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` | 3 days |
+| Sky Germany channels | `https://muq-org.github.io/tv-epg/epg_sky.xml` | 3 days |
 | DAZN channels | `https://muq-org.github.io/tv-epg/epg_dazn.xml` | 3 days |
 
 Feeds are regenerated daily at 05:00 UTC via GitHub Actions and published to GitHub Pages.
@@ -17,10 +17,12 @@ Feeds are regenerated daily at 05:00 UTC via GitHub Actions and published to Git
 | Script | Source | Channels | Output |
 |---|---|---|---|
 | `src/epg_to_xmltv.py` | Swiss provider (Sunrise/Blue) | configurable | `epg.xml` |
-| `src/epg_sky_to_xmltv.py` | Sky.de | all (~78) | `epg_sky.xml` |
+| `src/epg_sky_to_xmltv.py` | Sky Germany (Sky Q cloud EPG) | all (~336) | `epg_sky.xml` |
 | `src/epg_dazn_to_xmltv.py` | DAZN (Germany) | all (~11) | `epg_dazn.xml` |
 
-The DAZN feed includes channel logo images and per-programme artwork.
+The DAZN and Sky feeds include channel logo images and per-programme artwork.
+
+The Sky feed uses the Sky Q set-top-box cloud EPG (`atlantis.epgsky.com` / `awk.epgsky.com`), since Sky retired the public sky.de web TV guide in July 2026. It covers the full German Sky Q lineup including free-to-air channels.
 
 ## Requirements
 
@@ -33,7 +35,7 @@ The DAZN feed includes channel logo images and per-programme artwork.
 # Swiss provider EPG
 uv run python src/epg_to_xmltv.py
 
-# Sky.de EPG
+# Sky Germany EPG
 uv run python src/epg_sky_to_xmltv.py
 
 # DAZN EPG
@@ -56,7 +58,7 @@ To discover available channels:
 uv run python src/list_channels.py
 ```
 
-The Sky.de and DAZN feeds always include all available channels — no configuration needed.
+The Sky and DAZN feeds always include all available channels — no configuration needed.
 
 ## Testing
 

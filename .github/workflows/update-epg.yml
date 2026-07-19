@@ -74,7 +74,7 @@ jobs:
                     echo "| Source | Status |"
                     echo "|--------|--------|"
                     echo "| Swiss provider | $(icon $swiss) \`$swiss\` |"
-                    echo "| Sky.de | $(icon $sky) \`$sky\` |"
+                    echo "| Sky Germany | $(icon $sky) \`$sky\` |"
                     echo "| DAZN | $(icon $dazn) \`$dazn\` |"
                   } >> "$GITHUB_STEP_SUMMARY"
 

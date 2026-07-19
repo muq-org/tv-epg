@@ -24,7 +24,7 @@ jobs:
               continue-on-error: true
               run: uv run python src/epg_to_xmltv.py
 
-            - name: Generate Sky.de EPG
+            - name: Generate Sky Germany EPG
               id: sky
               continue-on-error: true
               run: uv run python src/epg_sky_to_xmltv.py
@@ -62,7 +62,7 @@ jobs:
                     echo "| Source | Status |"
                     echo "|--------|--------|"
                     echo "| Swiss provider | $(icon $swiss) \`$swiss\` |"
-                    echo "| Sky.de | $(icon $sky) \`$sky\` |"
+                    echo "| Sky Germany | $(icon $sky) \`$sky\` |"
                     echo "| DAZN | $(icon $dazn) \`$dazn\` |"
                   } >> "$GITHUB_STEP_SUMMARY"
 
