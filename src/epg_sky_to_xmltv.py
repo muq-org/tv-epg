@@ -1,119 +1,120 @@
-import secrets
 import requests
 from lxml import etree
 import datetime
 from zoneinfo import ZoneInfo
 from xmltv_utils import slugify, ms_to_xmltv_time, write_xmltv
 
-CHANNEL_LIST_URL = "https://www.sky.de/sgtvg/service/getChannelList"
-BROADCASTS_URL = "https://www.sky.de/sgtvg/service/getBroadcastsForGrid"
-IMAGE_BASE = "https://www.sky.de"
-BATCH_SIZE = 50
+# Sky retired the public sky.de web TV guide in July 2026. This scraper uses
+# the Sky Q set-top-box cloud EPG instead, which serves the same data to the
+# boxes themselves. Bouquet 4 / subbouquet 0 is the German satellite lineup.
+SERVICES_URL = "https://atlantis.epgsky.com/as/services/4/0"
+SCHEDULE_URL = "https://awk.epgsky.com/hawk/linear/schedule/{date}/{sids}"
+IMAGE_PARAMS = "territory=DE&provider=SKY&proposition=SKYQ"
+LOGO_URL = f"https://de.imageservice.sky.com/logo/skychb_{{sid}}{{name}}/600/600?{IMAGE_PARAMS}"
+PROGRAMME_IMAGE_URL = f"https://de.imageservice.sky.com/pd-image/{{uuid}}/16-9/1024?{IMAGE_PARAMS}"
+BATCH_SIZE = 20
 
 HEADERS = {
-    'accept': 'application/json, text/javascript, */*; q=0.01',
-    'content-type': 'application/json',
-    'origin': 'https://www.sky.de',
-    'referer': 'https://www.sky.de/tvguide-7599',
-    'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36',
-    'x-requested-with': 'XMLHttpRequest',
+    'accept': 'application/json',
+    'x-skyott-territory': 'DE',
+    'x-skyott-provider': 'SKY',
+    'x-skyott-proposition': 'SKYQ',
 }
-
-# The API checks for the presence of JSESSIONID but does not validate its value.
-COOKIES = {'JSESSIONID': secrets.token_hex(16)}
 
 
 def fetch_channels() -> list:
-    payload = {"dom": "de", "s": 2, "cat": "", "cpck": False, "fav": False, "feed": True, "pck": ""}
-    resp = requests.post(CHANNEL_LIST_URL, json=payload, headers=HEADERS, cookies=COOKIES)
+    resp = requests.get(SERVICES_URL, headers=HEADERS)
     resp.raise_for_status()
-    return resp.json()['cl']
+    return [s for s in resp.json()['services'] if s.get('schedule')]
 
 
-def fetch_broadcasts(channel_ids: list, date_ms: int) -> dict:
-    episodes_by_ci = {}
-    for i in range(0, len(channel_ids), BATCH_SIZE):
-        batch = channel_ids[i:i + BATCH_SIZE]
-        payload = {"d": date_ms, "cil": batch}
-        resp = requests.post(BROADCASTS_URL, json=payload, headers=HEADERS, cookies=COOKIES)
+def fetch_broadcasts(sids: list, date: datetime.date) -> dict:
+    events_by_sid = {}
+    for i in range(0, len(sids), BATCH_SIZE):
+        batch = sids[i:i + BATCH_SIZE]
+        url = SCHEDULE_URL.format(date=date.strftime('%Y%m%d'), sids=','.join(batch))
+        resp = requests.get(url, headers=HEADERS)
         resp.raise_for_status()
-        for ch in resp.json()['cl']:
-            ci = ch['ci']
-            if ci not in episodes_by_ci:
-                episodes_by_ci[ci] = []
-            episodes_by_ci[ci].extend(ch.get('el', []))
-    return episodes_by_ci
+        for ch in resp.json()['schedule']:
+            events_by_sid.setdefault(ch['sid'], []).extend(ch.get('events', []))
+    return events_by_sid
 
 
-def to_xmltv(channels: list, broadcasts_by_ci: dict):
-    epg_id_map = {ch['ci']: f"{slugify(ch['cn'])}.de" for ch in channels}
+def channel_logo_url(sid: str, name: str) -> str:
+    # The image service keys logos on sid + the casefolded alphanumeric name,
+    # e.g. skychb_142skyshowcasehd.
+    slug = ''.join(c for c in name.casefold() if c.isalnum())
+    return LOGO_URL.format(sid=sid, name=slug)
 
+
+def to_xmltv(channels: list, events_by_sid: dict):
     tv = etree.Element('tv')
 
+    # Slugified names can collide (e.g. SD/HD variants); first occurrence wins,
+    # and the services list is ordered by channel number so the main lineup
+    # takes priority.
+    epg_id_map = {}
     for ch in channels:
-        ci = ch['ci']
-        chan_elem = etree.SubElement(tv, 'channel', id=epg_id_map[ci], **{'api-id': str(ci)})
-        etree.SubElement(chan_elem, 'display-name').text = ch['cn']
-        if ch.get('clu'):
-            etree.SubElement(chan_elem, 'icon', src=f"{IMAGE_BASE}{ch['clu']}")
+        sid = ch['sid']
+        epg_id = f"{slugify(ch['t'])}.de"
+        if epg_id in epg_id_map.values():
+            continue
+        epg_id_map[sid] = epg_id
+        chan_elem = etree.SubElement(tv, 'channel', id=epg_id, **{'api-id': str(sid)})
+        etree.SubElement(chan_elem, 'display-name').text = ch['t']
+        etree.SubElement(chan_elem, 'icon', src=channel_logo_url(sid, ch['t']))
 
-    seen_ei = set()
+    seen = set()
     for ch in channels:
-        ci = ch['ci']
-        epg_id = epg_id_map[ci]
-        for ep in broadcasts_by_ci.get(ci, []):
-            ei = ep['ei']
-            if ei in seen_ei or not ep.get('et'):
+        sid = ch['sid']
+        if sid not in epg_id_map:
+            continue
+        epg_id = epg_id_map[sid]
+        for ev in events_by_sid.get(sid, []):
+            eid = ev.get('eid')
+            if (sid, eid) in seen or not ev.get('t') or 'st' not in ev or 'd' not in ev:
                 continue
-            seen_ei.add(ei)
+            seen.add((sid, eid))
+            start_ms = ev['st'] * 1000
+            stop_ms = (ev['st'] + ev['d']) * 1000
             prog_elem = etree.SubElement(tv, 'programme', {
-                'start': ms_to_xmltv_time(ep['bsdt']),
-                'stop': ms_to_xmltv_time(ep['bedt']),
+                'start': ms_to_xmltv_time(start_ms),
+                'stop': ms_to_xmltv_time(stop_ms),
                 'channel': epg_id,
-                'api-channel-id': str(ci),
+                'api-channel-id': str(sid),
             })
-            etree.SubElement(prog_elem, 'title').text = ep['et']
-            epit = ep.get('epit', '')
-            if epit and epit != ep['et']:
-                etree.SubElement(prog_elem, 'sub-title').text = epit
-            sn, en = ep.get('sn'), ep.get('en')
+            etree.SubElement(prog_elem, 'title').text = ev['t']
+            if ev.get('sy'):
+                etree.SubElement(prog_elem, 'desc').text = ev['sy']
+            sn, en = ev.get('seasonnumber'), ev.get('episodenumber')
             if sn and en:
-                try:
-                    ep_num = etree.SubElement(prog_elem, 'episode-num', system='xmltv_ns')
-                    ep_num.text = f'{int(sn) - 1}.{int(en) - 1}.'
-                except ValueError:
-                    pass
-            if ep.get('ec'):
-                etree.SubElement(prog_elem, 'category').text = ep['ec']
-            if ep.get('pu'):
-                img_url = f"{IMAGE_BASE}{ep['pu']}".replace('_s.jpg', '_l.jpg')
-                etree.SubElement(prog_elem, 'icon', src=img_url)
+                ep_num = etree.SubElement(prog_elem, 'episode-num', system='xmltv_ns')
+                ep_num.text = f'{sn - 1}.{en - 1}.'
+            if ev.get('programmeuuid'):
+                icon_url = PROGRAMME_IMAGE_URL.format(uuid=ev['programmeuuid'])
+                etree.SubElement(prog_elem, 'icon', src=icon_url)
 
     return tv
 
 
 def main():
     berlin = ZoneInfo('Europe/Berlin')
-    now = datetime.datetime.now(tz=berlin)
-    today = datetime.datetime(now.year, now.month, now.day, tzinfo=berlin)
+    today = datetime.datetime.now(tz=berlin).date()
 
-    print("Fetching Sky.de channel list...")
+    print("Fetching Sky Q channel list...")
     channels = fetch_channels()
-    channel_ids = [ch['ci'] for ch in channels]
-    print(f"Found {len(channel_ids)} channels")
+    sids = [ch['sid'] for ch in channels]
+    print(f"Found {len(sids)} channels")
 
-    broadcasts_by_ci: dict = {}
+    events_by_sid: dict = {}
     for day_offset in range(3):
         day = today + datetime.timedelta(days=day_offset)
-        date_ms = int(day.timestamp() * 1000)
-        print(f"Fetching broadcasts for {day.date()}...")
-        day_data = fetch_broadcasts(channel_ids, date_ms)
-        for ci, episodes in day_data.items():
-            if ci not in broadcasts_by_ci:
-                broadcasts_by_ci[ci] = []
-            broadcasts_by_ci[ci].extend(episodes)
+        print(f"Fetching broadcasts for {day}...")
+        day_data = fetch_broadcasts(sids, day)
+        for sid, events in day_data.items():
+            events_by_sid.setdefault(sid, []).extend(events)
 
-    tv = to_xmltv(channels, broadcasts_by_ci)
+    tv = to_xmltv(channels, events_by_sid)
     write_xmltv(tv, 'epg_sky.xml')
     print("Sky EPG XMLTV data written to epg_sky.xml")
 
